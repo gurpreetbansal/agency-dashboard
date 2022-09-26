@@ -1,0 +1,18 @@
+Array
+(
+    [0] => https://drayagespecialist.com/reason
+    [1] => https://www.drayagespecialist.com
+    [2] => https://drayagespecialist.com/balance
+    [3] => https://drayagespecialist.com/outsource
+    [4] => https://www.drayagespecialist.com/build
+    [5] => https://www.drayagespecialist.com/blog
+    [6] => https://www.drayagespecialist.com/contact-us
+    [7] => https://www.drayagespecialist.com/what-is-drayage
+    [8] => https://www.drayagespecialist.com/tag/business-process-outsourcing
+    [9] => https://www.drayagespecialist.com/tag/nearshore-team/index.html
+    [10] => https://www.drayagespecialist.com/bpo-and-its-advantages-in-the-drayage-trucking-industry
+    [11] => https://www.drayagespecialist.com/three-tasks-you-should-delegate-to-a-drayage-specialist
+    [12] => https://www.drayagespecialist.com/wp-content/uploads/2021/07/Drayage-Specialist-Terms-and-Conditions.pdf
+    [13] => /search%3Fq%3Dsite:https://drayagespecialist.com/%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+    [14] => https://drayagespecialist.com
+)

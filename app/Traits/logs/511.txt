@@ -1,0 +1,17 @@
+Array
+(
+    [0] => https://coversinplay.us
+    [1] => https://coversinplay.us/gallery
+    [2] => https://coversinplay.us/faq
+    [3] => https://coversinplay.us/blog
+    [4] => https://coversinplay.us/resources
+    [5] => https://coversinplay.us/pool-enclosures
+    [6] => https://coversinplay.us/about-us
+    [7] => https://coversinplay.us/contact-us
+    [8] => https://coversinplay.us/automatic-pool-covers
+    [9] => https://coversinplay.us/retractable-roofing-systems
+    [10] => https://coversinplay.us/wp-content/uploads/2020/08/APR-Page2.pdf
+    [11] => https://coversinplay.us/wp-content/uploads/2020/08/APR-Page1.pdf
+    [12] => https://coversinplay.us/wp-content/uploads/2020/07/cip-pool-enclosures-brochure2.pdf
+    [13] => https://coversinplay.us
+)

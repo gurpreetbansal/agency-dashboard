@@ -1,0 +1,14 @@
+Array
+(
+    [0] => https://www.thrifle.com
+    [1] => https://www.thrifle.com/deals
+    [2] => https://www.thrifle.com/coupons
+    [3] => https://www.thrifle.com/blog
+    [4] => https://www.thrifle.com/military
+    [5] => https://www.thrifle.com/privacy-policy
+    [6] => https://www.thrifle.com/home%3F624b32fbd28f8f8982855d19
+    [7] => https://www.thrifle.com/terms-conditions
+    [8] => https://www.thrifle.com/deals/media/62d2ed8fe5fea647b4c2a0e9
+    [9] => /search%3Fq%3Dsite:https://thrifle.com/%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+    [10] => https://thrifle.com
+)

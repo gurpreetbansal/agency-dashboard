@@ -1,0 +1,29 @@
+Array
+(
+    [0] => https://paragonus.com
+    [1] => https://paragonus.com/services
+    [2] => https://paragonus.com/blog
+    [3] => https://paragonus.com/industry
+    [4] => https://paragonus.com/about-us
+    [5] => https://paragonus.com/email-migration
+    [6] => https://paragonus.com/cybersecurity-assessment
+    [7] => https://paragonus.com/contact-us
+    [8] => https://paragonus.com/support-center
+    [9] => https://paragonus.com/vcio-service
+    [10] => https://paragonus.com/it-services-construction
+    [11] => https://paragonus.com/paragon-cybersecurity-suite
+    [12] => https://paragonus.com/computer-hardware-purchasing
+    [13] => https://paragonus.com/practice-management-support
+    [14] => https://paragonus.com/paragon-performance-plan
+    [15] => https://paragonus.com/industry/it-services-construction
+    [16] => https://paragonus.com/superhero-unmasked-michelle-falanga
+    [17] => https://paragonus.com/industry/it-services-healthcare
+    [18] => https://paragonus.com/voip-support-and-implementation
+    [19] => https://paragonus.com/industry/it-services-financial
+    [20] => https://paragonus.com/industry/it-services-law-firms
+    [21] => https://paragonus.com/legal-software-support-and-training
+    [22] => https://paragonus.com/business-continuity-and-disaster-recovery
+    [23] => https://paragonus.com/email-spam-filtering-and-phishing-prevention
+    [24] => https://paragonus.com
+    [25] => https://paragonus.com/technology-assessment
+)

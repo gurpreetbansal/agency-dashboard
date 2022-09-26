@@ -1,0 +1,7777 @@
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 389
+    [url] => https://www.paramobility.com.au/
+    [audit_id] => 2020
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 390
+    [url] => http://www.bspfloors.com/
+    [audit_id] => 1225
+)
+Array
+(
+    [user_id] => 118
+    [campaign_id] => 433
+    [url] => https://countryhomecreations.com/
+    [audit_id] => 337
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 630
+    [url] => https://mantramdigital.com/
+    [audit_id] => 2156
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 632
+    [url] => https://mrmedia.org/
+    [audit_id] => 173
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 643
+    [url] => https://panelstore.co.nz/
+    [audit_id] => 1882
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 645
+    [url] => https://clearskiestitle.com/
+    [audit_id] => 1238
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 158
+    [url] => https://cha-do.de/
+    [audit_id] => 1971
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 435
+    [url] => https://trtaustralia.com.au
+    [audit_id] => 856
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 437
+    [url] => https://trt.co.nz
+    [audit_id] => 858
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 650
+    [url] => https://www.panighettilaw.com/
+    [audit_id] => 1421
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 653
+    [url] => https://betterworldpets.com/
+    [audit_id] => 1904
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 94
+    [url] => https://www.kralsu.com/
+    [audit_id] => 114
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 100
+    [url] => https://skates.co.uk/
+    [audit_id] => 156
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 120
+    [url] => https://www.shosty.com/
+    [audit_id] => 1071
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 123
+    [url] => https://presidiopestmanagement.com/
+    [audit_id] => 1837
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 126
+    [url] => https://mintwindowsanddoors.com.au/
+    [audit_id] => 594
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 129
+    [url] => https://movingsolutions.com.au/
+    [audit_id] => 1685
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 131
+    [url] => https://www.pridecarpetcleaning.com.au/
+    [audit_id] => 1838
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 133
+    [url] => https://guntiling.com.au/
+    [audit_id] => 1841
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 140
+    [url] => https://shiphype.com/
+    [audit_id] => 654
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 151
+    [url] => https://scrabblewordcheat.com/
+    [audit_id] => 80
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 152
+    [url] => https://3amigos.co/
+    [audit_id] => 566
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 155
+    [url] => https://www.growingcity.com/
+    [audit_id] => 1845
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 168
+    [url] => https://www.hypop.com.au/
+    [audit_id] => 45
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 190
+    [url] => https://globex360.co.za/
+    [audit_id] => 35
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 191
+    [url] => https://customteesdfw.com/
+    [audit_id] => 398
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 193
+    [url] => https://www.ArtGlassSupplies.com/
+    [audit_id] => 729
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 195
+    [url] => https://reithandassociates.com/
+    [audit_id] => 1208
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 222
+    [url] => https://johngplumbing.com/
+    [audit_id] => 1340
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 225
+    [url] => https://magentaflowers.co.uk/
+    [audit_id] => 1082
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 232
+    [url] => https://inheritance-tax.co.uk/
+    [audit_id] => 177
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 240
+    [url] => https://signaturesalonpro.com/
+    [audit_id] => 1848
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 244
+    [url] => https://chinesetranslationservices.co.uk/
+    [audit_id] => 571
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 245
+    [url] => https://kewlabstech.com/
+    [audit_id] => 1481
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 253
+    [url] => https://h2ohcruises.com/
+    [audit_id] => 282
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 259
+    [url] => https://notmyfault.com.au/
+    [audit_id] => 965
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 261
+    [url] => https://mildredhoit.com/
+    [audit_id] => 70
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 262
+    [url] => https://serenitygardentea.com/
+    [audit_id] => 71
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 264
+    [url] => https://cranbrookdentist.ca/
+    [audit_id] => 1849
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 295
+    [url] => https://ticketmanager.com/
+    [audit_id] => 656
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 296
+    [url] => https://www.vapeathome.ca/
+    [audit_id] => 836
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 311
+    [url] => https://nadilaw.ca/
+    [audit_id] => 1544
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 348
+    [url] => https://academymovers.org/
+    [audit_id] => 805
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 644
+    [url] => https://sitcm.edu.au/
+    [audit_id] => 1769
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 656
+    [url] => https://andysasvabclass.com/
+    [audit_id] => 1320
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 663
+    [url] => https://jrsautodetailing.ca/
+    [audit_id] => 1615
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 664
+    [url] => https://prestigecarpetcleaning.ca/
+    [audit_id] => 1932
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 665
+    [url] => https://prestigeductcleaning.ca/
+    [audit_id] => 2099
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 673
+    [url] => https://chromaderm.com.au/
+    [audit_id] => 90
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 674
+    [url] => https://ductus.com.au/
+    [audit_id] => 1503
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 675
+    [url] => https://prettyagile.com/
+    [audit_id] => 1630
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 676
+    [url] => https://tailoredheatingandcooling.com.au/
+    [audit_id] => 909
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 678
+    [url] => https://singaporebestwebdesign.com/
+    [audit_id] => 1487
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 693
+    [url] => http://www.getwetcleaningservices.com/
+    [audit_id] => 1512
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 697
+    [url] => https://leemillerrehab.com/
+    [audit_id] => 134
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 698
+    [url] => https://davidinspector.com/
+    [audit_id] => 1133
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 701
+    [url] => https://www.blackwhitemedia.ca/
+    [audit_id] => 1626
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 704
+    [url] => https://www.thehairfuel.com/
+    [audit_id] => 648
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 707
+    [url] => https://alleghenyapparel.com/
+    [audit_id] => 1906
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2028
+    [url] => https://pranavamschoolofdance.com/
+    [audit_id] => 1231
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2737
+    [url] => https://wootenknockoutplumbing.com/
+    [audit_id] => 810
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2738
+    [url] => https://lelemliving.com/
+    [audit_id] => 1260
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2739
+    [url] => https://midwestcraneservices.com/
+    [audit_id] => 1338
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2740
+    [url] => https://asentdesigns.com/
+    [audit_id] => 423
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2741
+    [url] => https://www.backbeachco.com/
+    [audit_id] => 303
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2742
+    [url] => https://omnionlinestrategies.com/
+    [audit_id] => 1063
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2744
+    [url] => https://tsubaco.com.sg/
+    [audit_id] => 853
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2745
+    [url] => https://immersivelearning.co/
+    [audit_id] => 192
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2746
+    [url] => https://sucrebodysugaring.com/
+    [audit_id] => 920
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2750
+    [url] => http://www.hebervalleypainsolutions.com/
+    [audit_id] => 49
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2751
+    [url] => https://uprisetravel.com/
+    [audit_id] => 749
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2752
+    [url] => https://cstor.com/
+    [audit_id] => 37
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2753
+    [url] => https://ri-insurance.com/
+    [audit_id] => 1361
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2760
+    [url] => https://equinoxpowercleaning.com/
+    [audit_id] => 1115
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2770
+    [url] => https://ctreesremoval.com/
+    [audit_id] => 1161
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2771
+    [url] => https://arrowcr.net/
+    [audit_id] => 73
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2772
+    [url] => https://fashionagentsaustralia.com.au/
+    [audit_id] => 216
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2774
+    [url] => https://xonylons.com/
+    [audit_id] => 744
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2775
+    [url] => https://getdelmar.com/
+    [audit_id] => 180
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2779
+    [url] => https://peterconlanbathrooms.com.au/
+    [audit_id] => 1313
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2785
+    [url] => https://www.whitewisteriabridalboutique.com/
+    [audit_id] => 300
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2786
+    [url] => https://forza.llc/
+    [audit_id] => 1501
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2790
+    [url] => https://deserttoocean.com/
+    [audit_id] => 56
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2791
+    [url] => https://diamondlifegear.com/
+    [audit_id] => 696
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2793
+    [url] => https://axximumfunding.com/
+    [audit_id] => 578
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2801
+    [url] => https://www.glasslizzard.com/
+    [audit_id] => 1083
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2802
+    [url] => https://evchargerreviews.net/
+    [audit_id] => 33
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2804
+    [url] => https://aerotpv.com/
+    [audit_id] => 1345
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2805
+    [url] => http://www.glldubai.com/
+    [audit_id] => 651
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2812
+    [url] => http://the-diamond-banque.myshopify.com
+    [audit_id] => 1344
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2813
+    [url] => https://kterinearce.com/
+    [audit_id] => 51
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2816
+    [url] => https://www.adarehrm.ie/
+    [audit_id] => 949
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2818
+    [url] => https://www.getcracking.ie/
+    [audit_id] => 1157
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2820
+    [url] => https://mtibaths.com/
+    [audit_id] => 1463
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2822
+    [url] => https://completedentalcare.com/
+    [audit_id] => 1160
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2825
+    [url] => https://www.sherwaniking.com/
+    [audit_id] => 273
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2827
+    [url] => https://ergodog.com/
+    [audit_id] => 1525
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2828
+    [url] => https://alliedpg.com/
+    [audit_id] => 356
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2837
+    [url] => https://aofithealth.com/
+    [audit_id] => 950
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2838
+    [url] => https://leadandsteel.co/
+    [audit_id] => 1257
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2840
+    [url] => https://thenannycove.com/
+    [audit_id] => 105
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2842
+    [url] => http://www.cultivatorphytolab.com
+    [audit_id] => 62
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2845
+    [url] => https://jokermedia.com/
+    [audit_id] => 513
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2854
+    [url] => https://seahawkfishing.com/
+    [audit_id] => 691
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2856
+    [url] => https://www.somapsyche.org/
+    [audit_id] => 942
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2857
+    [url] => https://theseptemberproject.com/
+    [audit_id] => 884
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2860
+    [url] => https://metroled.com/
+    [audit_id] => 565
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2862
+    [url] => https://kylemark.ca/
+    [audit_id] => 1756
+)
+Array
+(
+    [user_id] => 31506
+    [campaign_id] => 2863
+    [url] => https://ardenpalmbeach.com/
+    [audit_id] => 560
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2865
+    [url] => https://www.epicautomotivecollection.com/
+    [audit_id] => 1410
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2866
+    [url] => https://www.hivizbiz.com.au/
+    [audit_id] => 725
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2868
+    [url] => https://www.octanesolutions.com.au/
+    [audit_id] => 1712
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2872
+    [url] => https://howlplumbinganddrainage.com/
+    [audit_id] => 1365
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2874
+    [url] => https://gravesthomas.com/
+    [audit_id] => 1003
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2880
+    [url] => https://tellezplastering.com/
+    [audit_id] => 898
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2885
+    [url] => https://homestudiohub.com/
+    [audit_id] => 1051
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2895
+    [url] => https://playerwear.com/
+    [audit_id] => 320
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2897
+    [url] => https://sammyswoodland.com/
+    [audit_id] => 1122
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2898
+    [url] => https://chinesetranslationservices.com/
+    [audit_id] => 466
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2680
+    [url] => https://brunosmiles.com/
+    [audit_id] => 1369
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2901
+    [url] => https://ecoledmart.com/
+    [audit_id] => 1418
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2904
+    [url] => https://www.sonyabowman.com/
+    [audit_id] => 935
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2905
+    [url] => https://psychic-window.com/
+    [audit_id] => 1206
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2906
+    [url] => https://tonyandmunro.com/
+    [audit_id] => 871
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2907
+    [url] => https://www.flanagan.ca
+    [audit_id] => 364
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2910
+    [url] => https://coffins-direct.co.uk/
+    [audit_id] => 1102
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2911
+    [url] => https://www.myliving24.ch/
+    [audit_id] => 1078
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2912
+    [url] => http://www.404movers.com/
+    [audit_id] => 374
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2913
+    [url] => https://www.ommdvd.com/
+    [audit_id] => 798
+)
+Array
+(
+    [user_id] => 31491
+    [campaign_id] => 2914
+    [url] => https://imarkinfotech.com/
+    [audit_id] => 377
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2920
+    [url] => https://www.windowreplacementgroup.com/
+    [audit_id] => 815
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2921
+    [url] => https://dentistsofivanhoe.com.au/
+    [audit_id] => 1127
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2922
+    [url] => https://www.marcelomovers.com/
+    [audit_id] => 1031
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2923
+    [url] => https://bluesky-outdoor.com/
+    [audit_id] => 494
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2926
+    [url] => https://store.printedinus.com
+    [audit_id] => 925
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2927
+    [url] => https://www.kohliklicks.com/
+    [audit_id] => 1553
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2928
+    [url] => https://www.struxurebybluesky.com/
+    [audit_id] => 590
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2932
+    [url] => https://weberrecovery.com/
+    [audit_id] => 820
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2939
+    [url] => https://techseek.com.au/
+    [audit_id] => 904
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2940
+    [url] => https://primemobile.se/
+    [audit_id] => 1068
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2941
+    [url] => http://www.leadlion.co/
+    [audit_id] => 625
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2943
+    [url] => https://hackettequipment.com/
+    [audit_id] => 1372
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2947
+    [url] => https://infinitysewing.co.uk/
+    [audit_id] => 1152
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2948
+    [url] => http://www.bmwminimds.com/
+    [audit_id] => 1459
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2950
+    [url] => https://timelytext.com/
+    [audit_id] => 874
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2951
+    [url] => https://tabooze.com.au/
+    [audit_id] => 910
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2953
+    [url] => https://craftbodyscan.com/
+    [audit_id] => 1328
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2958
+    [url] => http://www.mindsetmedia.ca/
+    [audit_id] => 1376
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2959
+    [url] => https://bardotbeauty.ca/
+    [audit_id] => 1383
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2960
+    [url] => https://truebook.io/
+    [audit_id] => 854
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2961
+    [url] => https://sophrosynedream.com/
+    [audit_id] => 938
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2963
+    [url] => https://flgxfl.com/
+    [audit_id] => 1411
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2964
+    [url] => https://maxsolar.com.au/
+    [audit_id] => 568
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2965
+    [url] => https://rgwinter.com/
+    [audit_id] => 450
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2966
+    [url] => https://www.supremeshowers.com/
+    [audit_id] => 453
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2978
+    [url] => https://2damcreative.com/
+    [audit_id] => 801
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2980
+    [url] => https://sersa.com.py/
+    [audit_id] => 463
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2997
+    [url] => https://keyprimeroofing.com/
+    [audit_id] => 588
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2998
+    [url] => https://deephousecleaning.co.uk/
+    [audit_id] => 1138
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3002
+    [url] => https://firmuz.com/
+    [audit_id] => 1642
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3003
+    [url] => https://www.amonax.com/
+    [audit_id] => 1075
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3004
+    [url] => https://hanleysfurniture.ie/
+    [audit_id] => 1154
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3005
+    [url] => https://www.officelogixshop.com/
+    [audit_id] => 1284
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3011
+    [url] => https://www.mountaintactical.com/
+    [audit_id] => 702
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3012
+    [url] => https://vivahr.com/
+    [audit_id] => 833
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3014
+    [url] => https://jpfranklinroofing.co.nz/
+    [audit_id] => 582
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3018
+    [url] => https://healthymakeup.co.nz/
+    [audit_id] => 912
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3019
+    [url] => https://www.matchfragrances.co.uk/
+    [audit_id] => 1134
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3020
+    [url] => https://alexmendozalaw.com/
+    [audit_id] => 1084
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3021
+    [url] => https://tradewarehouse.co.uk/
+    [audit_id] => 795
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3028
+    [url] => https://ev-lectron.com/
+    [audit_id] => 1204
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3029
+    [url] => https://wasserstein-home.com/
+    [audit_id] => 827
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3031
+    [url] => https://the-sporting-collective.com/
+    [audit_id] => 893
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3035
+    [url] => https://mydecomarketing.com/
+    [audit_id] => 1245
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3038
+    [url] => http://www.sevenlevels.me/
+    [audit_id] => 1289
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3039
+    [url] => https://wordflirt.com/
+    [audit_id] => 748
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3042
+    [url] => https://nomadkiteevents.com/
+    [audit_id] => 768
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3046
+    [url] => https://clearwaterofnewengland.com/
+    [audit_id] => 655
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3048
+    [url] => https://artsyeinstein.com/
+    [audit_id] => 1136
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3049
+    [url] => https://inflatablepoolreview.com/
+    [audit_id] => 1139
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3050
+    [url] => https://ironedgevc.com/
+    [audit_id] => 1085
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3051
+    [url] => https://krackwins.com/
+    [audit_id] => 716
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3052
+    [url] => https://www.threecrownselectric.com/
+    [audit_id] => 880
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3055
+    [url] => https://aurorasstudio.com/
+    [audit_id] => 1251
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3057
+    [url] => https://www.thewardrobe.com.au/
+    [audit_id] => 885
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3058
+    [url] => https://parkerrussell.co.uk/
+    [audit_id] => 1195
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3062
+    [url] => https://everzocial.com/
+    [audit_id] => 717
+)
+Array
+(
+    [user_id] => 31528
+    [campaign_id] => 3063
+    [url] => https://techmahindra.com/
+    [audit_id] => 659
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3064
+    [url] => https://ecoadvantagenc.com/
+    [audit_id] => 662
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3071
+    [url] => http://www.trainingforcleaners.com/
+    [audit_id] => 863
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3072
+    [url] => https://www.topellicottcitydentists.com/
+    [audit_id] => 699
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3074
+    [url] => https://ezstreetasphalt.com.au/
+    [audit_id] => 1581
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3075
+    [url] => https://amytaylorcollection.com/
+    [audit_id] => 1132
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3077
+    [url] => https://dentistathealthlink.com.au/
+    [audit_id] => 1580
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3080
+    [url] => https://www.intech-hawaii.com/
+    [audit_id] => 1216
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3081
+    [url] => https://unadio.com/
+    [audit_id] => 1394
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3082
+    [url] => https://hydroonline.com.au/
+    [audit_id] => 1000
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3083
+    [url] => https://fiberplans.onlinebooth.ph/
+    [audit_id] => 1671
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3087
+    [url] => https://stratique.com/
+    [audit_id] => 1332
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3088
+    [url] => https://www.renue.healthcare/
+    [audit_id] => 1335
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3089
+    [url] => https://nftwatcher.net/
+    [audit_id] => 1236
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3092
+    [url] => https://apol.sg/
+    [audit_id] => 704
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3100
+    [url] => https://www.bakerue.com/
+    [audit_id] => 1203
+)
+Array
+(
+    [user_id] => 31529
+    [campaign_id] => 3103
+    [url] => https://moshield.com/
+    [audit_id] => 1129
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3104
+    [url] => https://brightsocialagency.com/
+    [audit_id] => 991
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3105
+    [url] => https://theweekendgenius.com/
+    [audit_id] => 882
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3106
+    [url] => http://www.byluxedesign.com/
+    [audit_id] => 1486
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3110
+    [url] => https://www.allpersonalization.com/
+    [audit_id] => 1508
+)
+Array
+(
+    [user_id] => 31529
+    [campaign_id] => 3111
+    [url] => https://telolife.us/
+    [audit_id] => 724
+)
+Array
+(
+    [user_id] => 31534
+    [campaign_id] => 3113
+    [url] => https://imarkinfotech.com/
+    [audit_id] => 727
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3115
+    [url] => https://igottagetawig.com/
+    [audit_id] => 1782
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3117
+    [url] => https://condojunkie.ca/
+    [audit_id] => 962
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3123
+    [url] => https://www.canadianparvasi.com/
+    [audit_id] => 1354
+)
+Array
+(
+    [user_id] => 31536
+    [campaign_id] => 3124
+    [url] => https://imarkinfotech.com/
+    [audit_id] => 734
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3125
+    [url] => https://medcpd.com/
+    [audit_id] => 1117
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3126
+    [url] => https://dfwdentalmarketing.com/
+    [audit_id] => 1179
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3127
+    [url] => https://piscinasdaniel.com/
+    [audit_id] => 988
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3128
+    [url] => https://theartandmirrorhangingcompany.com/
+    [audit_id] => 1776
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3132
+    [url] => https://www.reiskip.com
+    [audit_id] => 963
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3139
+    [url] => https://humandesignlifemanual.com/
+    [audit_id] => 955
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3140
+    [url] => https://aerangis.com/
+    [audit_id] => 982
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3141
+    [url] => https://concretepoxy101.com/
+    [audit_id] => 983
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3142
+    [url] => http://www.schultzdieselsports.com/
+    [audit_id] => 984
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3143
+    [url] => https://mylifetimehome.ca/
+    [audit_id] => 985
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3144
+    [url] => https://thomasbuilthomes.com/
+    [audit_id] => 986
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3145
+    [url] => https://www.aovonlinevergelijken.nl/
+    [audit_id] => 956
+)
+Array
+(
+    [user_id] => 31542
+    [campaign_id] => 3150
+    [url] => https://imarkinfotech.com/
+    [audit_id] => 775
+)
+Array
+(
+    [user_id] => 31543
+    [campaign_id] => 3152
+    [url] => https://techmahindra.com/
+    [audit_id] => 776
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3153
+    [url] => https://bossed.co.nz/
+    [audit_id] => 779
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3156
+    [url] => https://elatt.org.uk/
+    [audit_id] => 978
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3158
+    [url] => https://lucemedia.net/
+    [audit_id] => 1233
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3162
+    [url] => https://candflawyers.com.au/
+    [audit_id] => 953
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3163
+    [url] => https://livewireenergy.ca/
+    [audit_id] => 975
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2465
+    [url] => https://undressedboutique.com/
+    [audit_id] => 847
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3164
+    [url] => https://releviimed.com/
+    [audit_id] => 976
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3166
+    [url] => https://botikaco.com.au/
+    [audit_id] => 1252
+)
+Array
+(
+    [user_id] => 31549
+    [campaign_id] => 3167
+    [url] => https://auguron.com/
+    [audit_id] => 995
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3170
+    [url] => https://igniterecruitmentcn.com/
+    [audit_id] => 1191
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3175
+    [url] => https://digitalchef.com.au/
+    [audit_id] => 1286
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3176
+    [url] => https://josechavez.com.au/
+    [audit_id] => 1288
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3178
+    [url] => https://water.coway-usa.com/
+    [audit_id] => 1098
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3179
+    [url] => https://seo1337.com/
+    [audit_id] => 1103
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3181
+    [url] => https://iagnes.com/
+    [audit_id] => 1221
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3183
+    [url] => https://metapowersolutions.com/
+    [audit_id] => 1104
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3186
+    [url] => https://www.factvsfitness.com/
+    [audit_id] => 1402
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3188
+    [url] => https://www.fanthorpes.co.uk/
+    [audit_id] => 1232
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3189
+    [url] => https://www.ampleitsolutions.com.au/
+    [audit_id] => 1343
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3191
+    [url] => https://aceplustaxresolution.com/
+    [audit_id] => 1197
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3192
+    [url] => https://panoramaconcrete.com.au/
+    [audit_id] => 1200
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3194
+    [url] => https://labellrealestate.com/
+    [audit_id] => 1207
+)
+Array
+(
+    [user_id] => 31539
+    [campaign_id] => 3195
+    [url] => https://www.directimpactsolutions.com/
+    [audit_id] => 1209
+)
+Array
+(
+    [user_id] => 31562
+    [campaign_id] => 3196
+    [url] => https://bitterrootinvestigations.com/
+    [audit_id] => 1214
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3200
+    [url] => https://www.shellievdesigns.com/
+    [audit_id] => 1446
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3204
+    [url] => https://wavtouch.com/
+    [audit_id] => 1387
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3206
+    [url] => https://thrifle.com/
+    [audit_id] => 1308
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3207
+    [url] => https://dwights.co.nz/
+    [audit_id] => 1666
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3210
+    [url] => https://airxtremellc.com/
+    [audit_id] => 1358
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3212
+    [url] => https://egaragesystems.com.au/
+    [audit_id] => 1517
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3216
+    [url] => http://www.219group.com
+    [audit_id] => 1299
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3217
+    [url] => http://www.themashhouse.com/
+    [audit_id] => 1445
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3219
+    [url] => https://cmijewelry.com/
+    [audit_id] => 1301
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3220
+    [url] => https://canimalhospitalnc.com/
+    [audit_id] => 1300
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3221
+    [url] => http://www.hurleyinsurancegroup.com/
+    [audit_id] => 1303
+)
+Array
+(
+    [user_id] => 31529
+    [campaign_id] => 3224
+    [url] => https://meiladigital.com/
+    [audit_id] => 1292
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3226
+    [url] => https://702pros.com/
+    [audit_id] => 1738
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3227
+    [url] => https://www.himgsurfacerepair.com/
+    [audit_id] => 1295
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3229
+    [url] => https://www.yourankwell.ca/
+    [audit_id] => 1297
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3230
+    [url] => https://longoria.law/
+    [audit_id] => 1298
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3232
+    [url] => https://pricedrightglassltd.co.nz/
+    [audit_id] => 1304
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3235
+    [url] => https://wefunder.com/
+    [audit_id] => 1312
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3236
+    [url] => https://regenmedky.com/
+    [audit_id] => 1314
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3237
+    [url] => https://psbushings.com/
+    [audit_id] => 1316
+)
+Array
+(
+    [user_id] => 31529
+    [campaign_id] => 3238
+    [url] => https://testingxperts.com/
+    [audit_id] => 1318
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3239
+    [url] => https://greenattic.com/
+    [audit_id] => 1339
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3241
+    [url] => https://buybackloans.com.au/
+    [audit_id] => 1576
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3243
+    [url] => https://riverinadairy.com/
+    [audit_id] => 1399
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3244
+    [url] => https://fineleatherfurniture.com/
+    [audit_id] => 1400
+)
+Array
+(
+    [user_id] => 31567
+    [campaign_id] => 3245
+    [url] => https://go88vn.site/
+    [audit_id] => 1403
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3246
+    [url] => https://petramix.com/
+    [audit_id] => 1404
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3247
+    [url] => https://www.businessacademy-online.com/
+    [audit_id] => 1405
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3248
+    [url] => https://antojitosdetupais.com/
+    [audit_id] => 1407
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3249
+    [url] => https://ecodenj.com/
+    [audit_id] => 1423
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3251
+    [url] => https://leadingimage.com.au/
+    [audit_id] => 1425
+)
+Array
+(
+    [user_id] => 31570
+    [campaign_id] => 3252
+    [url] => https://industrykitchens.com.au/
+    [audit_id] => 1426
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3253
+    [url] => https://cumberlandresortandspa.com/
+    [audit_id] => 1429
+)
+Array
+(
+    [user_id] => 31572
+    [campaign_id] => 3254
+    [url] => https://www.sail-croatia.com/
+    [audit_id] => 1441
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3255
+    [url] => https://fitmeals4u.net/
+    [audit_id] => 1442
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3256
+    [url] => https://summitmddermatology.com/
+    [audit_id] => 1443
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3257
+    [url] => https://www.tribetravel.com.au/
+    [audit_id] => 1452
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3259
+    [url] => https://amicusint.ca/
+    [audit_id] => 1465
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3260
+    [url] => https://www.lovenightshift.com.au/
+    [audit_id] => 1470
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3261
+    [url] => https://www.tutorsandservices.com/
+    [audit_id] => 1472
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3262
+    [url] => https://allwaysproperty.co.nz/
+    [audit_id] => 1467
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3263
+    [url] => https://www.arlox.io/
+    [audit_id] => 1476
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3264
+    [url] => https://haochinesetuition.com/
+    [audit_id] => 1477
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3266
+    [url] => https://anbpartyrentals.com/
+    [audit_id] => 1490
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3268
+    [url] => https://cannabisforthailand.com/
+    [audit_id] => 1493
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3269
+    [url] => https://www.animalwellbeingcentre.com/
+    [audit_id] => 1494
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3270
+    [url] => https://capefearortho.com/
+    [audit_id] => 1505
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3271
+    [url] => https://lwcoleelectricalservices.co.uk/
+    [audit_id] => 1510
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3272
+    [url] => https://urhomeinuk.com/
+    [audit_id] => 1511
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3275
+    [url] => https://govn365.com/
+    [audit_id] => 1524
+)
+Array
+(
+    [user_id] => 31578
+    [campaign_id] => 3283
+    [url] => https://worldwebtool.com/
+    [audit_id] => 1535
+)
+Array
+(
+    [user_id] => 31580
+    [campaign_id] => 3285
+    [url] => https://thecoopergroup.co.nz/
+    [audit_id] => 1537
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3288
+    [url] => https://marketingheadcoach.com/
+    [audit_id] => 1547
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3290
+    [url] => https://itempnews.org/
+    [audit_id] => 1549
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3292
+    [url] => https://revelnationcarnival.com/
+    [audit_id] => 1552
+)
+Array
+(
+    [user_id] => 31581
+    [campaign_id] => 3293
+    [url] => https://abeltasman.com/
+    [audit_id] => 1554
+)
+Array
+(
+    [user_id] => 31529
+    [campaign_id] => 3294
+    [url] => https://aromaqueen.nu/
+    [audit_id] => 1557
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3295
+    [url] => https://cloudhostltd.com/
+    [audit_id] => 1559
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3302
+    [url] => https://zendata.xyz/
+    [audit_id] => 1562
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3303
+    [url] => https://www.idigitalweb.au/
+    [audit_id] => 1563
+)
+Array
+(
+    [user_id] => 31579
+    [campaign_id] => 3289
+    [url] => https://abeltasman.com/
+    [audit_id] => 1574
+)
+Array
+(
+    [user_id] => 31584
+    [campaign_id] => 3306
+    [url] => https://www.manfroiimoveis.com.br/
+    [audit_id] => 1566
+)
+Array
+(
+    [user_id] => 31585
+    [campaign_id] => 3307
+    [url] => https://www.eyecaresuperior.com/
+    [audit_id] => 1567
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3308
+    [url] => http://www.masonconcreting.com.au/
+    [audit_id] => 1568
+)
+Array
+(
+    [user_id] => 31586
+    [campaign_id] => 3310
+    [url] => https://aromaqueen.nu/
+    [audit_id] => 1569
+)
+Array
+(
+    [user_id] => 31587
+    [campaign_id] => 3311
+    [url] => https://aromaqueen.nu/
+    [audit_id] => 1570
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3312
+    [url] => https://www.venomemilio.com.au/
+    [audit_id] => 1637
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3313
+    [url] => https://rockerskirack.com/
+    [audit_id] => 1578
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3314
+    [url] => https://cheekymunchkinselc.com.au/
+    [audit_id] => 1579
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3315
+    [url] => https://www.theelegantoffice.com/
+    [audit_id] => 1582
+)
+Array
+(
+    [user_id] => 31588
+    [campaign_id] => 3316
+    [url] => https://www.hypop.com.au/
+    [audit_id] => 1587
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3317
+    [url] => https://allwheelsrentals.com.au/
+    [audit_id] => 1589
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3318
+    [url] => https://docks4u.com/
+    [audit_id] => 1591
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3319
+    [url] => https://atriadentalgordon.com.au/
+    [audit_id] => 1595
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3322
+    [url] => https://reputablemoving.com/
+    [audit_id] => 1599
+)
+Array
+(
+    [user_id] => 31589
+    [campaign_id] => 3323
+    [url] => https://imarkinfotech.com/
+    [audit_id] => 1600
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3325
+    [url] => https://totaleclipseagency.com.au/
+    [audit_id] => 1601
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3326
+    [url] => https://www.maisonovo.com/
+    [audit_id] => 1602
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3327
+    [url] => https://padulamedia.com/
+    [audit_id] => 1603
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3328
+    [url] => https://cjroofingservices.ie/
+    [audit_id] => 1606
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3329
+    [url] => https://aurora-sterilisation.com/
+    [audit_id] => 1607
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3330
+    [url] => http://www.networksecurity.ie/
+    [audit_id] => 1608
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3331
+    [url] => https://blackeagletree.com/
+    [audit_id] => 1612
+)
+Array
+(
+    [user_id] => 31596
+    [campaign_id] => 3332
+    [url] => https://zojax.com/
+    [audit_id] => 1614
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3333
+    [url] => https://naturevibe.com/
+    [audit_id] => 1616
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3334
+    [url] => https://belairefencing.co.nz/
+    [audit_id] => 1617
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3335
+    [url] => https://oasisumbrella.co.uk/
+    [audit_id] => 1620
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3336
+    [url] => https://www.discreetplasticsurgery.com/
+    [audit_id] => 1621
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3337
+    [url] => https://docrokit.com/
+    [audit_id] => 1624
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 31597
+    [campaign_id] => 3345
+    [url] => https://www.hypop.com.au/
+    [audit_id] => 1633
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3346
+    [url] => https://homeinspectionsanantonio.biz/
+    [audit_id] => 1635
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3353
+    [url] => https://www.ibtevolve.com/
+    [audit_id] => 1646
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3357
+    [url] => https://www.maisondefemmes.com/
+    [audit_id] => 1654
+)
+Array
+(
+    [user_id] => 31599
+    [campaign_id] => 3358
+    [url] => https://thedawnrehab.com/
+    [audit_id] => 1656
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3359
+    [url] => https://www.varneyinc.com/
+    [audit_id] => 1657
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3360
+    [url] => https://cosmeticinkartistry.com/
+    [audit_id] => 1806
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3361
+    [url] => https://car-one.com.au/
+    [audit_id] => 1659
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3362
+    [url] => https://arlixandhufie.com.au/
+    [audit_id] => 1660
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3363
+    [url] => https://potsmart.net/
+    [audit_id] => 1661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3364
+    [url] => https://www.itrade.net/
+    [audit_id] => 1662
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3366
+    [url] => https://esperanzamb.com/
+    [audit_id] => 1663
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3367
+    [url] => https://downloadthis.com/
+    [audit_id] => 1664
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3368
+    [url] => https://knowledgebyniki.com/
+    [audit_id] => 1667
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3274
+    [url] => https://www.bdbmarketingdesign.com/
+    [audit_id] => 1520
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3370
+    [url] => https://rinnovision.com/
+    [audit_id] => 1669
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3371
+    [url] => https://panamajoes.net/
+    [audit_id] => 1670
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3372
+    [url] => http://www.countryco.com.au/
+    [audit_id] => 1673
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3373
+    [url] => http://www.eastcoasttreeservices.com/
+    [audit_id] => 1674
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3374
+    [url] => https://dallegal.com/
+    [audit_id] => 1675
+)
+Array
+(
+    [user_id] => 31602
+    [campaign_id] => 3375
+    [url] => https://platinumseoservices.com.au/
+    [audit_id] => 1678
+)
+Array
+(
+    [user_id] => 31602
+    [campaign_id] => 3376
+    [url] => https://platinum.agencydashboard.io/
+    [audit_id] => 1679
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3377
+    [url] => https://www.hook360.com/
+    [audit_id] => 1680
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3378
+    [url] => https://www.jaafarelannanmd.com/
+    [audit_id] => 1681
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3379
+    [url] => https://gssgllc.com/
+    [audit_id] => 1682
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3380
+    [url] => https://www.velocityhcm.com/
+    [audit_id] => 1683
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3382
+    [url] => https://pelspiral.com/
+    [audit_id] => 1687
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3383
+    [url] => https://doctorrefresh.com/
+    [audit_id] => 1688
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3384
+    [url] => https://sharkeez.net/
+    [audit_id] => 1689
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3385
+    [url] => https://tkh2odrip.com/
+    [audit_id] => 1690
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3386
+    [url] => https://enzolux.com/
+    [audit_id] => 1691
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3388
+    [url] => https://hisglory.me/
+    [audit_id] => 1693
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3390
+    [url] => https://icarefuneral.com/
+    [audit_id] => 1695
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3391
+    [url] => https://tower12hb.com/
+    [audit_id] => 1696
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3392
+    [url] => https://palmillarestaurant.com/
+    [audit_id] => 1697
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3393
+    [url] => https://nerdyapegaming.com/
+    [audit_id] => 1698
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3394
+    [url] => https://halifax-consulting.com/
+    [audit_id] => 1700
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3396
+    [url] => https://sureshine.ca/
+    [audit_id] => 1702
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3397
+    [url] => https://snail-world.com/
+    [audit_id] => 1703
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3398
+    [url] => http://www.sugpiaqseafood.com/
+    [audit_id] => 1704
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3403
+    [url] => https://yteevents.com/
+    [audit_id] => 1707
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3404
+    [url] => https://flooringmasters.com/
+    [audit_id] => 1708
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3409
+    [url] => https://domiamia.com/
+    [audit_id] => 1715
+)
+Array
+(
+    [user_id] => 31605
+    [campaign_id] => 3411
+    [url] => https://dcvakkleding.nl/
+    [audit_id] => 1719
+)
+Array
+(
+    [user_id] => 31607
+    [campaign_id] => 3413
+    [url] => https://fineleatherfurniture.com/
+    [audit_id] => 1721
+)
+Array
+(
+    [user_id] => 31607
+    [campaign_id] => 3414
+    [url] => https://entoapparel.com/
+    [audit_id] => 1722
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3415
+    [url] => https://www.theindiecollab.com/
+    [audit_id] => 1725
+)
+Array
+(
+    [user_id] => 31608
+    [campaign_id] => 3416
+    [url] => https://xsportswears.com/
+    [audit_id] => 1726
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3417
+    [url] => https://altida.co.uk/
+    [audit_id] => 1727
+)
+Array
+(
+    [user_id] => 31609
+    [campaign_id] => 3418
+    [url] => https://kingsoftz.com/
+    [audit_id] => 1729
+)
+Array
+(
+    [user_id] => 31610
+    [campaign_id] => 3419
+    [url] => https://www.sgluxurycondo.com/
+    [audit_id] => 1730
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3421
+    [url] => https://australianenergyupgrades.com.au/
+    [audit_id] => 1865
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3423
+    [url] => https://www.neonsigndesign.com.au/
+    [audit_id] => 1733
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3424
+    [url] => https://miltonkeyneswindowcleaning.co.uk/
+    [audit_id] => 1734
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3425
+    [url] => https://goodoil.marketing/
+    [audit_id] => 1736
+)
+Array
+(
+    [user_id] => 31615
+    [campaign_id] => 3427
+    [url] => https://vineconcepts.com/
+    [audit_id] => 1743
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3428
+    [url] => https://www.futurecolossal.com/
+    [audit_id] => 1744
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3429
+    [url] => https://www.bluespoonconsulting.com/
+    [audit_id] => 1745
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3430
+    [url] => https://verticalcpa.ca/
+    [audit_id] => 1748
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3431
+    [url] => https://www.builtamericanequipment.com/
+    [audit_id] => 1749
+)
+Array
+(
+    [user_id] => 31617
+    [campaign_id] => 3432
+    [url] => https://www.jlpe.com.au/
+    [audit_id] => 1750
+)
+Array
+(
+    [user_id] => 31619
+    [campaign_id] => 3433
+    [url] => https://testingxperts.com/
+    [audit_id] => 1751
+)
+Array
+(
+    [user_id] => 31622
+    [campaign_id] => 3434
+    [url] => https://dtsupplier.com/
+    [audit_id] => 1752
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3436
+    [url] => https://www.ledolci.com/
+    [audit_id] => 1754
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3437
+    [url] => https://torontoproperty.ca/
+    [audit_id] => 1755
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3439
+    [url] => http://www.sralawonline.com/
+    [audit_id] => 1758
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3440
+    [url] => https://trady.com/
+    [audit_id] => 1762
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3441
+    [url] => https://rmg.io/
+    [audit_id] => 1763
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3442
+    [url] => https://www.futureproofcreative.co.uk/
+    [audit_id] => 1764
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3443
+    [url] => https://mahaloecoblinds.com.au/
+    [audit_id] => 1765
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3444
+    [url] => https://billhicksjewellery.com.au/
+    [audit_id] => 1767
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3445
+    [url] => https://wasatchneurotherapy.com/
+    [audit_id] => 1768
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3446
+    [url] => https://joshuasbuilders.com/
+    [audit_id] => 1773
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3447
+    [url] => https://www.washingtoninterventionalpsychiatry.com/
+    [audit_id] => 1775
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3448
+    [url] => https://wrkshp.dev/
+    [audit_id] => 1780
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3449
+    [url] => https://highpointgps.com/
+    [audit_id] => 1781
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3450
+    [url] => https://5starfinishes.ca/
+    [audit_id] => 1783
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3451
+    [url] => https://sacleanwater.com/
+    [audit_id] => 1784
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3452
+    [url] => http://www.kungfuforlife.ca/
+    [audit_id] => 1786
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3453
+    [url] => https://spa-escape.ca/
+    [audit_id] => 1785
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3456
+    [url] => https://texasnerveandspine.com/
+    [audit_id] => 1789
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3457
+    [url] => https://wichitadesigns.com/
+    [audit_id] => 1790
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3458
+    [url] => https://gregghumeelectrical.com.au/
+    [audit_id] => 1791
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3459
+    [url] => https://atelierforma.ca/
+    [audit_id] => 1792
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3460
+    [url] => https://www.jasonlittlewriting.com/
+    [audit_id] => 1793
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3461
+    [url] => https://bigredknives.com/
+    [audit_id] => 1794
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3462
+    [url] => https://tvwallinstallation.com/
+    [audit_id] => 1795
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3464
+    [url] => https://ealegal.com.au/
+    [audit_id] => 1797
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3466
+    [url] => https://drayagespecialist.com/
+    [audit_id] => 1800
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3467
+    [url] => http://www.loomislittlefieldfarms.com/
+    [audit_id] => 1801
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3468
+    [url] => https://www.kingdomproperties.ae/
+    [audit_id] => 1802
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3469
+    [url] => https://irepairmobiles.co.uk/
+    [audit_id] => 1803
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3470
+    [url] => https://slimnowmd.net/
+    [audit_id] => 1804
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3471
+    [url] => https://jmmagic.com/
+    [audit_id] => 1805
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3472
+    [url] => https://happypantsnyc.com/
+    [audit_id] => 1807
+)
+Array
+(
+    [user_id] => 31646
+    [campaign_id] => 3473
+    [url] => https://ausomes.com/
+    [audit_id] => 1808
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3475
+    [url] => https://www.seconcretecutting.com.au/
+    [audit_id] => 1810
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3476
+    [url] => https://loadoutroom.com/
+    [audit_id] => 1811
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3477
+    [url] => https://endyourif.com/
+    [audit_id] => 1812
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3478
+    [url] => https://www.fabricasparapiensos.es/
+    [audit_id] => 1813
+)
+Array
+(
+    [user_id] => 31640
+    [campaign_id] => 3479
+    [url] => https://belmont-web.com/
+    [audit_id] => 1814
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3483
+    [url] => https://findtheflo.com/
+    [audit_id] => 1818
+)
+Array
+(
+    [user_id] => 31651
+    [campaign_id] => 3484
+    [url] => https://gettingontheladder.co.uk/
+    [audit_id] => 1819
+)
+Array
+(
+    [user_id] => 31652
+    [campaign_id] => 3486
+    [url] => https://www.venuswires.com/
+    [audit_id] => 1821
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3487
+    [url] => https://hhcleans.com/
+    [audit_id] => 1822
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3488
+    [url] => https://happyfamilychiropractic.com/
+    [audit_id] => 1823
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3489
+    [url] => https://aacm.edu.au/
+    [audit_id] => 1824
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3490
+    [url] => https://apac.edu.au/
+    [audit_id] => 1825
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3491
+    [url] => https://xforceusa.com/
+    [audit_id] => 1826
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3492
+    [url] => https://kambusinesssolutions.com/
+    [audit_id] => 1827
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3347
+    [url] => https://terrencesweeney.com/
+    [audit_id] => 1636
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3493
+    [url] => https://cmitsolutions.com/
+    [audit_id] => 1828
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3494
+    [url] => https://www.millie-group.com/
+    [audit_id] => 1829
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3495
+    [url] => https://personalizedcarecoord.com/
+    [audit_id] => 1830
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3496
+    [url] => https://maphabit.com/
+    [audit_id] => 1831
+)
+Array
+(
+    [user_id] => 31653
+    [campaign_id] => 3497
+    [url] => https://pnmgroup.co/
+    [audit_id] => 1832
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3499
+    [url] => https://klobbi.com/
+    [audit_id] => 1834
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3500
+    [url] => https://brandlistverse.com/
+    [audit_id] => 1836
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3502
+    [url] => https://covegc.com/
+    [audit_id] => 1842
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3503
+    [url] => https://www.studiothreegen.com/
+    [audit_id] => 1843
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2909
+    [url] => https://lendalmortgages.co.nz/
+    [audit_id] => 1953
+)
+Array
+(
+    [user_id] => 31654
+    [campaign_id] => 3505
+    [url] => https://hyperdigital.nz/
+    [audit_id] => 1847
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3506
+    [url] => https://www.therapylighthouse.com/
+    [audit_id] => 1861
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3507
+    [url] => https://exer6.org/
+    [audit_id] => 1862
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3508
+    [url] => https://suppscience.com.au/
+    [audit_id] => 1863
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3509
+    [url] => https://jamesshelbydds.com/
+    [audit_id] => 1864
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3512
+    [url] => http://www.nubands.co/
+    [audit_id] => 1868
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3513
+    [url] => https://pieces-sa.com/
+    [audit_id] => 1869
+)
+Array
+(
+    [user_id] => 31655
+    [campaign_id] => 3515
+    [url] => https://onebasemedia.co.uk/
+    [audit_id] => 1872
+)
+Array
+(
+    [user_id] => 31656
+    [campaign_id] => 3517
+    [url] => https://adriantuitt.me/
+    [audit_id] => 1877
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3518
+    [url] => https://www.5280outdoordesigns.com/
+    [audit_id] => 1880
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3519
+    [url] => https://nevadamademarijuana.com/
+    [audit_id] => 1881
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3520
+    [url] => https://walkthrough.so
+    [audit_id] => 1884
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3521
+    [url] => https://www.wallpanelprefab.com/
+    [audit_id] => 1887
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3522
+    [url] => https://stylcase.com/
+    [audit_id] => 1888
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3523
+    [url] => http://www.indiehousedesign.com
+    [audit_id] => 1889
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3524
+    [url] => https://multiclean1.com/
+    [audit_id] => 1890
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 292
+    [url] => https://dearsystems.com/
+    [audit_id] => 1440
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 320
+    [url] => https://95visual.com/
+    [audit_id] => 802
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 323
+    [url] => https://studio.hypop.com.au/
+    [audit_id] => 923
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 331
+    [url] => https://www.solutionsdental.com/
+    [audit_id] => 941
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 334
+    [url] => https://celito.net/
+    [audit_id] => 141
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 335
+    [url] => https://prepatx.com/
+    [audit_id] => 1462
+)
+Array
+(
+    [user_id] => 137
+    [campaign_id] => 339
+    [url] => https://fearless-flyer.com/
+    [audit_id] => 569
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 340
+    [url] => https://www.coegawear.com/
+    [audit_id] => 283
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 344
+    [url] => https://www.myhousedesignbuild.com/
+    [audit_id] => 199
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 347
+    [url] => https://tokencs.ca/
+    [audit_id] => 1850
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 351
+    [url] => https://localseodallas.com/
+    [audit_id] => 1451
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 355
+    [url] => https://bluedotmarketing.ca/
+    [audit_id] => 1382
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 357
+    [url] => https://thaibamboorestaurant.com/
+    [audit_id] => 896
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 391
+    [url] => https://ecofittingvalve.com/
+    [audit_id] => 789
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 422
+    [url] => https://whiteandmason.com.au/
+    [audit_id] => 819
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 510
+    [url] => https://palladium-pdd.com/
+    [audit_id] => 1356
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 511
+    [url] => https://coversinplay.us/
+    [audit_id] => 1357
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 512
+    [url] => https://www.poolenclosures-poolcovers.co.uk/
+    [audit_id] => 1396
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 513
+    [url] => https://poolenclosures-poolcovers.com.au/
+    [audit_id] => 1397
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 522
+    [url] => https://jesspettitt.com/
+    [audit_id] => 1389
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 524
+    [url] => https://americanwi.com/
+    [audit_id] => 509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 525
+    [url] => https://www.leatherland.com.au/
+    [audit_id] => 1170
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 546
+    [url] => https://marinashoreshotel.com/
+    [audit_id] => 1254
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 551
+    [url] => https://junkyardsnearme.net/
+    [audit_id] => 1741
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 554
+    [url] => https://drdorioeyecare.com/
+    [audit_id] => 429
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 558
+    [url] => https://tauntontrades.ca/
+    [audit_id] => 339
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 559
+    [url] => https://qhionline.ca/
+    [audit_id] => 516
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 562
+    [url] => https://mapledentalhygienecare.com/
+    [audit_id] => 274
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 566
+    [url] => https://aaateatowels.com.au/
+    [audit_id] => 804
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 567
+    [url] => https://www.ardensaltsauna.com/
+    [audit_id] => 1321
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 568
+    [url] => https://harkeloffice.com/
+    [audit_id] => 366
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 716
+    [url] => https://aztecaluminumrailings.ca/
+    [audit_id] => 402
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 720
+    [url] => https://wiredforthefuture.com/
+    [audit_id] => 811
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 731
+    [url] => https://macrodynepress.com/
+    [audit_id] => 964
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 737
+    [url] => https://www.paramobility.com.au/
+    [audit_id] => 2152
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 751
+    [url] => https://lmolsoninc.com/
+    [audit_id] => 1255
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 761
+    [url] => https://pace-ri.org/
+    [audit_id] => 194
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 764
+    [url] => https://wilshirequinn.com/
+    [audit_id] => 814
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 766
+    [url] => https://elderlawofaz.com/
+    [audit_id] => 1253
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 782
+    [url] => https://www.quickframes.com/
+    [audit_id] => 2159
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 783
+    [url] => https://primedirecthealth.com/
+    [audit_id] => 36
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 785
+    [url] => https://stuartplumbing.ca/
+    [audit_id] => 384
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 786
+    [url] => https://pwplumbing.ca/
+    [audit_id] => 385
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 791
+    [url] => https://www.techlinelandscaping.com/
+    [audit_id] => 905
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 792
+    [url] => https://coreit.ca/
+    [audit_id] => 1895
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 797
+    [url] => https://tvmounting-houston.com/
+    [audit_id] => 851
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 813
+    [url] => https://cleopatrabeautylounge.com/
+    [audit_id] => 1188
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 822
+    [url] => https://freeformfitness.ca/
+    [audit_id] => 1199
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 824
+    [url] => https://buffalolocksmiths.com.au/
+    [audit_id] => 2160
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 825
+    [url] => https://tyreandwheel.com.au/
+    [audit_id] => 846
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 826
+    [url] => https://minimasterminds.com.au/
+    [audit_id] => 1172
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 827
+    [url] => https://littlezaks.com.au/
+    [audit_id] => 1168
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 830
+    [url] => https://olympuscranes.com.au/
+    [audit_id] => 2161
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 831
+    [url] => https://ryalex.com.au/
+    [audit_id] => 1088
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 832
+    [url] => https://buffalosecurity.com.au/
+    [audit_id] => 1165
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 833
+    [url] => https://stgeorgecranes.com.au/
+    [audit_id] => 927
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 834
+    [url] => https://www.sydneyframelessglass.com.au/
+    [audit_id] => 915
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 835
+    [url] => https://www.poho.com.au/
+    [audit_id] => 2162
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 837
+    [url] => https://www.stylecraftnow.com.au/
+    [audit_id] => 921
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 838
+    [url] => https://sitform.com.au/
+    [audit_id] => 1177
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 839
+    [url] => https://brullen.com.au/
+    [audit_id] => 256
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 841
+    [url] => https://chemron.com.au/
+    [audit_id] => 536
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 836
+    [url] => https://epfamilyclinic.com.au/
+    [audit_id] => 1658
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 842
+    [url] => https://www.edanflowers.com.au/
+    [audit_id] => 1166
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 847
+    [url] => https://autopoolreel.com/
+    [audit_id] => 30
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 852
+    [url] => https://bondiicecreamco.com/
+    [audit_id] => 257
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 853
+    [url] => https://selfpublishingmadeeasynow.com/
+    [audit_id] => 1125
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 854
+    [url] => https://oasiscleaning.co.uk/
+    [audit_id] => 1375
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 858
+    [url] => https://sommwine.com/
+    [audit_id] => 449
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 859
+    [url] => https://arasolutions.com.au/
+    [audit_id] => 2163
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 863
+    [url] => https://thebodyfactory.com.au/
+    [audit_id] => 390
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 865
+    [url] => https://www.ostro-organics.com/
+    [audit_id] => 434
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 867
+    [url] => https://calidad.net.au/
+    [audit_id] => 1835
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 873
+    [url] => https://www.slateroofingaustralia.com.au/
+    [audit_id] => 1770
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 881
+    [url] => copackinc.com
+    [audit_id] => 2165
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 883
+    [url] => http://www.parkdentalbk.com/
+    [audit_id] => 1059
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 884
+    [url] => https://canterburysteelworks.com.au/
+    [audit_id] => 2166
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 885
+    [url] => https://translationsandinterpretations.com.au/
+    [audit_id] => 864
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 886
+    [url] => https://monitorhospital.com.au/
+    [audit_id] => 2167
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 872
+    [url] => https://www.qualturf.com.au/
+    [audit_id] => 2164
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 887
+    [url] => https://palletsexpress.com.au/
+    [audit_id] => 2168
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 889
+    [url] => https://mistermembrane.com.au/
+    [audit_id] => 2169
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 890
+    [url] => https://artofmedicinedirect.com/
+    [audit_id] => 1370
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 891
+    [url] => https://onlinelighting.com.au/
+    [audit_id] => 1175
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 892
+    [url] => https://www.firefoldtech.com/
+    [audit_id] => 1158
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 893
+    [url] => https://www.hawkesburyturf.com.au/
+    [audit_id] => 1162
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 894
+    [url] => https://befoods.com.au/
+    [audit_id] => 1164
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 895
+    [url] => https://www.joemcasphaltservices.com/
+    [audit_id] => 1151
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 896
+    [url] => https://axcesslocksmiths.com.au/
+    [audit_id] => 1347
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 897
+    [url] => https://barnco.com.au/
+    [audit_id] => 2170
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 898
+    [url] => https://medinaeng.com.au/
+    [audit_id] => 2171
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 900
+    [url] => https://nourishmenaturopathy.com.au/
+    [audit_id] => 1416
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 901
+    [url] => https://sydneyphysiosolutions.com.au/
+    [audit_id] => 1417
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 902
+    [url] => https://emersonsenvirocare.com.au/
+    [audit_id] => 1364
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 903
+    [url] => https://ogis.com.au/
+    [audit_id] => 2172
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 904
+    [url] => https://mvcg.com.au/
+    [audit_id] => 1173
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 905
+    [url] => https://newmat.com.au/
+    [audit_id] => 1174
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 906
+    [url] => https://agw.com.au/
+    [audit_id] => 1798
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 907
+    [url] => https://www.alertlocksmiths.com.au/
+    [audit_id] => 270
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 909
+    [url] => https://www.sheeshabuzz.com.au/
+    [audit_id] => 2173
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 911
+    [url] => https://www.athydraulics.com.au/
+    [audit_id] => 1163
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 912
+    [url] => https://aomaus.com.au/
+    [audit_id] => 2174
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 934
+    [url] => https://t40digital.co.uk/
+    [audit_id] => 587
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 937
+    [url] => https://lodgeservice.com/
+    [audit_id] => 640
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 938
+    [url] => https://bubblehockeytable.com/
+    [audit_id] => 131
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 940
+    [url] => https://custompopuptents.com/
+    [audit_id] => 133
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 942
+    [url] => https://cleaneroffices.ca/
+    [audit_id] => 782
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 945
+    [url] => https://onpath.com.au/
+    [audit_id] => 688
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 958
+    [url] => https://animationtech.tv/
+    [audit_id] => 1627
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 968
+    [url] => https://www.comfyworkers.com/
+    [audit_id] => 1327
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 969
+    [url] => https://hi5ortho.com/
+    [audit_id] => 558
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 979
+    [url] => https://www.blendblast.com.au/
+    [audit_id] => 245
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 986
+    [url] => https://tjsrv.com/
+    [audit_id] => 872
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1008
+    [url] => https://kidshinehawaii.com/
+    [audit_id] => 695
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1010
+    [url] => https://cpeguide.com/
+    [audit_id] => 2175
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1012
+    [url] => https://centralofficehcv.com/
+    [audit_id] => 1458
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1041
+    [url] => https://www.sempertax.com/
+    [audit_id] => 2176
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1055
+    [url] => https://naturallighting.com.au/
+    [audit_id] => 1546
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1057
+    [url] => https://applicature.com/
+    [audit_id] => 1622
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1058
+    [url] => https://www.totallinemarking.co.uk/
+    [audit_id] => 866
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1060
+    [url] => https://chicagopneumatic.com.au/
+    [audit_id] => 1412
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1062
+    [url] => https://www.seisorelle.com/
+    [audit_id] => 125
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1070
+    [url] => https://www.rydo.com.au/
+    [audit_id] => 2181
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1092
+    [url] => https://thenetreturn.com.au/
+    [audit_id] => 886
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1109
+    [url] => https://www.waltlife.com/
+    [audit_id] => 831
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1111
+    [url] => https://iexperts.com.au/
+    [audit_id] => 1543
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1125
+    [url] => https://bikelifeisrael.com/
+    [audit_id] => 1050
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1130
+    [url] => https://mealsbychefb.com/
+    [audit_id] => 182
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1131
+    [url] => https://coversinplay.com/
+    [audit_id] => 1269
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1135
+    [url] => https://spcperformancelab.com.au/
+    [audit_id] => 937
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1140
+    [url] => https://www.fctcleaning.com.au/
+    [audit_id] => 1585
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1150
+    [url] => https://youmist.com.au/
+    [audit_id] => 42
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1154
+    [url] => https://buyusedtires.org/
+    [audit_id] => 1742
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1166
+    [url] => https://affordedoors.com/
+    [audit_id] => 1239
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1168
+    [url] => https://vintageacquisitions.com/
+    [audit_id] => 834
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1174
+    [url] => https://aspiremedia.ie/
+    [audit_id] => 1144
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1176
+    [url] => https://cutpay.co.uk/
+    [audit_id] => 1315
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1179
+    [url] => https://www.the-clinx.com
+    [audit_id] => 895
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1182
+    [url] => https://propertysolutions101.com.au/
+    [audit_id] => 2182
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1198
+    [url] => https://feedworks.com.au/
+    [audit_id] => 1072
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1199
+    [url] => https://www.myhbinc.com/
+    [audit_id] => 2183
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1208
+    [url] => https://www.jacarandamaternity.co.ke/
+    [audit_id] => 1026
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1209
+    [url] => https://ldpconnect.com/
+    [audit_id] => 293
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1213
+    [url] => https://snowcountryroofing.com/
+    [audit_id] => 945
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1225
+    [url] => https://www.rwkaccountancy.com.au/
+    [audit_id] => 968
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1226
+    [url] => https://highlandfamilydentistry.net/
+    [audit_id] => 1131
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1238
+    [url] => https://www.goblackops.com.au/
+    [audit_id] => 1155
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1253
+    [url] => https://thebeanbagstore.com/
+    [audit_id] => 2184
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1259
+    [url] => https://maaemo.com.au/
+    [audit_id] => 1469
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1260
+    [url] => https://www.gasmaskpro.com/
+    [audit_id] => 1156
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1261
+    [url] => https://speed-e.ch/
+    [audit_id] => 939
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1266
+    [url] => https://tabanerocigars.com/
+    [audit_id] => 911
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1269
+    [url] => https://rddusa.com/
+    [audit_id] => 2185
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1274
+    [url] => https://www.usmilitarytents.com/
+    [audit_id] => 838
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1275
+    [url] => https://bkelectricservices.com/
+    [audit_id] => 1145
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1277
+    [url] => https://deckerjoneslaw.com/
+    [audit_id] => 2037
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1278
+    [url] => http://www.homespaservices.net/
+    [audit_id] => 1428
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1291
+    [url] => https://www.skawskihvac.com/
+    [audit_id] => 2186
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1300
+    [url] => https://warriornutritionco.com/
+    [audit_id] => 1137
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1301
+    [url] => https://bgmg.com.au/
+    [audit_id] => 1183
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1302
+    [url] => https://www.theclinxshop.com/
+    [audit_id] => 958
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1319
+    [url] => https://customsignsaustralia.com.au/
+    [audit_id] => 2187
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1320
+    [url] => https://planetapestmanagement.com.au/
+    [audit_id] => 1461
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1321
+    [url] => https://overnightcleanse.com.au/
+    [audit_id] => 1408
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1322
+    [url] => https://norwestdentalcare.com.au/
+    [audit_id] => 1885
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1323
+    [url] => https://panvest.com.au/
+    [audit_id] => 2188
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1331
+    [url] => https://acuitytec.com/
+    [audit_id] => 1474
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1340
+    [url] => https://yanvanathemessage.com/
+    [audit_id] => 424
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1344
+    [url] => https://www.danalegalhelp.com/
+    [audit_id] => 249
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1349
+    [url] => https://angelozziterrazzo.com/
+    [audit_id] => 1413
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1350
+    [url] => https://www.traditionshhs.com/
+    [audit_id] => 195
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1355
+    [url] => https://windtek.ca/
+    [audit_id] => 363
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1357
+    [url] => https://vehiclereport.me
+    [audit_id] => 835
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1373
+    [url] => https://www.knowledgemill.com/
+    [audit_id] => 1219
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1375
+    [url] => https://oasisoutsourcing.co.ke/
+    [audit_id] => 1283
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1379
+    [url] => https://azsunsolutions.com/
+    [audit_id] => 248
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1381
+    [url] => https://splashcolour.com.au/
+    [audit_id] => 934
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1384
+    [url] => https://heeracollections.com.au/
+    [audit_id] => 579
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1386
+    [url] => https://carantee.me/
+    [audit_id] => 664
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1389
+    [url] => https://www.ikeep.com.au/
+    [audit_id] => 1080
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1393
+    [url] => https://lenz-tx.com/
+    [audit_id] => 1548
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1398
+    [url] => https://www.arka.com/
+    [audit_id] => 197
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1405
+    [url] => https://tiptigusa.com/
+    [audit_id] => 539
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1406
+    [url] => https://johnsonstrucks.com.au/
+    [audit_id] => 1110
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1408
+    [url] => https://elevateds.com.au/
+    [audit_id] => 689
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1411
+    [url] => https://ashfieldcollege.ie/
+    [audit_id] => 1143
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1420
+    [url] => https://www.ubs.com/
+    [audit_id] => 796
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1426
+    [url] => https://eglintonsquaredental.com/
+    [audit_id] => 1194
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1479
+    [url] => https://www.marketingillumination.com/
+    [audit_id] => 791
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1491
+    [url] => https://www.osmosish.com/
+    [audit_id] => 1336
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1518
+    [url] => http://www.truckershealthcoverage.com/
+    [audit_id] => 855
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1519
+    [url] => https://cbauto.com.au/
+    [audit_id] => 1111
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1525
+    [url] => https://www.mvi.farm/
+    [audit_id] => 1243
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1529
+    [url] => https://360dentalmarketing.com.au/
+    [audit_id] => 103
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1530
+    [url] => https://servicemasterbywise.com/
+    [audit_id] => 1966
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1576
+    [url] => https://www.watermatrix.com/
+    [audit_id] => 824
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1583
+    [url] => https://whitelabelbros.com/
+    [audit_id] => 763
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1587
+    [url] => https://xforce.com.au/
+    [audit_id] => 1488
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1590
+    [url] => https://marinofamilydentistry.com/
+    [audit_id] => 778
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1592
+    [url] => https://therightpropertygroup.co.uk/
+    [audit_id] => 883
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1593
+    [url] => https://www.popularbookusa.com/
+    [audit_id] => 444
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1596
+    [url] => https://berico.com/
+    [audit_id] => 395
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1598
+    [url] => https://gleaminyoureye.com/
+    [audit_id] => 136
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1604
+    [url] => https://www.infancy.com.au/
+    [audit_id] => 1213
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1608
+    [url] => https://outdoorboiler.com/
+    [audit_id] => 435
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1619
+    [url] => https://360capitalltd.com/
+    [audit_id] => 72
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1625
+    [url] => https://sunshineskips.com.au/
+    [audit_id] => 917
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1627
+    [url] => https://squidgroup.co.nz/
+    [audit_id] => 567
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1628
+    [url] => https://trustedunion.com/
+    [audit_id] => 849
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1631
+    [url] => https://americancprinstitute.com/
+    [audit_id] => 525
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1633
+    [url] => https://riverstreetsmiles.com.au/
+    [audit_id] => 1119
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1638
+    [url] => https://mitchellscapco.com.au/
+    [audit_id] => 1120
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1649
+    [url] => https://tentrental.net/
+    [audit_id] => 158
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1650
+    [url] => https://trustmotors.co.nz/
+    [audit_id] => 753
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1651
+    [url] => https://carliledowling.co.nz/
+    [audit_id] => 754
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1652
+    [url] => http://www.trustees.co.nz/
+    [audit_id] => 757
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1656
+    [url] => https://steeleandvaughn.com/
+    [audit_id] => 247
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1657
+    [url] => https://tshirtsale.co.nz/
+    [audit_id] => 755
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1658
+    [url] => http://www.providencechamber.com/
+    [audit_id] => 1360
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1670
+    [url] => http://www.partygames.com.mx/
+    [audit_id] => 1541
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1675
+    [url] => https://mcgillbrothers.com/
+    [audit_id] => 1737
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1680
+    [url] => https://watertrampoline.com/
+    [audit_id] => 821
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1681
+    [url] => https://speedprosignshop.com/
+    [audit_id] => 931
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1682
+    [url] => https://ingroundtrampolines.com/
+    [audit_id] => 2012
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1683
+    [url] => https://pedalkarts.com/
+    [audit_id] => 169
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1684
+    [url] => https://pingpongtables.com/
+    [audit_id] => 170
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1686
+    [url] => https://alleyrollers.com/
+    [audit_id] => 1241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1687
+    [url] => https://basketballhoop.com/
+    [audit_id] => 1431
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1688
+    [url] => https://discgolfbags.com/
+    [audit_id] => 1466
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1691
+    [url] => http://www.afterglow-tan.com/
+    [audit_id] => 1210
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1696
+    [url] => https://cartek.net.au/
+    [audit_id] => 1406
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1702
+    [url] => https://agencydashboard.io/
+    [audit_id] => 26
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1713
+    [url] => https://taylormadelendingllc.com/
+    [audit_id] => 906
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1723
+    [url] => https://summerfieldinfo.com/
+    [audit_id] => 719
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1725
+    [url] => https://tmp.ucsb.edu/
+    [audit_id] => 878
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1733
+    [url] => https://www.setsbuilt.com/
+    [audit_id] => 1460
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1748
+    [url] => https://godspeed-bikes.de/
+    [audit_id] => 438
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1759
+    [url] => https://k2l.co.uk/
+    [audit_id] => 1230
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1774
+    [url] => https://ckgbby.com/
+    [audit_id] => 1761
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1788
+    [url] => https://ellenvaleinteriors.com/
+    [audit_id] => 441
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1792
+    [url] => https://allcityadjusting.com/
+    [audit_id] => 1650
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1797
+    [url] => https://sourcemondial.co.nz/
+    [audit_id] => 756
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1825
+    [url] => https://www.miloviclaw.com/
+    [audit_id] => 546
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1827
+    [url] => https://www.lknsaltspa.com/
+    [audit_id] => 1282
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1829
+    [url] => https://avconcreteworks.com/
+    [audit_id] => 1270
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1842
+    [url] => http://www.keystonepointing.com.au/
+    [audit_id] => 1449
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1843
+    [url] => https://williamsandkent.com/
+    [audit_id] => 185
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1852
+    [url] => https://plumbingfremontca.com/
+    [audit_id] => 1240
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1876
+    [url] => https://pricemycar.net/
+    [audit_id] => 1491
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1921
+    [url] => https://precision-greens.com/
+    [audit_id] => 393
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1953
+    [url] => https://acholiresilience.org/
+    [audit_id] => 807
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1954
+    [url] => https://ontracktasmania.com.au/
+    [audit_id] => 1094
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1961
+    [url] => https://oobebrand.com/
+    [audit_id] => 122
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1969
+    [url] => https://borton.net/
+    [audit_id] => 1325
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1981
+    [url] => https://www.centrecourtdental.com.au/
+    [audit_id] => 1380
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1985
+    [url] => https://www.comfortdentalcentrebuderim.com.au/
+    [audit_id] => 319
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1987
+    [url] => https://jacobsondental.com.au/
+    [audit_id] => 1766
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1994
+    [url] => https://teampierocornejo.com/
+    [audit_id] => 297
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1883
+    [url] => https://www.heartroofingflorida.com/
+    [audit_id] => 1435
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2001
+    [url] => https://upwardconstruction.ca/
+    [audit_id] => 842
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2005
+    [url] => https://firefoldtechrepair.com/
+    [audit_id] => 1371
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2010
+    [url] => https://h2szero.com/
+    [audit_id] => 1113
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2012
+    [url] => https://spiveyarchitects.com/
+    [audit_id] => 623
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2013
+    [url] => http://www.milnororthodontics.com/
+    [audit_id] => 397
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2016
+    [url] => https://freelancingweb.co.nz/
+    [audit_id] => 53
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2018
+    [url] => http://www.dramyortho.com/
+    [audit_id] => 624
+)
+Array
+(
+    [user_id] => 277
+    [campaign_id] => 2020
+    [url] => https://www.rentahoo.com
+    [audit_id] => 489
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2025
+    [url] => https://visnetwork.com.au/
+    [audit_id] => 541
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2032
+    [url] => https://cppbrand.com/
+    [audit_id] => 1448
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2033
+    [url] => https://magicstudios.com.au/
+    [audit_id] => 1378
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2043
+    [url] => https://niramitcreations.com/
+    [audit_id] => 1351
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2026
+    [url] => https://prabingautam.com.au/
+    [audit_id] => 1087
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2059
+    [url] => https://pobamedical.com/
+    [audit_id] => 1778
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2067
+    [url] => https://nuenergy.net/
+    [audit_id] => 1709
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2068
+    [url] => https://nobedwetting.com/
+    [audit_id] => 1434
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2069
+    [url] => https://avgraphix.com/
+    [audit_id] => 1590
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2072
+    [url] => https://expandore.sg/
+    [audit_id] => 616
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2075
+    [url] => https://petroverusa.com/
+    [audit_id] => 1352
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2077
+    [url] => https://seoc.com.au/
+    [audit_id] => 1109
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2078
+    [url] => https://www.auroma.com.au/
+    [audit_id] => 1090
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2085
+    [url] => https://www.botanistry.com
+    [audit_id] => 761
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2086
+    [url] => https://www.whiterosebuildings.co.uk/
+    [audit_id] => 818
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2087
+    [url] => https://www.bodybynaturesupplements.com/
+    [audit_id] => 1146
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2089
+    [url] => https://knappchirowi.com/
+    [audit_id] => 510
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2095
+    [url] => https://frankstransmissionsautorepair.com/
+    [audit_id] => 255
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2101
+    [url] => https://cooperplumbinghouston.com/
+    [audit_id] => 155
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2106
+    [url] => https://eliteops.com/
+    [audit_id] => 74
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1560
+    [url] => https://www.tmservicesltd.co.uk/
+    [audit_id] => 876
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2107
+    [url] => https://mpwengineering.com/
+    [audit_id] => 1772
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2108
+    [url] => https://bubblegummarketing.com/
+    [audit_id] => 123
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2109
+    [url] => https://parkonking.com.au/
+    [audit_id] => 1970
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2114
+    [url] => https://archi-qs.com.au/
+    [audit_id] => 1419
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2115
+    [url] => https://metalroofmontreal.ca/
+    [audit_id] => 124
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2118
+    [url] => https://marcosroofing.com.au/
+    [audit_id] => 1892
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2130
+    [url] => https://unite.ca/
+    [audit_id] => 127
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2134
+    [url] => https://www.rubyrise.com.au/
+    [audit_id] => 1760
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2135
+    [url] => https://clickplayfilms.com/
+    [audit_id] => 701
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2136
+    [url] => https://mobilesms.io/
+    [audit_id] => 1509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2139
+    [url] => https://povertysucksfishing.com/
+    [audit_id] => 1502
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2140
+    [url] => https://alsayyedlaw.com/
+    [audit_id] => 673
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2141
+    [url] => https://www.glamagalparty.com/
+    [audit_id] => 608
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2149
+    [url] => https://www.perfectautobody.com.au/
+    [audit_id] => 1176
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2168
+    [url] => https://coopatex.co.uk/
+    [audit_id] => 1455
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2169
+    [url] => https://westernboilertraining.com.au/
+    [audit_id] => 823
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2170
+    [url] => https://fwagronomy.com.au/
+    [audit_id] => 1114
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2181
+    [url] => https://davidcrawford.com/
+    [audit_id] => 130
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2185
+    [url] => http://www.colourmepainting.com.au/
+    [audit_id] => 1514
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2187
+    [url] => https://unimediadigital.com/
+    [audit_id] => 1368
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2188
+    [url] => https://unimediaproductions.com/
+    [audit_id] => 238
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2190
+    [url] => https://infinite30.com/
+    [audit_id] => 382
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2212
+    [url] => https://www.tappett.com/
+    [audit_id] => 897
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2213
+    [url] => https://navazondigital.com/
+    [audit_id] => 1048
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2214
+    [url] => https://permanentmakeup1.com/
+    [audit_id] => 1052
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2219
+    [url] => https://seosupport.ca/
+    [audit_id] => 1281
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2228
+    [url] => https://www.gigapros.com/
+    [audit_id] => 1632
+)
+Array
+(
+    [user_id] => 287
+    [campaign_id] => 2230
+    [url] => https://www.onlydiningchairs.com.au/
+    [audit_id] => 253
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2235
+    [url] => https://castawayit.com/
+    [audit_id] => 1147
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2237
+    [url] => https://no1junkstreet.co.uk/
+    [audit_id] => 629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2240
+    [url] => https://www.dandyandson.com/
+    [audit_id] => 692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2243
+    [url] => https://customfire.ca/
+    [audit_id] => 1381
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2244
+    [url] => https://www.tractiondogtraining.com/
+    [audit_id] => 865
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2246
+    [url] => https://www.physio.family/
+    [audit_id] => 1613
+)
+Array
+(
+    [user_id] => 283
+    [campaign_id] => 2247
+    [url] => https://rentacraneinc.com/
+    [audit_id] => 1561
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2251
+    [url] => https://instepphysio.ca/
+    [audit_id] => 2098
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2252
+    [url] => https://mssphysio.com/
+    [audit_id] => 1605
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2262
+    [url] => https://concordaluminumrailings.com/
+    [audit_id] => 766
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2263
+    [url] => https://drinktinto.com/
+    [audit_id] => 1422
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2265
+    [url] => https://www.swishboom.com/
+    [audit_id] => 914
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2267
+    [url] => https://helenstoreyantiques.com/
+    [audit_id] => 1096
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2270
+    [url] => https://motorbuyer.ie/
+    [audit_id] => 736
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2273
+    [url] => http://www.sitesbysara.com/
+    [audit_id] => 728
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2274
+    [url] => https://grandviewdentalslc.com/
+    [audit_id] => 731
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2276
+    [url] => https://www.amtrade.com.au/
+    [audit_id] => 730
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2282
+    [url] => https://www.americabestappliances.com/
+    [audit_id] => 1346
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2288
+    [url] => https://endless-summer-nz.com/
+    [audit_id] => 1235
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2289
+    [url] => https://protolase.com/
+    [audit_id] => 1779
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2290
+    [url] => https://www.tescoassociates.com/
+    [audit_id] => 902
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2297
+    [url] => https://www.selltobrickment.com/
+    [audit_id] => 1398
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2298
+    [url] => https://lifebalance.ae/
+    [audit_id] => 735
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2306
+    [url] => https://dreamboxboutique.com/
+    [audit_id] => 217
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2311
+    [url] => https://leoht.co.uk/
+    [audit_id] => 190
+)
+Array
+(
+    [user_id] => 283
+    [campaign_id] => 2313
+    [url] => https://thejengugroup.com/
+    [audit_id] => 1774
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2323
+    [url] => https://paragonus.com/
+    [audit_id] => 1367
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2329
+    [url] => https://paco1.com/
+    [audit_id] => 1108
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2350
+    [url] => https://honorbuilthome.com/
+    [audit_id] => 781
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2351
+    [url] => https://www.hikeandseek.com.au/
+    [audit_id] => 657
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2361
+    [url] => https://cascadegardennorfolkisland.com/
+    [audit_id] => 1081
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2362
+    [url] => https://thebeautyhutsculpting.com/
+    [audit_id] => 1699
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2373
+    [url] => https://www.doctorclothesline.com.au/
+    [audit_id] => 2283
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2381
+    [url] => https://flexible.copackinc.com/
+    [audit_id] => 1478
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2382
+    [url] => https://www.tunefacilities.com/
+    [audit_id] => 848
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2383
+    [url] => https://pensionoptionsdirect.co.uk/
+    [audit_id] => 1248
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2384
+    [url] => https://hypex.com.au/
+    [audit_id] => 277
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2397
+    [url] => https://asseenontv.pro/
+    [audit_id] => 786
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2399
+    [url] => https://bmgcreative.com/
+    [audit_id] => 311
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2401
+    [url] => https://www.freedommedispa.com/
+    [audit_id] => 635
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2402
+    [url] => https://www.nuspecwindows.com.au/
+    [audit_id] => 1482
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2403
+    [url] => http://www.adaptroofing.com.au/
+    [audit_id] => 1385
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2406
+    [url] => https://www.jandkmarble.com.au/
+    [audit_id] => 1205
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2407
+    [url] => https://www.bosscomponents.com.au/
+    [audit_id] => 600
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2414
+    [url] => https://www.jackrabbit.host/
+    [audit_id] => 1735
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2426
+    [url] => https://www.anysizesteel.co.uk/
+    [audit_id] => 948
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2431
+    [url] => https://proteinyourwhey.co.uk/
+    [audit_id] => 95
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2441
+    [url] => https://www.jsiegelesquire.com/
+    [audit_id] => 224
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2447
+    [url] => http://www.maxraft.co.nz/
+    [audit_id] => 759
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2461
+    [url] => https://gariz.com.au/
+    [audit_id] => 66
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 2463
+    [url] => https://kliptank.com/
+    [audit_id] => 760
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3197
+    [url] => https://f7digitalnetworks.com.au/
+    [audit_id] => 1278
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 31698
+    [campaign_id] => 3756
+    [url] => https://zaptify.com/
+    [audit_id] => 2276
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3757
+    [url] => https://www.counting-stars.co.uk/
+    [audit_id] => 2277
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3758
+    [url] => https://www.wavebabebride.com/
+    [audit_id] => 2278
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3759
+    [url] => https://www.cmi-ireland.com/
+    [audit_id] => 2279
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1751
+    [url] => https://baboombaboom.com/
+    [audit_id] => 1349
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3672
+    [url] => prettytipz.shop
+    [audit_id] => 2508
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3672
+    [url] => prettytipz.shop
+    [audit_id] => 2508
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3672
+    [url] => prettytipz.shop
+    [audit_id] => 2508
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3672
+    [url] => prettytipz.shop
+    [audit_id] => 2508
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3672
+    [url] => prettytipz.shop
+    [audit_id] => 2508
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3672
+    [url] => prettytipz.shop
+    [audit_id] => 2508
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3672
+    [url] => prettytipz.shop
+    [audit_id] => 2508
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3672
+    [url] => prettytipz.shop
+    [audit_id] => 2508
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3672
+    [url] => prettytipz.shop
+    [audit_id] => 2508
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 523
+    [url] => https://endometriosisassn.org/
+    [audit_id] => 1388
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1692
+    [url] => https://xforce.eu/
+    [audit_id] => 2241
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 1874
+    [url] => https://appraisee.ie/
+    [audit_id] => 661
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3159
+    [url] => http://thepeoplesagents.com/
+    [audit_id] => 1002
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3324
+    [url] => https://maritimewestconstruction.com/
+    [audit_id] => 2447
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3344
+    [url] => https://www.speedfinancialgroup.com/
+    [audit_id] => 1629
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3695
+    [url] => https://www.nqdefense.com/
+    [audit_id] => 2509
+)

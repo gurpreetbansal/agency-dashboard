@@ -1,0 +1,11 @@
+Array
+(
+    [0] => http://vizionpresents.com
+    [1] => http://vizionpresents.com/connect
+    [2] => http://vizionpresents.com/events
+    [3] => https://vizionpresents.com/services
+    [4] => http://dev.vizionpresents.com
+    [5] => http://vizionpresents.com/gallery
+    [6] => http://vizionpresents.com/contact
+    [7] => http://vizionpresents.com/services/events-near-me
+)

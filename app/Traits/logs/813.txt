@@ -1,0 +1,25 @@
+Array
+(
+    [0] => https://www.cleopatrabeautylounge.com
+    [1] => https://www.cleopatrabeautylounge.com/blog
+    [2] => https://www.cleopatrabeautylounge.com/services.php
+    [3] => https://www.cleopatrabeautylounge.com/eyebrow-threading
+    [4] => http://www.cleopatrabeautylounge.com/appointment.php
+    [5] => https://www.cleopatrabeautylounge.com/gallery.php
+    [6] => http://www.cleopatrabeautylounge.com/about.php
+    [7] => https://www.cleopatrabeautylounge.com/contact.php
+    [8] => https://www.cleopatrabeautylounge.com/Home/shop
+    [9] => https://www.cleopatrabeautylounge.com/sitemap.php
+    [10] => https://www.cleopatrabeautylounge.com/Home/cleopatra-services
+    [11] => https://www.cleopatrabeautylounge.com/Home/brazilian-wax
+    [12] => https://www.cleopatrabeautylounge.com/Home/facial-treatment
+    [13] => https://www.cleopatrabeautylounge.com/Home/about-cleopatra
+    [14] => https://www.cleopatrabeautylounge.com/product/classic-offer
+    [15] => https://www.cleopatrabeautylounge.com/Home/contact-cleopatra
+    [16] => https://www.cleopatrabeautylounge.com/Home/contact-us
+    [17] => https://www.cleopatrabeautylounge.com/Home/beauty-gallery
+    [18] => https://www.cleopatrabeautylounge.com/Home/hair-removal-salon
+    [19] => https://www.cleopatrabeautylounge.com/Home/cleopatra-beauty-salon-online-booking
+    [20] => https://cleopatrabeautylounge.com
+    [21] => https://cleopatrabeautylounge.com/Home
+)

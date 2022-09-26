@@ -1,0 +1,16 @@
+Array
+(
+    [0] => https://baboombaboom.com
+    [1] => https://baboombaboom.com/14-gauge
+    [2] => https://baboombaboom.com/12-gauge
+    [3] => https://baboombaboom.com/18-gauge
+    [4] => https://baboombaboom.com/16-gauge
+    [5] => https://baboombaboom.com/blog
+    [6] => https://baboombaboom.com/contact
+    [7] => https://baboombaboom.com/blog/f/surround-sound-speakers-installation
+    [8] => https://baboombaboom.com/blog/f/flexibility-with-speaker-cables
+    [9] => https://baboombaboom.com/blog/f/what-size-speaker-wire-do-i-need
+    [10] => https://baboombaboom.com/blog/f/18-gauge-wire-what-you-should-know
+    [11] => https://baboombaboom.com/blog/f/why-speaker-cables-and-instrument-cables-aren%25E2%2580%2599t-interchangeable
+    [12] => https://baboombaboom.com
+)

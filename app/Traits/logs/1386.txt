@@ -1,0 +1,28 @@
+Array
+(
+    [0] => https://carantee.me
+    [1] => https://carantee.me/contact
+    [2] => https://carantee.me/faqs
+    [3] => https://carantee.me/ar
+    [4] => https://carantee.me/verify
+    [5] => https://carantee.me/suggestions
+    [6] => https://carantee.me/download
+    [7] => https://carantee.me/about-carantee
+    [8] => https://carantee.me/ar/contact
+    [9] => https://carantee.me/terms-conditions
+    [10] => https://carantee.me/oman-locations
+    [11] => https://carantee.me/uae-locations
+    [12] => https://carantee.me/contact-content
+    [13] => https://carantee.me/privacy-policy
+    [14] => https://carantee.me/sample-report-oman
+    [15] => https://carantee.me/sample-report-uae
+    [16] => https://carantee.me/car-appraisal-certificate-oman
+    [17] => https://carantee.me/car-appraisal-certificate-uae
+    [18] => https://carantee.me/car-appraisal-certificate-ksa
+    [19] => https://carantee.me/how-to-buy-a-used-car-in-uae
+    [20] => https://carantee.me/how-to-buy-a-used-car-in-ksa
+    [21] => https://carantee.me/how-to-buy-a-used-car-in-oman
+    [22] => /search%3Fq%3Dsite:https://carantee.me/%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+    [23] => https://carantee.me
+    [24] => https://carantee.me/sitemap.xml
+)

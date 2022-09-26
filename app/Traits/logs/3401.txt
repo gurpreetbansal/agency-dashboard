@@ -1,0 +1,9 @@
+Array
+(
+    [0] => https://parallelrailings.ca
+    [1] => https://parallelrailings.ca/aluminum-stair-railing
+    [2] => https://parallelrailings.ca/aluminum-fence-gate
+    [3] => https://parallelrailings.ca/aluminum-deck-railings
+    [4] => https://parallelrailings.ca/aluminum-balcony-railing
+    [5] => https://parallelrailings.ca/aluminum-porch-railing
+)

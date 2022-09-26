@@ -1,0 +1,13 @@
+Array
+(
+    [0] => https://www.hivizbiz.com.au
+    [1] => https://www.hivizbiz.com.au/shirts
+    [2] => https://www.hivizbiz.com.au/pants
+    [3] => https://www.hivizbiz.com.au/jackets
+    [4] => https://www.hivizbiz.com.au/blog
+    [5] => https://www.hivizbiz.com.au/coveralls
+    [6] => https://www.hivizbiz.com.au/boots
+    [7] => https://www.hivizbiz.com.au/post/the-standard-of-high-visibility-clothing
+    [8] => https://www.hivizbiz.com.au/copy-of-products
+    [9] => https://www.hivizbiz.com.au
+)

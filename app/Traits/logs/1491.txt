@@ -1,0 +1,22 @@
+Array
+(
+    [0] => https://www.osmosish.com
+    [1] => https://www.osmosish.com/TermCondition
+    [2] => https://www.osmosish.com/ViewCart
+    [3] => https://www.osmosish.com/BecomeTutor
+    [4] => https://www.osmosish.com/ContactUs
+    [5] => https://www.osmosish.com/HowItwork
+    [6] => https://www.osmosish.com/BetaTest240972
+    [7] => https://www.osmosish.com/CourseSearch
+    [8] => https://www.osmosish.com/TutorProfile/1684
+    [9] => https://www.osmosish.com/PrivateSession
+    [10] => https://www.osmosish.com/TutorProfile/3015
+    [11] => https://www.osmosish.com/TutorProfile/29
+    [12] => https://www.osmosish.com/BetaTest240972/BecomeTutor
+    [13] => https://www.osmosish.com/SeriesDetail/10
+    [14] => https://www.osmosish.com/TutorProfile/911
+    [15] => https://www.osmosish.com/SeriesDetail/41
+    [16] => https://www.osmosish.com/Faq/Hosts
+    [17] => https://www.osmosish.com/SeriesDetail/172
+    [18] => https://www.osmosish.com
+)

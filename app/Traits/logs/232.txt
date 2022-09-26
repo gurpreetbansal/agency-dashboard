@@ -1,0 +1,30 @@
+Array
+(
+    [0] => https://inheritance-tax.co.uk
+    [1] => https://inheritance-tax.co.uk/willsonline
+    [2] => https://inheritance-tax.co.uk/testimonial
+    [3] => https://inheritance-tax.co.uk/attorney
+    [4] => https://inheritance-tax.co.uk/services
+    [5] => https://inheritance-tax.co.uk/privacy-policy
+    [6] => https://inheritance-tax.co.uk/about-us
+    [7] => https://inheritance-tax.co.uk/area/trusts
+    [8] => https://inheritance-tax.co.uk/iht-guide
+    [9] => https://inheritance-tax.co.uk/contact-us
+    [10] => https://inheritance-tax.co.uk/the-costs
+    [11] => https://inheritance-tax.co.uk/case-studies
+    [12] => https://inheritance-tax.co.uk/will-form
+    [13] => https://inheritance-tax.co.uk/area/inheritance-tax
+    [14] => https://inheritance-tax.co.uk/area/estate-planning
+    [15] => https://inheritance-tax.co.uk/inheritance-tax-calculator
+    [16] => https://inheritance-tax.co.uk/area/will-planning
+    [17] => https://inheritance-tax.co.uk/attorney/cynthia-magat
+    [18] => https://inheritance-tax.co.uk/area/power-of-attorney
+    [19] => https://inheritance-tax.co.uk/how-is-inheritance-tax-calculated
+    [20] => https://inheritance-tax.co.uk/area/inheritance-tax-planning-uk
+    [21] => https://inheritance-tax.co.uk/blog/how-to-avoid-inheritance-tax
+    [22] => https://inheritance-tax.co.uk/area/how-inheritance-tax-is-calculated
+    [23] => https://inheritance-tax.co.uk/area/who-is-eligible-to-pay-iht
+    [24] => https://inheritance-tax.co.uk/how-claires-inheritance-tax-planning-saved-her-thousands
+    [25] => https://inheritance-tax.co.uk/how-to-value-an-estate-of-the-deceased-in-the-u-k
+    [26] => https://inheritance-tax.co.uk
+)

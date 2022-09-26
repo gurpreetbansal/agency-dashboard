@@ -1,0 +1,29 @@
+Array
+(
+    [0] => https://www.skawskihvac.com
+    [1] => https://www.skawskihvac.com/privacy
+    [2] => https://www.skawskihvac.com/heating
+    [3] => https://www.skawskihvac.com/contact
+    [4] => https://www.skawskihvac.com/careers
+    [5] => https://www.skawskihvac.com/blog
+    [6] => https://www.skawskihvac.com/mini-splits
+    [7] => https://www.skawskihvac.com/plumbing-services
+    [8] => https://www.skawskihvac.com/hvac-services
+    [9] => https://www.skawskihvac.com/air-quality
+    [10] => https://www.skawskihvac.com/heating-maintenance
+    [11] => https://www.skawskihvac.com/whole-home-humidifier
+    [12] => https://www.skawskihvac.com/water-heater-installation
+    [13] => https://www.skawskihvac.com/preventative-maintenance-plans
+    [14] => https://www.skawskihvac.com/uv-air-purification
+    [15] => https://www.skawskihvac.com/air-conditioning-maintenance
+    [16] => https://www.skawskihvac.com/electrical-repair-services
+    [17] => https://www.skawskihvac.com/schedule-a-service
+    [18] => https://www.skawskihvac.com/air-conditioning-repairs
+    [19] => https://www.skawskihvac.com/furnace-repair-services
+    [20] => https://www.skawskihvac.com/programmable-smart-thermostats
+    [21] => https://www.skawskihvac.com/rhode-island-hvac-company
+    [22] => https://www.skawskihvac.com/cooling-services-rhode-island
+    [23] => https://www.skawskihvac.com/air-conditioner-condensor-coil-leaks
+    [24] => https://www.skawskihvac.com/how-to-prevent-air-conditioning-leaks
+    [25] => https://www.skawskihvac.com
+)

@@ -1,0 +1,2899 @@
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 517
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.stacykaat.com/
+                            [domain_name] => Stacy Kaat
+                            [domain_url] => https://www.stacykaat.com/
+                            [host_url] => stacykaat.com
+                            [domain_register] => 2021-04-25
+                            [regional_db] => us
+                            [clientName] => Phil Reinhardt
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 9ffcb18921640bc7438d2038c2c94395
+                            [google_analytics_id] => 27092
+                            [google_account_id] => 103
+                            [google_property_id] => 27093
+                            [google_profile_id] => 27094
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-25 15:47:05
+                            [google_console_id] => 27
+                            [console_account_id] => 9270
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => Good
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => oxT54NCdRtTIZAg7QVca_StacyKaatLogoFinal.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-27
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-30
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NTE3LXwtOTktfC1WdnQ2ZmN5ZjRx
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-08-19 13:27:27
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 517
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.stacykaat.com/
+                            [domain_name] => Stacy Kaat
+                            [domain_url] => https://www.stacykaat.com/
+                            [host_url] => stacykaat.com
+                            [domain_register] => 2021-04-25
+                            [regional_db] => us
+                            [clientName] => Phil Reinhardt
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 9ffcb18921640bc7438d2038c2c94395
+                            [google_analytics_id] => 27092
+                            [google_account_id] => 103
+                            [google_property_id] => 27093
+                            [google_profile_id] => 27094
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-25 15:47:05
+                            [google_console_id] => 27
+                            [console_account_id] => 9270
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => Good
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => oxT54NCdRtTIZAg7QVca_StacyKaatLogoFinal.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-27
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-30
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NTE3LXwtOTktfC1WdnQ2ZmN5ZjRx
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-08-19 13:27:27
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [1] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 565
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://kjwindows.com/
+                            [domain_name] => Kjwindows.com-Jasmin Bajric
+                            [domain_url] => https://kjwindows.com/
+                            [host_url] => kjwindows.com
+                            [domain_register] => 2019-09-12
+                            [regional_db] => us
+                            [clientName] => Jasmin Bajric
+                            [modified] => 2021-12-09 04:34:57
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 47ddf800711431ad68b599e48afd3740
+                            [google_analytics_id] => 19136
+                            [google_account_id] => 91
+                            [google_property_id] => 19137
+                            [google_profile_id] => 19138
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-28 09:43:37
+                            [google_console_id] => 18
+                            [console_account_id] => 10857
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => G
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => kj-logo-420.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 3
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-27
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-29
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NTY1LXwtOTktfC01anpqdXFielp5
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-06-20 08:13:34
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 565
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://kjwindows.com/
+                            [domain_name] => Kjwindows.com-Jasmin Bajric
+                            [domain_url] => https://kjwindows.com/
+                            [host_url] => kjwindows.com
+                            [domain_register] => 2019-09-12
+                            [regional_db] => us
+                            [clientName] => Jasmin Bajric
+                            [modified] => 2021-12-09 04:34:57
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 47ddf800711431ad68b599e48afd3740
+                            [google_analytics_id] => 19136
+                            [google_account_id] => 91
+                            [google_property_id] => 19137
+                            [google_profile_id] => 19138
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-28 09:43:37
+                            [google_console_id] => 18
+                            [console_account_id] => 10857
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => G
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => kj-logo-420.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 3
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-27
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-29
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NTY1LXwtOTktfC01anpqdXFielp5
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-06-20 08:13:34
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [2] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1589
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://snf-solutions.com
+                            [domain_name] => snf-solutions.com - Thomas B
+                            [domain_url] => https://snf-solutions.com
+                            [host_url] => snf-solutions.com
+                            [domain_register] => 2021-08-17
+                            [regional_db] => us
+                            [clientName] => Thomas B
+                            [modified] => 2021-09-05 23:29:35
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 9addecaebb3d9bb462b84319587e4377
+                            [google_analytics_id] => 57070
+                            [google_account_id] => 192
+                            [google_property_id] => 57071
+                            [google_profile_id] => 57072
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-08-17 05:39:34
+                            [google_console_id] => 100
+                            [console_account_id] => 11566
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => GP - 5,N
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => United States
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => screenshot-2021-08-17t111057922_1629178869.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 4
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-29
+                            [url_type] => 2
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MTU4OS18LTk5LXwtb3NBV3VaVEtKTA==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2021-08-17 00:11:09
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1589
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://snf-solutions.com
+                            [domain_name] => snf-solutions.com - Thomas B
+                            [domain_url] => https://snf-solutions.com
+                            [host_url] => snf-solutions.com
+                            [domain_register] => 2021-08-17
+                            [regional_db] => us
+                            [clientName] => Thomas B
+                            [modified] => 2021-09-05 23:29:35
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 9addecaebb3d9bb462b84319587e4377
+                            [google_analytics_id] => 57070
+                            [google_account_id] => 192
+                            [google_property_id] => 57071
+                            [google_profile_id] => 57072
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-08-17 05:39:34
+                            [google_console_id] => 100
+                            [console_account_id] => 11566
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => GP - 5,N
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => United States
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => screenshot-2021-08-17t111057922_1629178869.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 4
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-29
+                            [url_type] => 2
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MTU4OS18LTk5LXwtb3NBV3VaVEtKTA==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2021-08-17 00:11:09
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [3] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1692
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=xforce.eu
+                            [domain_name] => Xforce Eu
+                            [domain_url] => xforce.eu
+                            [host_url] => xforce.eu
+                            [domain_register] => 2021-09-13
+                            [regional_db] => us
+                            [clientName] => Tim Mc
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => af9822c76b99b09dfd727d8ed46fe868
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-09-13 05:06:36
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => Europe
+                            [rank_latitude] => 54.5259614
+                            [rank_longitude] => 15.2551187
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => screenshot-41_1632717922.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-29
+                            [url_type] => 2
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MTY5Mi18LTk5LXwtYjhzanI0NGo2NQ==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2021-09-26 23:15:22
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1692
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=xforce.eu
+                            [domain_name] => Xforce Eu
+                            [domain_url] => xforce.eu
+                            [host_url] => xforce.eu
+                            [domain_register] => 2021-09-13
+                            [regional_db] => us
+                            [clientName] => Tim Mc
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => af9822c76b99b09dfd727d8ed46fe868
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-09-13 05:06:36
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => Europe
+                            [rank_latitude] => 54.5259614
+                            [rank_longitude] => 15.2551187
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => screenshot-41_1632717922.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-29
+                            [url_type] => 2
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MTY5Mi18LTk5LXwtYjhzanI0NGo2NQ==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2021-09-26 23:15:22
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [4] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1874
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://appraisee.ie/
+                            [domain_name] => Appraisee.ie - Colm Murphy
+                            [domain_url] => https://appraisee.ie/
+                            [host_url] => appraisee.ie
+                            [domain_register] => 2021-10-23
+                            [regional_db] => ie
+                            [clientName] => Colm Murphy
+                            [modified] => 2021-11-16 10:16:03
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 60f1663dd1814f1a108e72bf488ae1c4
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-10-23 10:07:48
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => screenshot_1634984381.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 2
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-29
+                            [url_type] => 2
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MTg3NC18LTk5LXwtanF1VGRTYjJnMw==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2021-10-28 01:56:50
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1874
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://appraisee.ie/
+                            [domain_name] => Appraisee.ie - Colm Murphy
+                            [domain_url] => https://appraisee.ie/
+                            [host_url] => appraisee.ie
+                            [domain_register] => 2021-10-23
+                            [regional_db] => ie
+                            [clientName] => Colm Murphy
+                            [modified] => 2021-11-16 10:16:03
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 60f1663dd1814f1a108e72bf488ae1c4
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-10-23 10:07:48
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => screenshot_1634984381.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 2
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-29
+                            [url_type] => 2
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MTg3NC18LTk5LXwtanF1VGRTYjJnMw==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2021-10-28 01:56:50
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [5] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 3159
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=http://thepeoplesagents.com/
+                            [domain_name] => thepeoplesagents.com
+                            [domain_url] => http://thepeoplesagents.com/
+                            [host_url] => thepeoplesagents.com
+                            [domain_register] => 2022-06-09
+                            [regional_db] => us
+                            [clientName] => Andi Kay and Tara Ross
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 6d79f759a3e003342925eaecac316052
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-06-13 04:14:46
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => South Florida,USA
+                            [rank_latitude] => 27.6648274
+                            [rank_longitude] => -81.5157535
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => andi-tara-seal-2021-1_1655983032.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-28
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-10
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzE1OS18LTk5LXwtMndONFpRbWxTNw==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-06-23 11:17:13
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 3159
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=http://thepeoplesagents.com/
+                            [domain_name] => thepeoplesagents.com
+                            [domain_url] => http://thepeoplesagents.com/
+                            [host_url] => thepeoplesagents.com
+                            [domain_register] => 2022-06-09
+                            [regional_db] => us
+                            [clientName] => Andi Kay and Tara Ross
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 6d79f759a3e003342925eaecac316052
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-06-13 04:14:46
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => South Florida,USA
+                            [rank_latitude] => 27.6648274
+                            [rank_longitude] => -81.5157535
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => andi-tara-seal-2021-1_1655983032.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-28
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-10
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzE1OS18LTk5LXwtMndONFpRbWxTNw==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-06-23 11:17:13
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [6] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 3324
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://maritimewestconstruction.com
+                            [domain_name] => https://maritimewestconstruction.com
+                            [domain_url] => https://maritimewestconstruction.com
+                            [host_url] => maritimewestconstruction.com
+                            [domain_register] => 2022-07-09
+                            [regional_db] => us
+                            [clientName] => Julian Lloyd
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 383f13d61a959defa9de29414774ba25
+                            [google_analytics_id] => 73260
+                            [google_account_id] => 485
+                            [google_property_id] => 73261
+                            [google_profile_id] => 73262
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-07-09 05:18:15
+                            [google_console_id] => 249
+                            [console_account_id] => 15244
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => cropped-maritime-west-construction-01_1657344279.jpg
+                            [is_favorite] => 0
+                            [goal_completion_count] => 2
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-10-01
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-28
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzMyNC18LTk5LXwtN3ZOcjJDVXozQQ==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-07-13 05:06:15
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 3324
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://maritimewestconstruction.com
+                            [domain_name] => https://maritimewestconstruction.com
+                            [domain_url] => https://maritimewestconstruction.com
+                            [host_url] => maritimewestconstruction.com
+                            [domain_register] => 2022-07-09
+                            [regional_db] => us
+                            [clientName] => Julian Lloyd
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 383f13d61a959defa9de29414774ba25
+                            [google_analytics_id] => 73260
+                            [google_account_id] => 485
+                            [google_property_id] => 73261
+                            [google_profile_id] => 73262
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-07-09 05:18:15
+                            [google_console_id] => 249
+                            [console_account_id] => 15244
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => cropped-maritime-west-construction-01_1657344279.jpg
+                            [is_favorite] => 0
+                            [goal_completion_count] => 2
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-10-01
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-28
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzMyNC18LTk5LXwtN3ZOcjJDVXozQQ==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-07-13 05:06:15
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [7] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 3344
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.speedfinancialgroup.com/
+                            [domain_name] => https://www.speedfinancialgroup.com/
+                            [domain_url] => https://www.speedfinancialgroup.com/
+                            [host_url] => speedfinancialgroup.com
+                            [domain_register] => 2022-07-12
+                            [regional_db] => us
+                            [clientName] => Samantha McKinney
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 91ff8a9f70b75cd8de07d8eff965527c
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-07-12 04:46:48
+                            [google_console_id] => 191
+                            [console_account_id] => 15654
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => USA
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => logo-speed-financial-group-1-edited_1657602262.jpeg
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-27
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-21
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzM0NC18LTk5LXwtMDloM1lTRHpZQw==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-07-25 07:50:37
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 3344
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.speedfinancialgroup.com/
+                            [domain_name] => https://www.speedfinancialgroup.com/
+                            [domain_url] => https://www.speedfinancialgroup.com/
+                            [host_url] => speedfinancialgroup.com
+                            [domain_register] => 2022-07-12
+                            [regional_db] => us
+                            [clientName] => Samantha McKinney
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 91ff8a9f70b75cd8de07d8eff965527c
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-07-12 04:46:48
+                            [google_console_id] => 191
+                            [console_account_id] => 15654
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => USA
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => logo-speed-financial-group-1-edited_1657602262.jpeg
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-27
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-21
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzM0NC18LTk5LXwtMDloM1lTRHpZQw==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-07-25 07:50:37
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [8] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 3387
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=www.sandbarsb.com
+                            [domain_name] => sandbarsb - Peter Gutierrez
+                            [domain_url] => www.sandbarsb.com
+                            [host_url] => sandbarsb.com
+                            [domain_register] => 2022-07-18
+                            [regional_db] => us
+                            [clientName] => Peter Gutierrez
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 606c800b0a470c2f4bdc4829ea8c8ff4
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-07-18 10:12:52
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => CA, USA
+                            [rank_latitude] => 36.778261
+                            [rank_longitude] => -119.4179324
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => 
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-26
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzM4Ny18LTk5LXwtNUNrNTlQbDc0Mg==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-08-05 06:17:18
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 3387
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=www.sandbarsb.com
+                            [domain_name] => sandbarsb - Peter Gutierrez
+                            [domain_url] => www.sandbarsb.com
+                            [host_url] => sandbarsb.com
+                            [domain_register] => 2022-07-18
+                            [regional_db] => us
+                            [clientName] => Peter Gutierrez
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 606c800b0a470c2f4bdc4829ea8c8ff4
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-07-18 10:12:52
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => CA, USA
+                            [rank_latitude] => 36.778261
+                            [rank_longitude] => -119.4179324
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => 
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-26
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzM4Ny18LTk5LXwtNUNrNTlQbDc0Mg==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-08-05 06:17:18
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [9] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 3516
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.futurecioclub.com/
+                            [domain_name] => FutureCIOClub.com
+                            [domain_url] => https://www.futurecioclub.com/
+                            [host_url] => futurecioclub.com
+                            [domain_register] => 2022-08-11
+                            [regional_db] => us
+                            [clientName] => Raj Varada
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 8b72dff317944f4d80815761ab9607b0
+                            [google_analytics_id] => 79084
+                            [google_account_id] => 93
+                            [google_property_id] => 79085
+                            [google_profile_id] => 79086
+                            [google_ads_id] => 88
+                            [google_ads_campaign_id] => 3806
+                            [dashboard_type] => 1,2
+                            [created] => 2022-08-11 10:01:34
+                            [google_console_id] => 17
+                            [console_account_id] => 16119
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => United States
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => 1mt2hu5etqk7cjgh5vjw-fcc-logo-12_1660213748.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-29
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-27
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzUxNi18LTk5LXwtSUlKN09paWI4Tg==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-08-16 05:37:31
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 3516
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.futurecioclub.com/
+                            [domain_name] => FutureCIOClub.com
+                            [domain_url] => https://www.futurecioclub.com/
+                            [host_url] => futurecioclub.com
+                            [domain_register] => 2022-08-11
+                            [regional_db] => us
+                            [clientName] => Raj Varada
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 8b72dff317944f4d80815761ab9607b0
+                            [google_analytics_id] => 79084
+                            [google_account_id] => 93
+                            [google_property_id] => 79085
+                            [google_profile_id] => 79086
+                            [google_ads_id] => 88
+                            [google_ads_campaign_id] => 3806
+                            [dashboard_type] => 1,2
+                            [created] => 2022-08-11 10:01:34
+                            [google_console_id] => 17
+                            [console_account_id] => 16119
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => United States
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => 1mt2hu5etqk7cjgh5vjw-fcc-logo-12_1660213748.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-29
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-27
+                            [moz_date] => 2022-09-01
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzUxNi18LTk5LXwtSUlKN09paWI4Tg==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-08-16 05:37:31
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [10] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 3672
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=http://www.prettytipz.shop/
+                            [domain_name] => prettytipz.shop
+                            [domain_url] => http://www.prettytipz.shop/
+                            [host_url] => prettytipz.shop
+                            [domain_register] => 2022-09-02
+                            [regional_db] => us
+                            [clientName] => Zach/Kylie
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 3e15fe1c6eda8181913ae6d01a2e2e37
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-09-02 07:45:24
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => USA
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => 
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-30
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-30
+                            [moz_date] => 2022-09-02
+                            [notification_flag] => 1
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzY3Mi18LTk5LXwtdE84NktkcXZ4cQ==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-09-02 08:03:15
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 3672
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=http://www.prettytipz.shop/
+                            [domain_name] => prettytipz.shop
+                            [domain_url] => http://www.prettytipz.shop/
+                            [host_url] => prettytipz.shop
+                            [domain_register] => 2022-09-02
+                            [regional_db] => us
+                            [clientName] => Zach/Kylie
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 3e15fe1c6eda8181913ae6d01a2e2e37
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-09-02 07:45:24
+                            [google_console_id] => 
+                            [console_account_id] => 
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => USA
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => 
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-30
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-09-30
+                            [moz_date] => 2022-09-02
+                            [notification_flag] => 1
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzY3Mi18LTk5LXwtdE84NktkcXZ4cQ==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-09-02 08:03:15
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [11] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 3695
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=nqdefense.com
+                            [domain_name] => nqdefense
+                            [domain_url] => nqdefense.com
+                            [host_url] => nqdefense.com
+                            [domain_register] => 2022-09-05
+                            [regional_db] => us
+                            [clientName] => 
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 9f70bac1966ff7040a2fd0881c61bcd7
+                            [google_analytics_id] => 79909
+                            [google_account_id] => 758
+                            [google_property_id] => 79910
+                            [google_profile_id] => 79911
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-09-05 11:12:54
+                            [google_console_id] => 397
+                            [console_account_id] => 16406
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => 
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => 
+                            [project_logo] => 
+                            [is_favorite] => 0
+                            [goal_completion_count] => 8
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-27
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-05
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzY5NS18LTk5LXwtQlVla0xEYTl3Nw==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-09-14 19:50:21
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 3695
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=nqdefense.com
+                            [domain_name] => nqdefense
+                            [domain_url] => nqdefense.com
+                            [host_url] => nqdefense.com
+                            [domain_register] => 2022-09-05
+                            [regional_db] => us
+                            [clientName] => 
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 9f70bac1966ff7040a2fd0881c61bcd7
+                            [google_analytics_id] => 79909
+                            [google_account_id] => 758
+                            [google_property_id] => 79910
+                            [google_profile_id] => 79911
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2022-09-05 11:12:54
+                            [google_console_id] => 397
+                            [console_account_id] => 16406
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [ga4_email_id] => 
+                            [ga4_account_id] => 
+                            [ga4_property_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => 
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => 
+                            [project_logo] => 
+                            [is_favorite] => 0
+                            [goal_completion_count] => 8
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-09-27
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-10-03
+                            [moz_date] => 2022-09-05
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MzY5NS18LTk5LXwtQlVla0xEYTl3Nw==
+                            [fbid] => 
+                            [facebook_page_id] => 
+                            [updated_at] => 2022-09-14 19:50:21
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)

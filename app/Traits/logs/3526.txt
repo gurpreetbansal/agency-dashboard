@@ -1,0 +1,24 @@
+Array
+(
+    [0] => https://pompanobeachelks.com
+    [1] => https://pompanobeachelks.com/history
+    [2] => https://pompanobeachelks.com/calendar
+    [3] => https://pompanobeachelks.com/about
+    [4] => https://pompanobeachelks.com/gallery
+    [5] => https://pompanobeachelks.com/officers
+    [6] => https://pompanobeachelks.com/donate
+    [7] => https://pompanobeachelks.com/renovations
+    [8] => https://pompanobeachelks.com/news
+    [9] => https://pompanobeachelks.com/scholarships
+    [10] => https://pompanobeachelks.com/join
+    [11] => https://pompanobeachelks.com/community-programs
+    [12] => https://pompanobeachelks.com/harry-anna
+    [13] => https://pompanobeachelks.com/contact-us
+    [14] => https://pompanobeachelks.com/army-of-hope
+    [15] => https://pompanobeachelks.com/in-home-therapy
+    [16] => https://pompanobeachelks.com/fl-elks-youth-camp
+    [17] => https://pompanobeachelks.com/events/state-presidents-visit
+    [18] => https://pompanobeachelks.com/events/lounge-12-5-pm-bar-bingo-200-pm-music-2
+    [19] => https://pompanobeachelks.com/events/lounge-4-pm-to-9-pm-bar-pocker-7-pm-music-6
+    [20] => https://pompanobeachelks.com/events/lounge-4-pm-to-9-pm-bar-pocker-7-pm-music-2
+)

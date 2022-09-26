@@ -1,0 +1,96 @@
+App\KeywordPosition Object
+(
+    [table:protected] => keyword_positions
+    [primaryKey:protected] => id
+    [fillable:protected] => Array
+        (
+            [0] => request_id
+            [1] => keyword_id
+            [2] => position
+            [3] => position_type
+            [4] => is_sync
+            [5] => status
+        )
+
+    [connection:protected] => mysql
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [attributes:protected] => Array
+        (
+            [position_type] => 0
+            [position] => 0
+            [request_id] => 3451
+            [keyword_id] => 148336
+        )
+
+    [original:protected] => Array
+        (
+            [position_type] => 0
+            [position] => 0
+            [request_id] => 3451
+            [keyword_id] => 148336
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)

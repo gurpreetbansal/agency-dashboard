@@ -1,0 +1,20 @@
+Array
+(
+    [0] => https://alleyrollers.com
+    [1] => https://alleyrollers.com/pages/contact
+    [2] => https://alleyrollers.com/collections/jetball
+    [3] => https://alleyrollers.com/products/jetball-alley
+    [4] => https://alleyrollers.com/pages/compare-machines
+    [5] => https://alleyrollers.com/pages/about-us
+    [6] => https://alleyrollers.com/collections/skee-ball%25C2%25AE
+    [7] => https://alleyrollers.com/collections/all
+    [8] => https://alleyrollers.com/products/ice-ball-pro
+    [9] => https://alleyrollers.com/collections/ice-ball-1
+    [10] => https://alleyrollers.com/products/skee-ball-1908
+    [11] => https://alleyrollers.com/products/jetball-alley-twin
+    [12] => https://alleyrollers.com/products/skee-ball-home-arcade-premium
+    [13] => https://alleyrollers.com/products/kalkomat-alley-bowler-arcade-alley-game
+    [14] => https://alleyrollers.com/collections/featured-collection-for-homepage
+    [15] => https://alleyrollers.com/collections/vendors%3Fq%3DCheap%2520FIFA%252023%2520coins%2520for%2520sale%252C%2520Buy%2520safe%2520FUT%2520coins%2520PS4%252FPS5%252C%2520Visit%2520Cheapfifa23coins.com%252030%2525%2520OFF%2520code%253AFIFA2023%257C%2520I%2520have%2520made%2520over%252010%2520purchases%2520that%2520have%2520all%2520been%2520pleasant%2520for%2520%2520fut%252023%2520coins%2520sell%2520in%2520CHINA%2521..%2520%2520uqit
+    [16] => https://alleyrollers.com
+)

@@ -1,0 +1,28 @@
+Array
+(
+    [0] => https://snowcountryroofing.com
+    [1] => https://snowcountryroofing.com/blog
+    [2] => https://snowcountryroofing.com/faqs
+    [3] => https://snowcountryroofing.com/about
+    [4] => https://snowcountryroofing.com/booking
+    [5] => https://snowcountryroofing.com/faq
+    [6] => https://snowcountryroofing.com/wishlist
+    [7] => https://snowcountryroofing.com/our-services
+    [8] => https://snowcountryroofing.com/commercial-roofing
+    [9] => https://snowcountryroofing.com/winter-roofing
+    [10] => https://snowcountryroofing.com/residential-roofing
+    [11] => https://snowcountryroofing.com/woodstock-vermont
+    [12] => https://snowcountryroofing.com/roof-repairs
+    [13] => https://snowcountryroofing.com/our-work
+    [14] => https://snowcountryroofing.com/contacts-us
+    [15] => https://snowcountryroofing.com/thank-you
+    [16] => https://snowcountryroofing.com/understanding-architectural-shingles
+    [17] => https://snowcountryroofing.com/woodstock-vermont-quality-roofing-company
+    [18] => https://snowcountryroofing.com/attic-insulation-importance-and-installation
+    [19] => https://snowcountryroofing.com/financing-options-for-homeowners-looking-for-roofing-work
+    [20] => https://snowcountryroofing.com/types-of-roof-vents-everything-you-need-to-know
+    [21] => https://snowcountryroofing.com/selecting-the-right-metal-roof-in-five-simple-steps
+    [22] => https://snowcountryroofing.com/burlington-vermont-local-roofing-company-snow-country-roofing-cheap-affordable-prices
+    [23] => /search%3Fq%3Dsite:https://snowcountryroofing.com/%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+    [24] => https://snowcountryroofing.com
+)

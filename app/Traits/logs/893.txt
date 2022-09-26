@@ -1,0 +1,12 @@
+Array
+(
+    [0] => https://www.hawkesburyturf.com.au
+    [1] => https://www.hawkesburyturf.com.au/grasses.html
+    [2] => https://www.hawkesburyturf.com.au/ordering.html
+    [3] => https://www.hawkesburyturf.com.au/services.html
+    [4] => https://www.hawkesburyturf.com.au/gallery.html
+    [5] => https://www.hawkesburyturf.com.au/diy-info.html
+    [6] => https://www.hawkesburyturf.com.au/contact-us.html
+    [7] => https://www.hawkesburyturf.com.au/about-us.html
+    [8] => https://www.hawkesburyturf.com.au
+)

@@ -1,0 +1,12 @@
+Array
+(
+    [0] => https://www.nuspecwindows.com.au
+    [1] => https://www.nuspecwindows.com.au/products
+    [2] => https://www.nuspecwindows.com.au/product
+    [3] => https://www.nuspecwindows.com.au/about
+    [4] => https://www.nuspecwindows.com.au/contact
+    [5] => https://www.nuspecwindows.com.au/showroom
+    [6] => https://www.nuspecwindows.com.au/privacy-policy
+    [7] => https://www.nuspecwindows.com.au/terms-of-use
+    [8] => /search%3Fq%3Dsite:nuspecwindows.com.au%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+)

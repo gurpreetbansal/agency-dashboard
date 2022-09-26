@@ -1,0 +1,29 @@
+Array
+(
+    [0] => https://windtek.ca
+    [1] => https://windtek.ca/gallery
+    [2] => https://windtek.ca/doors
+    [3] => https://windtek.ca/windows
+    [4] => https://windtek.ca/faq
+    [5] => https://windtek.ca/contact
+    [6] => https://windtek.ca/kitchener
+    [7] => https://windtek.ca/blog
+    [8] => https://windtek.ca/about-us
+    [9] => https://windtek.ca/thank-you-kitchener
+    [10] => https://windtek.ca/support-frontline-workers
+    [11] => https://windtek.ca/georgian-bay-contact
+    [12] => https://windtek.ca/kitchener-windows-and-doors
+    [13] => https://windtek.ca/waterloo-windows-and-doors
+    [14] => https://windtek.ca/ontario-windows-and-doors
+    [15] => https://windtek.ca/woodbridge-windows-and-doors
+    [16] => https://windtek.ca/blog/window-tips-for-winter
+    [17] => https://windtek.ca/blog/best-doors-for-winter
+    [18] => https://windtek.ca/blog/new-ontario-grants-home-retrofit
+    [19] => https://windtek.ca/blog/ontario-home-grants-in-5-minutes
+    [20] => https://windtek.ca/blog/how-often-should-windows-be-replaced
+    [21] => https://windtek.ca/blog/benefits-and-styles-of-french-doors
+    [22] => https://windtek.ca/blog/using-front-doors-to-boost-curb-appeal
+    [23] => https://windtek.ca/blog/how-to-manage-humidity-and-condensation-in-windows
+    [24] => https://windtek.ca/blog/5-reasons-why-you-should-update-your-windows-doors
+    [25] => https://windtek.ca
+)

@@ -1,0 +1,8 @@
+@include('viewkey.ppc_sections.campaigns_list')
+@include('viewkey.ppc_sections.ad_groups_list')
+@include('viewkey.ppc_sections.keywords_list')
+@include('viewkey.ppc_sections.ads_list')
+@include('viewkey.ppc_sections.ad_performance_network')
+@include('viewkey.ppc_sections.ad_performance_device')
+@include('viewkey.ppc_sections.ad_performance_clickType')
+@include('viewkey.ppc_sections.ad_performance_adSlot')

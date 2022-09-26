@@ -1,0 +1,30 @@
+Array
+(
+    [0] => https://www.nomadkiteevents.com
+    [1] => https://www.nomadkiteevents.com/faq
+    [2] => https://www.nomadkiteevents.com/price-list
+    [3] => https://www.nomadkiteevents.com/nowind-activities
+    [4] => https://www.nomadkiteevents.com/kite-blog
+    [5] => https://www.nomadkiteevents.com/el-gouna
+    [6] => https://www.nomadkiteevents.com/about-us
+    [7] => https://www.nomadkiteevents.com/privacy-policy
+    [8] => https://www.nomadkiteevents.com/10-reasons
+    [9] => https://www.nomadkiteevents.com/uk-kitesurfers-news
+    [10] => https://www.nomadkiteevents.com/winter-kitesurfing-egypt
+    [11] => https://www.nomadkiteevents.com/el-gouna/hotels
+    [12] => https://www.nomadkiteevents.com/kite-with-us
+    [13] => https://www.nomadkiteevents.com/family-kitesurfing-holiday
+    [14] => https://www.nomadkiteevents.com/get-in-touch
+    [15] => https://www.nomadkiteevents.com/tag/kite-gear
+    [16] => https://www.nomadkiteevents.com/october-2018-safari-begins
+    [17] => https://www.nomadkiteevents.com/kitesurfing-equipment-beginners-guide
+    [18] => https://www.nomadkiteevents.com/season-finale-safari-2018
+    [19] => https://www.nomadkiteevents.com/booking-cancelation-and-rental-policy
+    [20] => https://www.nomadkiteevents.com/tag/learn-to-kite-surf
+    [21] => https://www.nomadkiteevents.com/giveaway-free-kite-surf-destination-map
+    [22] => https://www.nomadkiteevents.com/how-to-choose-the-right-kitesurfing-school
+    [23] => https://www.nomadkiteevents.com/our-red-sea-kite-safari-october-2018-update
+    [24] => https://www.nomadkiteevents.com/progression-clinic-with-gogo-calling-all-independent-riders
+    [25] => https://www.nomadkiteevents.com/faq-items/can-my-family-or-friends-come-to-the-center-even-if-they-are-not-kiting
+    [26] => https://nomadkiteevents.com
+)

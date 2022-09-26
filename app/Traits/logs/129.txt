@@ -1,0 +1,27 @@
+Array
+(
+    [0] => https://movingsolutions.com.au
+    [1] => https://movingsolutions.com.au/blogs
+    [2] => https://movingsolutions.com.au/contact
+    [3] => https://movingsolutions.com.au/relocation-management
+    [4] => https://movingsolutions.com.au/storage-solutions
+    [5] => https://movingsolutions.com.au/terms-conditions
+    [6] => https://movingsolutions.com.au/privacy-policy
+    [7] => https://movingsolutions.com.au/packing-unpacking
+    [8] => https://movingsolutions.com.au/about-us
+    [9] => https://movingsolutions.com.au/bond-cleaning
+    [10] => https://movingsolutions.com.au/free-quote
+    [11] => https://movingsolutions.com.au/interstate-removalists-brisbane
+    [12] => https://movingsolutions.com.au/ndis-removalist-service
+    [13] => https://movingsolutions.com.au/furniture-removal-brisbane
+    [14] => https://movingsolutions.com.au/local-removalist-brisbane
+    [15] => https://movingsolutions.com.au/local-movers-brisbane
+    [16] => https://movingsolutions.com.au/become-our-partner
+    [17] => https://movingsolutions.com.au/register-your-business
+    [18] => https://movingsolutions.com.au/ndis-registered-removalist-services
+    [19] => https://movingsolutions.com.au/moving-timeline-follow-this-checklist-when-moving
+    [20] => https://movingsolutions.com.au/moving-house-checklist-for-packing-your-valuables
+    [21] => https://movingsolutions.com.au/what-you-should-know-about-moving-during-a-pandemic
+    [22] => https://movingsolutions.com.au/how-to-be-best-prepared-for-moving-day-reasons-to-get-moving-quotes-brisbane
+    [23] => https://movingsolutions.com.au
+)

@@ -1,0 +1,8 @@
+Array
+(
+    [0] => https://www.doctorclothesline.com.au
+    [1] => https://www.doctorclothesline.com.au/replace-clothesline.html
+    [2] => https://www.doctorclothesline.com.au/clothesline-repair.html
+    [3] => https://www.doctorclothesline.com.au
+    [4] => https://www.doctorclothesline.com.au/responsive
+)

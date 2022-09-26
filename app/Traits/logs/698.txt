@@ -1,0 +1,19 @@
+Array
+(
+    [0] => https://www.davidinspector.com
+    [1] => https://www.davidinspector.com/services-san-antonio-inspections
+    [2] => https://www.davidinspector.com/about-home-inspectors-in-san-antonio
+    [3] => https://www.davidinspector.com/contact-best-home-inspector-san-antonio
+    [4] => https://www.davidinspector.com/5-smart-home-inspection-tips-for-sellers
+    [5] => https://www.davidinspector.com/covid-19-precautions-for-home-inspector-buyers-sellers
+    [6] => https://www.davidinspector.com/what-should-be-in-your-home-inspection-checklist
+    [7] => https://www.davidinspector.com/5-questions-you-must-ask-your-home-inspector
+    [8] => https://www.davidinspector.com/5-reasons-why-you-shouldnt-avoid-a-home-inspection
+    [9] => https://www.davidinspector.com/5-mistakes-every-buyer-should-avoid-during-home-inspection
+    [10] => https://www.davidinspector.com/who-pays-for-a-home-inspection-when-buying-a-home
+    [11] => https://www.davidinspector.com/how-crucial-a-property-inspection-can-be-for-home-buyers
+    [12] => https://www.davidinspector.com/how-long-does-it-take-to-do-a-home-inspection
+    [13] => https://www.davidinspector.com/5-perks-of-a-pre-sale-home-inspection-in-san-antonio-tx
+    [14] => https://www.davidinspector.com/5-compelling-reasons-why-you-need-a-home-inspection-for-a-newly-constructed-home
+    [15] => https://davidinspector.com
+)

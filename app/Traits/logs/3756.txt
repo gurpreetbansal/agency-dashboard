@@ -1,0 +1,22 @@
+Array
+(
+    [0] => https://zaptify.com
+    [1] => https://zaptify.com/blogs
+    [2] => https://zaptify.com/resources
+    [3] => https://zaptify.com/about
+    [4] => https://zaptify.com/contact
+    [5] => https://zaptify.com/social-media
+    [6] => https://zaptify.com/category/business-solutions
+    [7] => https://zaptify.com/listing-management-services
+    [8] => https://zaptify.com/website-design-development
+    [9] => https://zaptify.com/reputation-management-software
+    [10] => https://zaptify.com/sms-email-appointment-reminders
+    [11] => https://zaptify.com/best-customer-communication-software
+    [12] => https://zaptify.com/calendars-for-small-business
+    [13] => https://zaptify.com/workflow-automation-for-small-business
+    [14] => https://zaptify.com/best-seo-services-in-logan
+    [15] => https://zaptify.com/payment-processing-for-small-business
+    [16] => https://zaptify.com
+    [17] => https://zaptify.com/customer-relationship-management-system-crm
+    [18] => https://zaptify.com/customer-relationship-management-system
+)

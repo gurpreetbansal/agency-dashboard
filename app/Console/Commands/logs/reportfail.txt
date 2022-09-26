@@ -1,0 +1,100 @@
+App\SendScheduleReport Object
+(
+    [table:protected] => send_schedule_reports
+    [primaryKey:protected] => id
+    [fillable:protected] => Array
+        (
+            [0] => report_id
+            [1] => request_id
+            [2] => file_name
+            [3] => status
+        )
+
+    [connection:protected] => mysql
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [attributes:protected] => Array
+        (
+            [id] => 10404
+            [report_id] => 721
+            [request_id] => 1356
+            [file_name] => packapill.com-Fri-Sep-2022.pdf
+            [status] => 1
+            [created_at] => 2022-09-23 08:15:45
+            [updated_at] => 2022-09-23 08:15:45
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 10404
+            [report_id] => 721
+            [request_id] => 1356
+            [file_name] => packapill.com-Fri-Sep-2022.pdf
+            [status] => 1
+            [created_at] => 2022-09-23 08:15:45
+            [updated_at] => 2022-09-23 08:15:45
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)

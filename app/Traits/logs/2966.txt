@@ -1,0 +1,20 @@
+Array
+(
+    [0] => https://www.supremeshowers.com
+    [1] => https://www.supremeshowers.com/blog
+    [2] => https://www.supremeshowers.com/about
+    [3] => https://www.supremeshowers.com/gallery
+    [4] => https://www.supremeshowers.com/mirrors
+    [5] => https://www.supremeshowers.com/services-area
+    [6] => https://www.supremeshowers.com/design-options
+    [7] => https://www.supremeshowers.com/contact-us
+    [8] => https://www.supremeshowers.com/our-work
+    [9] => https://www.supremeshowers.com/custom-glass-chicago
+    [10] => https://www.supremeshowers.com/terms-of-service
+    [11] => https://www.supremeshowers.com/custom-mirror-installation
+    [12] => https://www.supremeshowers.com/what-we-do
+    [13] => https://www.supremeshowers.com/glass-stair-railing-installation
+    [14] => https://www.supremeshowers.com/all-about-starphire-low-iron-glass
+    [15] => https://www.supremeshowers.com/neo-angle-shower-doors-everything-you-need-to-know
+    [16] => https://www.supremeshowers.com
+)

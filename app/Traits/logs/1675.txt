@@ -1,0 +1,19 @@
+Array
+(
+    [0] => https://mcgillbrothers.com
+    [1] => https://mcgillbrothers.com/about
+    [2] => https://mcgillbrothers.com/services
+    [3] => https://mcgillbrothers.com/careers
+    [4] => https://mcgillbrothers.com/projects
+    [5] => https://mcgillbrothers.com/careers/application
+    [6] => https://mcgillbrothers.com/careers/solicitud
+    [7] => https://mcgillbrothers.com/projects/hdr-headquarters
+    [8] => https://mcgillbrothers.com/projects/creighton-university
+    [9] => https://mcgillbrothers.com/projects/kiewit-plaza
+    [10] => https://mcgillbrothers.com/projects/baxter-dealerships
+    [11] => https://mcgillbrothers.com/projects/hilton-downtown
+    [12] => https://mcgillbrothers.com/projects/waterproofing-project-2017
+    [13] => https://mcgillbrothers.com/projects/childrens-hospital-medical-center
+    [14] => https://mcgillbrothers.com/projects/omahas-henry-doorly-zoo-acquarium
+    [15] => https://mcgillbrothers.com
+)

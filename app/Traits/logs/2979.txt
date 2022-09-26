@@ -1,0 +1,20 @@
+Array
+(
+    [0] => https://condojunkie.ca
+    [1] => https://condojunkie.ca/toronto
+    [2] => https://condojunkie.ca/markham
+    [3] => https://condojunkie.ca/vaughan
+    [4] => https://condojunkie.ca/pickering
+    [5] => https://condojunkie.ca/etobicoke
+    [6] => https://condojunkie.ca/featured
+    [7] => https://condojunkie.ca/news
+    [8] => https://condojunkie.ca/mississauga
+    [9] => https://condojunkie.ca/contact
+    [10] => https://condojunkie.ca/investment-condos
+    [11] => https://condojunkie.ca/north-york
+    [12] => https://condojunkie.ca/project_category/toronto
+    [13] => https://condojunkie.ca/projects/36-zorra
+    [14] => https://condojunkie.ca/projects/lakeview-village
+    [15] => https://condojunkie.ca/projects/123-portland
+    [16] => https://condojunkie.ca/wp-content/uploads/2022/06/LakeviewVillage_BuilderBrochure_Final_Nov2021.pdf
+)

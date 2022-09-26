@@ -1,0 +1,7 @@
+Array
+(
+    [0] => https://paste.dental
+    [1] => https://paste.dental/author/michael_tu92jlhy
+    [2] => https://paste.dental/hello-world
+    [3] => https://paste.dental/category/uncategorized
+)

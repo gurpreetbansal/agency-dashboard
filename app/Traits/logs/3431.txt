@@ -1,0 +1,13 @@
+Array
+(
+    [0] => https://www.builtamericanequipment.com
+    [1] => https://www.builtamericanequipment.com/support
+    [2] => https://www.builtamericanequipment.com/order-now
+    [3] => https://www.builtamericanequipment.com/product-details/snbe-1500
+    [4] => https://www.builtamericanequipment.com/product-details/snbe-1000
+    [5] => https://www.builtamericanequipment.com/product-details/dnbe-1000
+    [6] => https://www.builtamericanequipment.com/roller-carts
+    [7] => https://www.builtamericanequipment.com/spray-booths
+    [8] => https://www.builtamericanequipment.com/powder-coating-ovens
+    [9] => https://www.builtamericanequipment.com
+)

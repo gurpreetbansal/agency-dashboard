@@ -1,0 +1,36 @@
+Array
+(
+    [0] => https://thebodyfactory.com.au
+    [1] => https://thebodyfactory.com.au/challenges
+    [2] => https://thebodyfactory.com.au/massage
+    [3] => https://thebodyfactory.com.au/blogs
+    [4] => https://thebodyfactory.com.au/retreats
+    [5] => https://thebodyfactory.com.au/groupon
+    [6] => https://thebodyfactory.com.au/scoopon
+    [7] => https://thebodyfactory.com.au/group-fitness
+    [8] => https://thebodyfactory.com.au/privacy-policy
+    [9] => https://thebodyfactory.com.au/time-table
+    [10] => https://thebodyfactory.com.au/metabolic-calculator
+    [11] => https://thebodyfactory.com.au/terms-conditions
+    [12] => https://thebodyfactory.com.au/personal-training
+    [13] => https://thebodyfactory.com.au/book-now
+    [14] => https://thebodyfactory.com.au/personal-trainer/bec_jefferis
+    [15] => https://thebodyfactory.com.au/personal-trainer/luke-edmonds
+    [16] => https://thebodyfactory.com.au/blog/eating-vs-dieting
+    [17] => https://thebodyfactory.com.au/get-free-gym-pass
+    [18] => https://thebodyfactory.com.au/personal-trainer/dane-kelsall
+    [19] => https://thebodyfactory.com.au/personal-trainer/bec-saunders
+    [20] => https://thebodyfactory.com.au/personal-trainer/tayla-mason
+    [21] => https://thebodyfactory.com.au/blog/live-online-training
+    [22] => https://thebodyfactory.com.au/personal-trainer/dan-adams
+    [23] => https://thebodyfactory.com.au/personal-trainer/nat-rikihana
+    [24] => https://thebodyfactory.com.au/personal-trainer/lyndal-brown
+    [25] => https://thebodyfactory.com.au/blog/sports-supplements-for-athletes
+    [26] => https://thebodyfactory.com.au/blog/do-fitness-challenges-work
+    [27] => https://www.challenge.thebodyfactory.com.au/7-Day-Free-Pass
+    [28] => https://thebodyfactory.com.au/blog/are-cheat-meals-ever-ok
+    [29] => https://thebodyfactory.com.au/blog/gym-hygiene-at-the-body-factory
+    [30] => https://thebodyfactory.com.au/blog/taking-the-plunge-with-personal-training
+    [31] => https://thebodyfactory.com.au/blog/get-your-groove-back-into-hiit
+    [32] => https://thebodyfactory.com.au
+)

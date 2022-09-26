@@ -1,0 +1,23 @@
+Array
+(
+    [0] => https://coopatex.co.uk
+    [1] => https://coopatex.co.uk/articles
+    [2] => https://coopatex.co.uk/servicing
+    [3] => https://coopatex.co.uk/products
+    [4] => https://coopatex.co.uk/gatex
+    [5] => https://coopatex.co.uk/flameless-venting
+    [6] => https://coopatex.co.uk/explosion-suppression
+    [7] => https://coopatex.co.uk/dust-testing
+    [8] => https://coopatex.co.uk/privacy-policy
+    [9] => https://coopatex.co.uk/contact-us
+    [10] => https://coopatex.co.uk/explosion-isolation
+    [11] => https://coopatex.co.uk/rsbp-uk
+    [12] => https://coopatex.co.uk/explosion-venting
+    [13] => https://coopatex.co.uk/industrial-dust-explosions
+    [14] => https://coopatex.co.uk/hrd-isolation-barrier
+    [15] => https://coopatex.co.uk/power-plant-explosion-risks
+    [16] => https://coopatex.co.uk/woodworking-industry-explosion-risks
+    [17] => https://coopatex.co.uk/power-plant-biomass-explosion-protection
+    [18] => https://coopatex.co.uk
+    [19] => https://coopatex.co.uk/ventex
+)

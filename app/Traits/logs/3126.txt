@@ -1,0 +1,18 @@
+Array
+(
+    [0] => https://dfwdentalmarketing.com
+    [1] => https://dfwdentalmarketing.com/social
+    [2] => https://dfwdentalmarketing.com/video
+    [3] => https://dfwdentalmarketing.com/about
+    [4] => https://dfwdentalmarketing.com/blog
+    [5] => https://dfwdentalmarketing.com/web-design
+    [6] => https://dfwdentalmarketing.com/success-stories
+    [7] => https://dfwdentalmarketing.com/contact-us
+    [8] => https://dfwdentalmarketing.com/dental-marketing-podcast
+    [9] => https://dfwdentalmarketing.com/email-marketing-for-dentists
+    [10] => https://dfwdentalmarketing.com/online-visibility-and-voice-search-for-dentists
+    [11] => https://dfwdentalmarketing.com/marketing-tips/benefits-of-a-dental-marketing-company
+    [12] => https://dfwdentalmarketing.com/marketing-tips/outstanding-video-marketing-for-dentists-in-dallas-fort-worth
+    [13] => https://dfwdentalmarketing.com/marketing-tips/10-reasons-you-should-use-social-media-video-in-your-dental-marketing
+    [14] => https://dfwdentalmarketing.com
+)

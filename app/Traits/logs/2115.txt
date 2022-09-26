@@ -1,0 +1,37 @@
+Array
+(
+    [0] => https://metalroofmontreal.ca
+    [1] => https://metalroofmontreal.ca/cost
+    [2] => https://metalroofmontreal.ca/fr
+    [3] => https://metalroofmontreal.ca/accessories
+    [4] => https://metalroofmontreal.ca/blog
+    [5] => https://metalroofmontreal.ca/faq
+    [6] => https://metalroofmontreal.ca/manufacturing
+    [7] => https://metalroofmontreal.ca/products
+    [8] => https://metalroofmontreal.ca/repairs
+    [9] => https://metalroofmontreal.ca/installation
+    [10] => https://metalroofmontreal.ca/gallery
+    [11] => https://metalroofmontreal.ca/fr/contact
+    [12] => https://metalroofmontreal.ca/fr/produits
+    [13] => https://metalroofmontreal.ca/fr/cout
+    [14] => https://metalroofmontreal.ca/fr/accessoires
+    [15] => https://metalroofmontreal.ca/fr/blogfr
+    [16] => https://metalroofmontreal.ca/fr/reparations
+    [17] => https://metalroofmontreal.ca/why-us
+    [18] => https://metalroofmontreal.ca/fr/fabrication
+    [19] => https://metalroofmontreal.ca/contact-us
+    [20] => https://metalroofmontreal.ca/fr/images
+    [21] => https://metalroofmontreal.ca/fr/merci
+    [22] => https://metalroofmontreal.ca/fr/pourquoi-nous
+    [23] => https://metalroofmontreal.ca/fr/faq-2
+    [24] => https://metalroofmontreal.ca/fr/installation-fr
+    [25] => https://metalroofmontreal.ca/which-roofing-material-is-best-for-my-home
+    [26] => https://metalroofmontreal.ca/fr/7-erreurs-de-toiture-en-metal-a-eviter
+    [27] => https://metalroofmontreal.ca/fr/conseils-pour-eviter-la-rouille-des-toitures-metalliques
+    [28] => https://metalroofmontreal.ca/fr/quel-materiau-de-toiture-convient-le-mieux-a-ma-maison
+    [29] => https://metalroofmontreal.ca/how-can-metal-roofing-affect-the-curb-appeal-of-your-house
+    [30] => https://metalroofmontreal.ca/fr/tout-ce-que-vous-devez-savoir-sur-les-toitures-metalliques
+    [31] => https://metalroofmontreal.ca/how-can-metal-roofing-affect-the-curb-appeal-of-your-house-2
+    [32] => https://metalroofmontreal.ca/fr/comment-la-toiture-metallique-peut-elle-affecter-lattrait-de-la-bordure-de-votre-maison
+    [33] => https://metalroofmontreal.ca
+)

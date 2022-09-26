@@ -1,0 +1,10 @@
+Array
+(
+    [0] => https://water.coway-usa.com
+    [1] => https://water.coway-usa.com/job_01_work
+    [2] => https://water.coway-usa.com/home-water-purification-systems
+    [3] => https://water.coway-usa.com/product/premium-countertop-cold-water-purifier
+    [4] => https://water.coway-usa.com/product/premium-hot-cold-standing-water-purifier
+    [5] => https://water.coway-usa.com/how-to-select-a-water-purifier-for-home
+    [6] => https://water.coway-usa.com
+)

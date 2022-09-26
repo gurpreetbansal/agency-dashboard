@@ -1,0 +1,72 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+use App\SemrushUserAccount;
+use App\BacklinkSummary;
+use App\Traits\ClientAuth;
+
+class AuditTask extends Model {
+
+  use ClientAuth;
+  
+	/**
+     * The database table used by the model.
+     *
+     * @var string
+     */
+    protected $table = 'audit_tasks';
+
+    /**
+     * The database primary key value.
+     *
+     * @var string
+     */
+    protected $primaryKey = 'id';
+
+    /**
+     * Attributes that should be mass-assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+      'user_id','campaign_id','task_id','status'
+  	];
+
+
+    public static function createTask($user_id,$campaign_id){
+
+        $domainDetails = SemrushUserAccount::select('id','user_id','domain_url','host_url','url_type')->where('id',$campaign_id)->first();
+        
+        $client = null;
+        try {
+          $client = $this->DFSAuth();
+        } catch (RestClientException $e) {
+          return json_decode($e->getMessage(), true);
+        }
+
+        $post_array[] = array(
+           "target" => $campaign->host_url,
+           "max_crawl_pages" => 50,
+           "load_resources" => true,
+           "enable_javascript" => true,
+           "custom_js" => "meta = {}; meta.url = document.URL; meta;",
+        );
+
+
+        try {
+          $task_post_result = $client->post('/v3/on_page/task_post', $post_array);
+
+          $response['status'] = '1'; // Insert Data Done
+          $response['error'] = '0';
+          $response['message'] = 'Request sent Successfully';
+        } catch (RestClientException $e) {
+          $response['status'] = '2'; 
+          $response['error'] = '2';
+          $response['message'] = $e->getMessage();
+        }
+     
+    }
+
+}

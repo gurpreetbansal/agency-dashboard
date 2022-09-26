@@ -1,0 +1,256 @@
+/*For Developer Use*/
+
+.grey {
+    color: #aeaeae;
+}
+
+.errorStyle p {
+    color: red;
+}
+
+.is-invalid {
+    color: red;
+}
+
+#AllErrors {
+    border: 1px solid #fff;
+    padding: 8px;
+    border-radius: 25px;
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    margin-bottom: 10px;
+}
+.errorStyle{
+    display: none;
+}
+.account-form-box span.vanity-url-span {
+    position: absolute;
+    bottom: 14px;
+    left: 43px;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 16px;
+}
+.account-form-box  input.form-control.vanity-url-field {
+    padding-left: 107px !important;
+}
+
+.account-form-box  span.vanity-url-span+span.vanity-url-span {
+    left: auto;
+    right: 15px;
+}
+
+.account-form-box  input.form-control.vanity-url-field {
+    padding-right: 260px;
+}
+
+@media only screen and (max-width: 1699px){
+    .account-form-box  span.vanity-url-span{
+        bottom: 11px;
+    }
+}
+
+/*gmb review section read more/less*/
+.readmore .moreText {
+    display:none;
+}
+.readmore a.more {
+    display:block;
+}
+
+.shared-access-box .form-group {
+    max-width: 512px;
+}
+
+
+/*29 april*/
+.gmb_refresh_div,.ppc_refresh_div,.analytics_refresh_div,.search_console_refresh_div, .ga4_refresh_div, .facebook_refresh_div, .ga4_detail_refresh_div {
+    display: none;
+}
+
+/*may 07*/
+.disabled-project-shared {
+    background-color: #fb4a5926;
+}
+
+/*may08*/
+.sidebar-search-clear,.dashboard-search-clear,.liveKeyword-search-clear,.backLink-search-clear,.alerts-search-clear,.organicKeyword-search-clear,.archived-search-clear,.scheduleReport-search-clear{
+    display: none;
+}
+/*may 14*/
+.refresh-search-icon{
+    display: none;
+}
+
+/*#append_tag_div{
+    min-height: 150px;
+}*/
+
+
+.note-close.popup-close{
+    width: auto;
+    height: auto;
+    transform: none !important;
+    border-radius: 0px;
+    top: 5px !important;
+    right: 16px !important;
+}
+
+.note-close.popup-close:before{
+    content: "\f014";
+    font: normal normal normal 14px/1 FontAwesome;
+    width: auto;
+    height: auto;
+    transform: none;
+    top: 0;
+    left: 0;
+    background: transparent !important;
+}
+
+.note-close.popup-close:hover:before{
+    color: #f00;
+}
+
+.note-close.popup-close:after{
+    display: none;
+}
+
+
+.notes-popup .notes-list article p{
+    white-space: normal;
+    word-break: break-all;
+}
+
+.hide{
+    display: none;
+}
+
+/*expired subscription*/
+span.dashboard-project-name{position:relative; color:#999 !important;}
+span.dashboard-project-name:after{content: "";
+    background: #999;
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    left: 0;
+    bottom: 11px}
+
+
+/*selectpicker loaders*/
+.analytic-account-loader,.analytic-property-loader,.analytic-view-loader,.sc-loader,.adwords-loader,.gmb-loader,
+.detail-adwords-loader,.detail-gmb-loader,.sc-detail-loader,.analytic-account-detail-loader,.analytic-property-detail-loader,.analytic-view-detail-loader,
+.sc-addNew-loader,.analytic-account-addNew-loader,.analytic-property-addNew-loader,.analytic-view-addNew-loader,.adwords-addNew-loader,.gmb-addNew-loader,.ga4-account-loader, .facebook-loader,.facebook-account-loader, .ga4-property-loader,.analytic4-account-detail-loader,.analytic4-property-detail-loader{
+    display: none;
+}
+
+.project-setting-loaders,.detail-loaders,.addNew-loaders {
+    position: absolute;
+    left: 100%;
+    width: 50%;
+    z-index: 1;
+}
+.project-setting-loaders img,.detail-loaders img,.addNew-loaders img {
+    margin-left: -60px;
+    margin-top: -87px;
+}
+
+@media (max-width: 1400px) {
+.project-setting-loaders img,.detail-loaders img,.addNew-loaders img {
+    margin-left: -45px;
+    margin-top: -72px;
+    height: 28px;
+}
+}
+
+/*.project-table-cover .project-table-body.ecomProductTable table tr td h6 a {
+    color: #327aee;
+}
+.project-table-cover .project-table-body.ecomProductTable .flex .uk-progress {
+    margin: 0 15px 0 0;
+    width: 100%;
+    max-width: 70%;
+}*/ 
+
+.green {
+    color: #44c717;
+}
+.red{
+    color: #ff0000;
+}
+form .form-control.valid-input{
+    border-color: #44c717;
+}
+
+.add-new-check, .add-new-cross {
+    position: absolute;
+    top: 50%;
+    right: 145px;
+    transform: translate(0%,-50%);
+}
+
+.new-project-created-section .uk-progress {
+    max-width: 100%;
+}
+
+
+/*ppc refresh clear icons*/
+.campaignlist-search-clear,.adGroupsList-search-clear,.keywordsList-search-clear,.ads-search-clear,.performanceNetwork-search-clear,.performanceDevice-search-clear,.performanceClickType-search-clear,.performanceAdSlot-search-clear{
+    display: none;
+}
+
+
+/*#myObserverGmb {
+    position: relative;
+    top: -80px;
+}
+
+.floatingDivGmb.sticky {
+    padding: 12px 20px 1px 20px;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 10px 10px 0 rgb(0 0 0 / 4%);
+    box-shadow: 0px 10px 10px 0 rgb(0 0 0 / 4%);
+}
+
+.floatingDivGmb {
+    position: sticky;
+    top: 78px;
+    z-index: 9;
+    padding: 0px 20px 5px 20px;
+    margin: 0px -20px 5px -20px;
+    -webkit-transition: 0.1s;
+    transition: 0.1s;
+}
+.floatingDivGmb .alert.alert-danger {
+    background: rgba(251,74,89,0.1)!important;
+    border-left: 6px solid #fb4a59!important;
+    border-radius: 0!important;
+    padding: 15px 20px!important;
+    text-align: left!important;
+    color: #000!important;
+    margin: 0 0 10px 0!important;
+}
+
+.floatingDivGmb .alert.alert-danger i {
+    color: #fb4a59;
+    margin-right: 5px;
+    font-size: 20px;
+    position: relative;
+    top: 2px;
+}*/
+
+.daterangepicker .start-date{
+    pointer-events: none;
+}
+.hidden-previous-datepicker{
+    display: none;
+}
+
+.show-error-message.error{
+    color: red;
+    margin-bottom: 10px;
+}
+
+/*facebook section css*/
+.facebook-dateRange-popup{
+    display: none;
+}

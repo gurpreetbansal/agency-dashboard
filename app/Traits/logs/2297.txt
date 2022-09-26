@@ -1,0 +1,31 @@
+Array
+(
+    [0] => https://www.selltobrickment.com
+    [1] => https://www.selltobrickment.com/reviews
+    [2] => https://www.selltobrickment.com/compare
+    [3] => https://www.selltobrickment.com/blog
+    [4] => https://www.selltobrickment.com/faq
+    [5] => https://www.selltobrickment.com/privacy
+    [6] => https://www.selltobrickment.com/resource-page
+    [7] => https://www.selltobrickment.com/contact-us
+    [8] => https://www.selltobrickment.com/sell-your-house-in-texas
+    [9] => https://www.selltobrickment.com/we-buy-houses-north-tx
+    [10] => https://www.selltobrickment.com/we-buy-houses-dallas-tx
+    [11] => https://www.selltobrickment.com/we-buy-houses-in-garland-tx
+    [12] => https://www.selltobrickment.com/best-home-buying-company-in-texas
+    [13] => https://www.selltobrickment.com/we-buy-houses-in-plano-tx
+    [14] => https://www.selltobrickment.com/blog/land-buyers-in-dallas-tx
+    [15] => https://www.selltobrickment.com/we-buy-houses-in-texas-review
+    [16] => https://www.selltobrickment.com/blog/author/shilphousing
+    [17] => https://www.selltobrickment.com/blog/sell-land-online-for-free-in-tx
+    [18] => https://www.selltobrickment.com/how-do-i-sell-my-house-in-texas
+    [19] => https://www.selltobrickment.com/blog/understanding-expenses-when-selling-land-in-north-texas
+    [20] => https://www.selltobrickment.com/blog/the-probate-process-for-a-house-in-north-tx
+    [21] => https://www.selltobrickment.com/blog/is-hiring-an-agent-in-dallas-really-worth-it
+    [22] => https://www.selltobrickment.com/blog/who-are-the-cash-house-buyers-in-dallas-tx
+    [23] => https://www.selltobrickment.com/get-a-cash-offer-today
+    [24] => https://www.selltobrickment.com/blog/how-do-i-sell-my-tx-land-to-a-developer
+    [25] => https://www.selltobrickment.com/blog/how-to-sell-my-land-yourself-in-dallas-fort-worth
+    [26] => https://www.selltobrickment.com/blog/heres-how-to-sell-your-house-for-cash-in-market_city-during-the-winter
+    [27] => https://www.selltobrickment.com
+)

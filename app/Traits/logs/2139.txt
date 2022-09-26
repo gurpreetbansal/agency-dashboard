@@ -1,0 +1,12 @@
+Array
+(
+    [0] => https://povertysucksfishing.com
+    [1] => https://povertysucksfishing.com/contact
+    [2] => https://povertysucksfishing.com/gallery
+    [3] => https://povertysucksfishing.com/booking
+    [4] => https://povertysucksfishing.com/port-amenities
+    [5] => https://povertysucksfishing.com/about-us
+    [6] => https://povertysucksfishing.com/charter-services
+    [7] => https://povertysucksfishing.com/fishing-season-species-list
+    [8] => https://povertysucksfishing.com
+)

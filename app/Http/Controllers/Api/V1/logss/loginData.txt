@@ -1,0 +1,16 @@
+Array
+(
+    [id] => 9
+    [name] => Shruti dhiman
+    [email] => shruti.dhiman@imarkinfotech.com
+    [role] => front
+    [role_id] => 2
+    [phone] => 7696473456
+    [company_name] => shrutidhiman12
+    [profile_image] => https://agencydashboard.io/public/storage/profile_images/shruti-dhiman_1617345401.jfif
+    [status] => 1
+    [email_verified] => 1
+    [login_as] => 2
+    [last_login] => 2021-04-08 12:20:32
+    [is_admin] => 1
+)

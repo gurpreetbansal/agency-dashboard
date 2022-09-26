@@ -1,0 +1,22 @@
+Array
+(
+    [0] => https://petramix.com
+    [1] => https://petramix.com/ferias
+    [2] => https://petramix.com/alquiler
+    [3] => https://petramix.com/contacto
+    [4] => https://petramix.com/repuestos
+    [5] => https://petramix.com/gracias
+    [6] => https://petramix.com/quienes-somos
+    [7] => https://petramix.com/aviso-legal
+    [8] => https://petramix.com/petramix-e400v
+    [9] => https://petramix.com/air-plus
+    [10] => https://petramix.com/air-base
+    [11] => https://petramix.com/air-max
+    [12] => https://petramix.com/politica-de-cookies
+    [13] => https://petramix.com/petramix-d-f50
+    [14] => https://petramix.com/politica-de-privacidad
+    [15] => https://petramix.com/fabricacion-a-medida
+    [16] => https://petramix.com/petramix-df50-eco
+    [17] => https://petramix.com/mas-informacion-sobre-las-cookies
+    [18] => https://petramix.com
+)

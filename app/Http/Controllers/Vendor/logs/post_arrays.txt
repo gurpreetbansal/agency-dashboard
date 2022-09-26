@@ -1,0 +1,42 @@
+Array
+(
+    [0] => Array
+        (
+            [target] => icarefuneral.com
+            [language_name] => English
+            [location_name] => Singapore
+            [filters] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => keyword_data.keyword_info.search_volume
+                            [1] => <>
+                            [2] => 0
+                        )
+
+                    [1] => and
+                    [2] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => ranked_serp_element.serp_item.type
+                                    [1] => <>
+                                    [2] => paid
+                                )
+
+                            [1] => or
+                            [2] => Array
+                                (
+                                    [0] => ranked_serp_element.serp_item.is_malicious
+                                    [1] => =
+                                    [2] => 
+                                )
+
+                        )
+
+                )
+
+            [limit] => 700
+        )
+
+)

@@ -1,0 +1,26 @@
+Array
+(
+    [0] => https://www.shosty.com
+    [1] => https://www.shosty.com/blog
+    [2] => https://www.shosty.com/founders
+    [3] => https://www.shosty.com/flexibility-testimonial
+    [4] => https://www.shosty.com/our-hosts
+    [5] => https://www.shosty.com/management-fees
+    [6] => https://www.shosty.com/about-us
+    [7] => https://www.shosty.com/interior-design-testimonial
+    [8] => https://www.shosty.com/airbnb-interior-design
+    [9] => https://www.shosty.com/property-management-testimonial
+    [10] => https://www.shosty.com/real-estate-roi-testimonial
+    [11] => https://www.shosty.com/blog/categories/airbnb-legal
+    [12] => https://www.shosty.com/blog/categories/digital-nomad
+    [13] => https://www.shosty.com/contact-6
+    [14] => https://www.shosty.com/blog/categories/remote-working-visa
+    [15] => https://www.shosty.com/post/dynamic-pricing-for-dubai-short-term-rental
+    [16] => https://www.shosty.com/blog/categories/short-term-vs-long-term-rental
+    [17] => https://www.shosty.com/post/the-fun-part-legal-requirements-to-becoming-an-airbnb-host
+    [18] => https://www.shosty.com/post/why-short-term-rental-will-thrive-in-post-pandemic-dubai
+    [19] => https://www.shosty.com/post/short-term-rental-vs-long-term-rental-which-one-is-right-for-you
+    [20] => https://www.shosty.com/post/airbnb-host-protection-5-steps-on-how-you-can-protect-yourself-from-bad-guests
+    [21] => https://www.shosty.com/post/short-term-rental-vs-long-term-rental-5-signs-your-dubai-investment-property-is-a-short-term-rental
+    [22] => https://www.shosty.com
+)

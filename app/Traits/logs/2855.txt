@@ -1,0 +1,12 @@
+Array
+(
+    [0] => https://magnumgeneralcontracting.com
+    [1] => https://magnumgeneralcontracting.com/partners
+    [2] => https://magnumgeneralcontracting.com/about
+    [3] => https://magnumgeneralcontracting.com/services
+    [4] => https://magnumgeneralcontracting.com/services/commercial
+    [5] => https://magnumgeneralcontracting.com/services/renovation
+    [6] => https://magnumgeneralcontracting.com/contact-us
+    [7] => https://magnumgeneralcontracting.com/services/residential
+    [8] => https://magnumgeneralcontracting.com/services/design-build-contractor
+)

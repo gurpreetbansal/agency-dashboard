@@ -1,0 +1,13 @@
+Array
+(
+    [0] => https://hyperdigital.nz
+    [1] => https://hyperdigital.nz/websites
+    [2] => https://hyperdigital.nz/about
+    [3] => https://hyperdigital.nz/contact
+    [4] => https://hyperdigital.nz/paid-ads
+    [5] => https://hyperdigital.nz/google-marketing-services
+    [6] => https://hyperdigital.nz/work-with-us
+    [7] => https://hyperdigital.nz/paid-ads/case-studies
+    [8] => https://hyperdigital.nz
+    [9] => https://hyperdigital.nz/seo
+)

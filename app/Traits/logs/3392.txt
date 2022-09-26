@@ -1,0 +1,10 @@
+Array
+(
+    [0] => https://palmillarestaurant.com
+    [1] => https://palmillarestaurant.com/contact
+    [2] => https://palmillarestaurant.com/brunch
+    [3] => https://palmillarestaurant.com/accessibility-statement
+    [4] => https://palmillarestaurant.com/food-to-go
+    [5] => https://palmillarestaurant.com/drinks-to-go
+    [6] => https://palmillarestaurant.com
+)

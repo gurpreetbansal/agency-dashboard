@@ -1,0 +1,7 @@
+Array
+(
+    [0] => https://www.bakerue.com
+    [1] => https://www.bakerue.com/blog
+    [2] => https://www.bakerue.com
+    [3] => https://www.bakerue.com/signup
+)

@@ -1,0 +1,23 @@
+Array
+(
+    [0] => https://www.perfectautobody.com.au
+    [1] => https://www.perfectautobody.com.au/services
+    [2] => https://www.perfectautobody.com.au/about-us
+    [3] => https://www.perfectautobody.com.au/our-guarantee
+    [4] => https://www.perfectautobody.com.au/new-premises
+    [5] => https://www.perfectautobody.com.au/privilege-program
+    [6] => https://www.perfectautobody.com.au/services/genuine-parts
+    [7] => https://www.perfectautobody.com.au/services/your-repair
+    [8] => https://www.perfectautobody.com.au/covid-19-update
+    [9] => https://www.perfectautobody.com.au/services/accident-assistance
+    [10] => https://www.perfectautobody.com.au/about-us/careers
+    [11] => https://www.perfectautobody.com.au/services/vehicle-collection
+    [12] => https://www.perfectautobody.com.au/privilege-program/terms-conditions
+    [13] => https://www.perfectautobody.com.au/about-us/location-contact
+    [14] => https://www.perfectautobody.com.au/privilege-program/our-difference
+    [15] => https://www.perfectautobody.com.au/mercedes-benz-vehicle-insurance
+    [16] => https://www.perfectautobody.com.au/about-us/key-staff
+    [17] => https://www.perfectautobody.com.au/services/rental-replacement-vehicles
+    [18] => https://www.perfectautobody.com.au/join-here
+    [19] => https://www.perfectautobody.com.au
+)

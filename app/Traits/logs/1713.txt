@@ -1,0 +1,20 @@
+Array
+(
+    [0] => https://taylormadelendingllc.com
+    [1] => https://taylormadelendingllc.com/contact-us
+    [2] => https://taylormadelendingllc.com/category/blog
+    [3] => https://taylormadelendingllc.com/press-release
+    [4] => https://taylormadelendingllc.com/lending-criteria
+    [5] => https://taylormadelendingllc.com/hard-money-loan
+    [6] => https://taylormadelendingllc.com/private-money-lenders
+    [7] => https://taylormadelendingllc.com/asset-based-lending
+    [8] => https://taylormadelendingllc.com/taylor-made-lending
+    [9] => https://taylormadelendingllc.com/type-of-loans
+    [10] => https://taylormadelendingllc.com/private-money-lenders-2
+    [11] => https://taylormadelendingllc.com/fix-and-flip-loans
+    [12] => https://taylormadelendingllc.com/commercial-real-estate-delevopment-loans
+    [13] => https://taylormadelendingllc.com/personal-and-rental-property-loans
+    [14] => https://taylormadelendingllc.com/commercial-real-estate-construction-loans
+    [15] => https://taylormadelendingllc.com/hard-money-real-estate-lender
+    [16] => https://taylormadelendingllc.com
+)

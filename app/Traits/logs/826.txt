@@ -1,0 +1,37 @@
+Array
+(
+    [0] => https://minimasterminds.com.au
+    [1] => https://minimasterminds.com.au/contact
+    [2] => https://minimasterminds.com.au/activities
+    [3] => https://minimasterminds.com.au/careers
+    [4] => https://minimasterminds.com.au/blog
+    [5] => https://minimasterminds.com.au/centres
+    [6] => https://minimasterminds.com.au/about-us
+    [7] => https://minimasterminds.com.au/join-waitlist
+    [8] => https://minimasterminds.com.au/enquire-now
+    [9] => https://minimasterminds.com.au/riverstone-openday
+    [10] => https://minimasterminds.com.au/activities/mini-champions
+    [11] => https://minimasterminds.com.au/activities/mini-linguistics
+    [12] => https://minimasterminds.com.au/activities/mini-chefs
+    [13] => https://minimasterminds.com.au/activities/mini-yoga
+    [14] => https://minimasterminds.com.au/book-a-tour
+    [15] => https://minimasterminds.com.au/activities/mini-swim-stars
+    [16] => https://minimasterminds.com.au/child-care-subsidy-estimator
+    [17] => https://minimasterminds.com.au/centres/padstow-child-care-centre
+    [18] => https://minimasterminds.com.au/centres/rockdale-child-care-centre
+    [19] => https://minimasterminds.com.au/centres/arncliffe-child-care-centre
+    [20] => https://minimasterminds.com.au/centres/wentworthville-child-care-centre
+    [21] => https://minimasterminds.com.au/centres/chatswood-child-care-centre
+    [22] => https://minimasterminds.com.au/centres/tregear-child-care-centre
+    [23] => https://minimasterminds.com.au/centres/guildford-child-care-centre
+    [24] => https://minimasterminds.com.au/centres/glenwood-child-care-centre
+    [25] => https://minimasterminds.com.au/centres/riverstone-child-care-centre
+    [26] => https://minimasterminds.com.au/centres/ermington-child-care-centre
+    [27] => https://minimasterminds.com.au/centres/erskineville-child-care-centre
+    [28] => https://minimasterminds.com.au/centres/north-ryde-child-care-centre
+    [29] => https://minimasterminds.com.au/centres/north-parramatta-child-care-centre
+    [30] => https://minimasterminds.com.au/centres/box-hill-child-care-centre
+    [31] => https://minimasterminds.com.au/centres/sydney-olympic-park-child-care-centre
+    [32] => https://minimasterminds.com.au/school-readiness-is-more-than-reading-and-writing-7-key-areas-of-school-readiness
+    [33] => https://minimasterminds.com.au
+)

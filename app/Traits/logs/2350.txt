@@ -1,0 +1,17 @@
+Array
+(
+    [0] => https://www.honorbuilthome.com
+    [1] => https://www.honorbuilthome.com/financing
+    [2] => https://www.honorbuilthome.com/diyhomes
+    [3] => https://www.honorbuilthome.com/blog
+    [4] => https://www.honorbuilthome.com/general-contractors
+    [5] => https://www.honorbuilthome.com/why-honorbuilt
+    [6] => https://www.honorbuilthome.com/military-discount
+    [7] => https://www.honorbuilthome.com/model-gallery
+    [8] => https://www.honorbuilthome.com/contact-us
+    [9] => https://www.honorbuilthome.com/blog/built-it-yourself-homes-0
+    [10] => https://www.honorbuilthome.com/blog/tag/design
+    [11] => https://www.honorbuilthome.com/blog/built-it-yourself-homes-0-0
+    [12] => https://www.honorbuilthome.com/blog/tag/adu
+    [13] => https://honorbuilthome.com
+)

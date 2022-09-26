@@ -1,0 +1,2287 @@
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 839
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://brullen.com.au/
+                            [domain_name] => brullen.com.au-Amir
+                            [domain_url] => https://brullen.com.au/
+                            [host_url] => brullen.com.au
+                            [domain_register] => 2017-11-17
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => d3564dbf0215ac5bfb568a95ae5b284d
+                            [google_analytics_id] => 31045
+                            [google_account_id] => 114
+                            [google_property_id] => 31048
+                            [google_profile_id] => 31049
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-04 10:03:56
+                            [google_console_id] => 39
+                            [console_account_id] => 4142
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com.au
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => bru.PNG
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => ODM5LXwtOTktfC03eFRqbm5pUlJH
+                            [updated_at] => 2022-01-21 11:30:57
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 839
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://brullen.com.au/
+                            [domain_name] => brullen.com.au-Amir
+                            [domain_url] => https://brullen.com.au/
+                            [host_url] => brullen.com.au
+                            [domain_register] => 2017-11-17
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => d3564dbf0215ac5bfb568a95ae5b284d
+                            [google_analytics_id] => 31045
+                            [google_account_id] => 114
+                            [google_property_id] => 31048
+                            [google_profile_id] => 31049
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-04 10:03:56
+                            [google_console_id] => 39
+                            [console_account_id] => 4142
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com.au
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => bru.PNG
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => ODM5LXwtOTktfC03eFRqbm5pUlJH
+                            [updated_at] => 2022-01-21 11:30:57
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [1] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 401
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://topdogtrainingandresort.com/
+                            [domain_name] => Topdogtrainingandresort.com-Shawn McClafferty
+                            [domain_url] => https://topdogtrainingandresort.com/
+                            [host_url] => topdogtrainingandresort.com
+                            [domain_register] => 2017-11-30
+                            [regional_db] => us
+                            [clientName] => Shawn McClafferty
+                            [modified] => 2021-12-09 05:16:47
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 9936e1ba86a29a14f3968bbdfd4c7f02
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-13 18:30:23
+                            [google_console_id] => 52
+                            [console_account_id] => 5396
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => G
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => United States
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => ltopdogogo2.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-10
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-06
+                            [moz_date] => 2022-04-07
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NDAxLXwtOTktfC1Rb3loWVlsaVh3
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 401
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://topdogtrainingandresort.com/
+                            [domain_name] => Topdogtrainingandresort.com-Shawn McClafferty
+                            [domain_url] => https://topdogtrainingandresort.com/
+                            [host_url] => topdogtrainingandresort.com
+                            [domain_register] => 2017-11-30
+                            [regional_db] => us
+                            [clientName] => Shawn McClafferty
+                            [modified] => 2021-12-09 05:16:47
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 9936e1ba86a29a14f3968bbdfd4c7f02
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-13 18:30:23
+                            [google_console_id] => 52
+                            [console_account_id] => 5396
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => G
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => United States
+                            [rank_latitude] => 37.09024
+                            [rank_longitude] => -95.712891
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => ltopdogogo2.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-10
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-06
+                            [moz_date] => 2022-04-07
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NDAxLXwtOTktfC1Rb3loWVlsaVh3
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [2] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2067
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://nuenergy.net/
+                            [domain_name] => Nuenergy.net - Daran
+                            [domain_url] => https://nuenergy.net/
+                            [host_url] => nuenergy.net
+                            [domain_register] => 2018-04-13
+                            [regional_db] => us
+                            [clientName] => Daran
+                            [modified] => 2022-02-17 09:57:57
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => bfca91c5171c4ac8b73fbe7efbcc6e25
+                            [google_analytics_id] => 49774
+                            [google_account_id] => 143
+                            [google_property_id] => 49775
+                            [google_profile_id] => 49776
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-11-29 06:08:20
+                            [google_console_id] => 69
+                            [console_account_id] => 13570
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => screenshot-2021-11-29-at-114158-am_1638166351.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 4
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 2
+                            [extra_keywords_cron_date] => 2022-05-05
+                            [moz_date] => 
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MjA2Ny18LTk5LXwtMVR6eEY2N3BZUA==
+                            [updated_at] => 2021-12-05 23:01:54
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2067
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://nuenergy.net/
+                            [domain_name] => Nuenergy.net - Daran
+                            [domain_url] => https://nuenergy.net/
+                            [host_url] => nuenergy.net
+                            [domain_register] => 2018-04-13
+                            [regional_db] => us
+                            [clientName] => Daran
+                            [modified] => 2022-02-17 09:57:57
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => bfca91c5171c4ac8b73fbe7efbcc6e25
+                            [google_analytics_id] => 49774
+                            [google_account_id] => 143
+                            [google_property_id] => 49775
+                            [google_profile_id] => 49776
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-11-29 06:08:20
+                            [google_console_id] => 69
+                            [console_account_id] => 13570
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => screenshot-2021-11-29-at-114158-am_1638166351.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 4
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 2
+                            [extra_keywords_cron_date] => 2022-05-05
+                            [moz_date] => 
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => MjA2Ny18LTk5LXwtMVR6eEY2N3BZUA==
+                            [updated_at] => 2021-12-05 23:01:54
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [3] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 883
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.parkdentalbk.com/
+                            [domain_name] => Parkdentalbk.com-Milena
+                            [domain_url] => https://www.parkdentalbk.com/
+                            [host_url] => parkdentalbk.com
+                            [domain_register] => 2018-05-22
+                            [regional_db] => us
+                            [clientName] => Milena
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => b1391f86b766122c45681ad886ec9d9b
+                            [google_analytics_id] => 49825
+                            [google_account_id] => 143
+                            [google_property_id] => 49826
+                            [google_profile_id] => 49827
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-05 08:18:52
+                            [google_console_id] => 69
+                            [console_account_id] => 8448
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => G
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => 
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => 
+                            [project_logo] => LOGO_RGB_NAVY_BLUE-152w.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 3
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => ODgzLXwtOTktfC1mU3AwQ3VuNnBk
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 883
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.parkdentalbk.com/
+                            [domain_name] => Parkdentalbk.com-Milena
+                            [domain_url] => https://www.parkdentalbk.com/
+                            [host_url] => parkdentalbk.com
+                            [domain_register] => 2018-05-22
+                            [regional_db] => us
+                            [clientName] => Milena
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => b1391f86b766122c45681ad886ec9d9b
+                            [google_analytics_id] => 49825
+                            [google_account_id] => 143
+                            [google_property_id] => 49826
+                            [google_profile_id] => 49827
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-05 08:18:52
+                            [google_console_id] => 69
+                            [console_account_id] => 8448
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => G
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => 
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => 
+                            [project_logo] => LOGO_RGB_NAVY_BLUE-152w.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 3
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => ODgzLXwtOTktfC1mU3AwQ3VuNnBk
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [4] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 885
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://translationsandinterpretations.com.au/
+                            [domain_name] => Translationsandinterpretations.com.au-Amir
+                            [domain_url] => https://translationsandinterpretations.com.au/
+                            [host_url] => translationsandinterpretations.com.au
+                            [domain_register] => 2018-06-19
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 309edd00345a4e3053aeba8722e17728
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-05 08:37:41
+                            [google_console_id] => 39
+                            [console_account_id] => 4171
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com.au
+                            [rank_location] => Australia
+                            [rank_latitude] => -25.274398
+                            [rank_longitude] => 133.775136
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => speak.JPG
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => ODg1LXwtOTktfC0wUG5UYjNBRTJs
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 885
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://translationsandinterpretations.com.au/
+                            [domain_name] => Translationsandinterpretations.com.au-Amir
+                            [domain_url] => https://translationsandinterpretations.com.au/
+                            [host_url] => translationsandinterpretations.com.au
+                            [domain_register] => 2018-06-19
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 309edd00345a4e3053aeba8722e17728
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-05 08:37:41
+                            [google_console_id] => 39
+                            [console_account_id] => 4171
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com.au
+                            [rank_location] => Australia
+                            [rank_latitude] => -25.274398
+                            [rank_longitude] => 133.775136
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => speak.JPG
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => ODg1LXwtOTktfC0wUG5UYjNBRTJs
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [5] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 902
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=emersonsenvirocare.com.au
+                            [domain_name] => Emersonsenvirocare.com.au-Amir
+                            [domain_url] => emersonsenvirocare.com.au
+                            [host_url] => emersonsenvirocare.com.au
+                            [domain_register] => 2018-06-19
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 96aea7a1feea4cfb8b71e5b36b79df8c
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-05 12:53:15
+                            [google_console_id] => 39
+                            [console_account_id] => 4166
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => emer.jpg
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => OTAyLXwtOTktfC1teERMNXdyV0JJ
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 902
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=emersonsenvirocare.com.au
+                            [domain_name] => Emersonsenvirocare.com.au-Amir
+                            [domain_url] => emersonsenvirocare.com.au
+                            [host_url] => emersonsenvirocare.com.au
+                            [domain_register] => 2018-06-19
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 96aea7a1feea4cfb8b71e5b36b79df8c
+                            [google_analytics_id] => 
+                            [google_account_id] => 
+                            [google_property_id] => 
+                            [google_profile_id] => 
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-05 12:53:15
+                            [google_console_id] => 39
+                            [console_account_id] => 4166
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => emer.jpg
+                            [is_favorite] => 0
+                            [goal_completion_count] => 
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => OTAyLXwtOTktfC1teERMNXdyV0JJ
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [6] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 628
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.waratahwardrobes.com.au/
+                            [domain_name] => Waratahwardrobes.com.au-Amir
+                            [domain_url] => https://www.waratahwardrobes.com.au/
+                            [host_url] => waratahwardrobes.com.au
+                            [domain_register] => 2018-07-13
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 2021-12-11 05:05:37
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 1848646bfdff8a22a0c5320c30cecf77
+                            [google_analytics_id] => 30781
+                            [google_account_id] => 114
+                            [google_property_id] => 30782
+                            [google_profile_id] => 30783
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-29 07:44:30
+                            [google_console_id] => 39
+                            [console_account_id] => 7392
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => warah logo.jpg
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-12
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NjI4LXwtOTktfC12WWtvNEVuUVJ4
+                            [updated_at] => 2021-12-11 05:10:35
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 628
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.waratahwardrobes.com.au/
+                            [domain_name] => Waratahwardrobes.com.au-Amir
+                            [domain_url] => https://www.waratahwardrobes.com.au/
+                            [host_url] => waratahwardrobes.com.au
+                            [domain_register] => 2018-07-13
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 2021-12-11 05:05:37
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 1848646bfdff8a22a0c5320c30cecf77
+                            [google_analytics_id] => 30781
+                            [google_account_id] => 114
+                            [google_property_id] => 30782
+                            [google_profile_id] => 30783
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-29 07:44:30
+                            [google_console_id] => 39
+                            [console_account_id] => 7392
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => warah logo.jpg
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-12
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NjI4LXwtOTktfC12WWtvNEVuUVJ4
+                            [updated_at] => 2021-12-11 05:10:35
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [7] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 484
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.cooperagepallets.com.au/
+                            [domain_name] => Cooperagepallets.com.au-Amir
+                            [domain_url] => https://www.cooperagepallets.com.au/
+                            [host_url] => cooperagepallets.com.au
+                            [domain_register] => 2018-07-13
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 95091498592cc885773b3de96ba2a602
+                            [google_analytics_id] => 30811
+                            [google_account_id] => 114
+                            [google_property_id] => 30812
+                            [google_profile_id] => 30813
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-21 05:15:46
+                            [google_console_id] => 39
+                            [console_account_id] => 4176
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com.au
+                            [rank_location] => Sydney NSW, Australia
+                            [rank_latitude] => -33.8688197
+                            [rank_longitude] => 151.2092955
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => Screenshot (6).png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-10
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-09
+                            [moz_date] => 2022-04-09
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NDg0LXwtOTktfC1HV255WVBXRHZa
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 484
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.cooperagepallets.com.au/
+                            [domain_name] => Cooperagepallets.com.au-Amir
+                            [domain_url] => https://www.cooperagepallets.com.au/
+                            [host_url] => cooperagepallets.com.au
+                            [domain_register] => 2018-07-13
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 95091498592cc885773b3de96ba2a602
+                            [google_analytics_id] => 30811
+                            [google_account_id] => 114
+                            [google_property_id] => 30812
+                            [google_profile_id] => 30813
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-21 05:15:46
+                            [google_console_id] => 39
+                            [console_account_id] => 4176
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com.au
+                            [rank_location] => Sydney NSW, Australia
+                            [rank_latitude] => -33.8688197
+                            [rank_longitude] => 151.2092955
+                            [rank_device] => desktop
+                            [rank_language] => English
+                            [project_logo] => Screenshot (6).png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-10
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-09
+                            [moz_date] => 2022-04-09
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NDg0LXwtOTktfC1HV255WVBXRHZa
+                            [updated_at] => 2021-07-08 09:49:01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [8] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 835
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.poho.com.au/
+                            [domain_name] => Poho.com.au-Amir
+                            [domain_url] => https://www.poho.com.au/
+                            [host_url] => poho.com.au
+                            [domain_register] => 2018-07-13
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 2021-12-10 12:33:36
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => f50fcbe04bf86231288758635c1f3436
+                            [google_analytics_id] => 30860
+                            [google_account_id] => 114
+                            [google_property_id] => 30861
+                            [google_profile_id] => 30862
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-04 09:59:18
+                            [google_console_id] => 39
+                            [console_account_id] => 7449
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com.au
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => p.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => ODM1LXwtOTktfC10S2N4T2VGZlY4
+                            [updated_at] => 2021-12-10 12:30:14
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 835
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.poho.com.au/
+                            [domain_name] => Poho.com.au-Amir
+                            [domain_url] => https://www.poho.com.au/
+                            [host_url] => poho.com.au
+                            [domain_register] => 2018-07-13
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 2021-12-10 12:33:36
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => f50fcbe04bf86231288758635c1f3436
+                            [google_analytics_id] => 30860
+                            [google_account_id] => 114
+                            [google_property_id] => 30861
+                            [google_profile_id] => 30862
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-05-04 09:59:18
+                            [google_console_id] => 39
+                            [console_account_id] => 7449
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com.au
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => p.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-04
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-08
+                            [moz_date] => 2022-04-13
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => ODM1LXwtOTktfC10S2N4T2VGZlY4
+                            [updated_at] => 2021-12-10 12:30:14
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [9] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 589
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.tecbogroup.com.au/
+                            [domain_name] => Tecbogroup.com.au-Amir
+                            [domain_url] => https://www.tecbogroup.com.au/
+                            [host_url] => tecbogroup.com.au
+                            [domain_register] => 2018-07-13
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 00807c9a458d6f7f0de03cbc02e12099
+                            [google_analytics_id] => 57409
+                            [google_account_id] => 114
+                            [google_property_id] => 57410
+                            [google_profile_id] => 57411
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-28 12:31:13
+                            [google_console_id] => 39
+                            [console_account_id] => 4138
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => tecbo logo.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-10
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-05
+                            [moz_date] => 2022-04-12
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NTg5LXwtOTktfC1PV25rWVNCRGVh
+                            [updated_at] => 2021-12-10 04:51:19
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 589
+                            [user_id] => 99
+                            [favicon] => https://www.google.com/s2/favicons?domain=https://www.tecbogroup.com.au/
+                            [domain_name] => Tecbogroup.com.au-Amir
+                            [domain_url] => https://www.tecbogroup.com.au/
+                            [host_url] => tecbogroup.com.au
+                            [domain_register] => 2018-07-13
+                            [regional_db] => au
+                            [clientName] => Amir Saad
+                            [modified] => 
+                            [status] => 0
+                            [data_duration] => -3
+                            [token] => 00807c9a458d6f7f0de03cbc02e12099
+                            [google_analytics_id] => 57409
+                            [google_account_id] => 114
+                            [google_property_id] => 57410
+                            [google_profile_id] => 57411
+                            [google_ads_id] => 
+                            [google_ads_campaign_id] => 
+                            [dashboard_type] => 1
+                            [created] => 2021-04-28 12:31:13
+                            [google_console_id] => 39
+                            [console_account_id] => 4138
+                            [console_property_id] => 
+                            [console_view_id] => 
+                            [seo_skip] => 0
+                            [ppc_skip] => 0
+                            [tags] => 
+                            [gmb_analaytics_id] => 
+                            [gmb_id] => 
+                            [deleted_at] => 
+                            [rank_search_engine] => google.com
+                            [rank_location] => 
+                            [rank_latitude] => 
+                            [rank_longitude] => 
+                            [rank_device] => 
+                            [rank_language] => English
+                            [project_logo] => tecbo logo.png
+                            [is_favorite] => 0
+                            [goal_completion_count] => 1
+                            [ecommerce_goals] => 0
+                            [backlinks_cron_date] => 2022-05-10
+                            [url_type] => 1
+                            [extra_keywords_cron_date] => 2022-05-05
+                            [moz_date] => 2022-04-12
+                            [notification_flag] => 0
+                            [audit_crawl_pages] => 50
+                            [share_key] => NTg5LXwtOTktfC1PV25rWVNCRGVh
+                            [updated_at] => 2021-12-10 04:51:19
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)

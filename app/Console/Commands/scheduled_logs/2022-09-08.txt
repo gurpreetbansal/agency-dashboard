@@ -1,0 +1,307 @@
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1457
+                            [user_id] => 99
+                            [email] => shruti.dhiman@imarkinfotech.com, govind.singh@imarkinfotech.com, support@agencydashboard.io
+                            [request_id] => 227
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Thu,Fri
+                            [day] => 
+                            [report_type] => 1
+                            [format] => 1
+                            [last_delivery] => 2022-09-01 00:01:21
+                            [next_delivery] => 2022-09-08
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-01-28 05:19:49
+                            [updated_at] => 2022-09-01 00:01:21
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1457
+                            [user_id] => 99
+                            [email] => shruti.dhiman@imarkinfotech.com, govind.singh@imarkinfotech.com, support@agencydashboard.io
+                            [request_id] => 227
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Thu,Fri
+                            [day] => 
+                            [report_type] => 1
+                            [format] => 1
+                            [last_delivery] => 2022-09-01 00:01:21
+                            [next_delivery] => 2022-09-08
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-01-28 05:19:49
+                            [updated_at] => 2022-09-01 00:01:21
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)

@@ -1,0 +1,6 @@
+Array
+(
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYWdlbmN5ZGFzaGJvYXJkLmlvXC9hcGlcL2F1dGhcL2NoZWNrXC91c2VyIiwiaWF0IjoxNjE4OTAwMTkxLCJleHAiOjE2MTg5MDQxOTYsIm5iZiI6MTYxODkwMDU5NiwianRpIjoiUWc2c004dGdidzJYbUpvUCIsInN1YiI6OTksInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.3RbIxmdh9z9kwZanA3RRj6Qv5lmn7AjUuy90zDwLqM0
+    [token_type] => bearer
+    [expires_in] => 43200
+)

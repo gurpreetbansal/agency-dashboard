@@ -1,0 +1,23 @@
+Array
+(
+    [0] => https://signaturesalonpro.com
+    [1] => https://signaturesalonpro.com/blog
+    [2] => https://signaturesalonpro.com/about-us
+    [3] => https://signaturesalonpro.com/hair-stylists
+    [4] => https://signaturesalonpro.com/contact-us
+    [5] => https://signaturesalonpro.com/testimonial/sarah
+    [6] => https://signaturesalonpro.com/our-success-stories
+    [7] => https://signaturesalonpro.com/private-suites-rentals
+    [8] => https://signaturesalonpro.com/testimonial/lisa-leshner
+    [9] => https://signaturesalonpro.com/open-concept-chair-rentals
+    [10] => https://signaturesalonpro.com/semi-private-suite-rentals
+    [11] => https://signaturesalonpro.com/signature-salon-pro-lp-1
+    [12] => https://signaturesalonpro.com/signature-salon-pro-lp-2
+    [13] => https://signaturesalonpro.com/does-your-business-measure-up
+    [14] => https://signaturesalonpro.com/slide-anything-popup-preview
+    [15] => https://signaturesalonpro.com/fb-signature-salon-pro-lp-1
+    [16] => https://signaturesalonpro.com/fb-signature-salon-pro-lp-2
+    [17] => https://signaturesalonpro.com/guide-to-renting-a-salon-booth-suite
+    [18] => https://signaturesalonpro.com/7-success-traits-of-an-expert-salon-professional
+    [19] => https://signaturesalonpro.com
+)

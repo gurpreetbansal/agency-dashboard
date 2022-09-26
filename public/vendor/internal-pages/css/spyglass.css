@@ -1,0 +1,31 @@
+.g.selectedHighlight {
+    background: yellow;
+}
+span.numbering {
+    font-size: 24px;
+    /*float: left;
+    position: absolute;*/
+}
+
+.yuRUbf>a {
+display: flex;
+flex-direction: column-reverse;
+}
+.yuRUbf br {
+display: none;
+}
+.NJjxre {
+position: static;
+left: 0;
+top: 0;
+}
+
+#searchform {
+    width: 100%;
+    position: absolute;
+    top: 20px;
+    margin-top: 6px;
+}
+/*.BYM4Nd {
+    margin-left: 28px;
+}*/

@@ -1,0 +1,137 @@
+App\SemrushUserAccount Object
+(
+    [table:protected] => semrush_users_account
+    [primaryKey:protected] => id
+    [fillable:protected] => Array
+        (
+            [0] => user_id
+            [1] => domain_name
+            [2] => domain_url
+            [3] => host_url
+            [4] => domain_register
+            [5] => regional_db
+            [6] => clientName
+            [7] => status
+            [8] => token
+            [9] => google_analytics_id
+            [10] => google_account_id
+            [11] => google_property_id
+            [12] => google_profile_id
+            [13] => created
+            [14] => modified
+            [15] => google_ads_id
+            [16] => dashboard_type
+            [17] => google_console_id
+            [18] => console_account_id
+            [19] => console_property_id
+            [20] => console_view_id
+            [21] => seo_skip
+            [22] => ppc_skip
+            [23] => tags
+            [24] => gmb_analaytics_id
+            [25] => gmb_id
+            [26] => deleted_at
+            [27] => favicon
+            [28] => rank_search_engine
+            [29] => rank_location
+            [30] => rank_latitude
+            [31] => rank_longitude
+            [32] => rank_device
+            [33] => rank_language
+            [34] => project_logo
+            [35] => is_favorite
+            [36] => goal_completion_count
+            [37] => backlinks_cron_date
+            [38] => tag_id
+            [39] => url_type
+            [40] => extra_keywords_cron_date
+            [41] => updated_at
+            [42] => notification_flag
+        )
+
+    [timestamps] => 
+    [connection:protected] => mysql
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [attributes:protected] => Array
+        (
+            [id] => 1474
+            [user_id] => 99
+            [domain_url] => https://finediner.co/
+            [backlinks_cron_date] => 2021-12-15
+            [url_type] => 2
+            [host_url] => finediner.co
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 1474
+            [user_id] => 99
+            [domain_url] => https://finediner.co/
+            [backlinks_cron_date] => 2021-12-15
+            [url_type] => 2
+            [host_url] => finediner.co
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)

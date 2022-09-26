@@ -1,0 +1,22 @@
+Array
+(
+    [0] => https://aztecaluminumrailings.ca
+    [1] => https://aztecaluminumrailings.ca/services
+    [2] => https://aztecaluminumrailings.ca/blog
+    [3] => https://aztecaluminumrailings.ca/contact
+    [4] => https://aztecaluminumrailings.ca/fencing
+    [5] => https://aztecaluminumrailings.ca/columns
+    [6] => https://aztecaluminumrailings.ca/picket-railings
+    [7] => https://aztecaluminumrailings.ca/glass-railings
+    [8] => https://aztecaluminumrailings.ca/about-us
+    [9] => https://aztecaluminumrailings.ca/aluminum-railing-examples
+    [10] => https://aztecaluminumrailings.ca/services/glass-railings
+    [11] => https://aztecaluminumrailings.ca/services/aluminum-porch-railings
+    [12] => https://aztecaluminumrailings.ca/services/aluminum-deck-railings
+    [13] => https://aztecaluminumrailings.ca/services/aluminum-stair-railings
+    [14] => https://aztecaluminumrailings.ca/wooden-fencing-vs-aluminum-fencing
+    [15] => https://aztecaluminumrailings.ca/professional-railing-installer-vs-diy
+    [16] => https://aztecaluminumrailings.ca/wp-content/uploads/2021/06/2021Aztec_Catalogue_sized.pdf
+    [17] => https://aztecaluminumrailings.ca
+    [18] => https://aztecaluminumrailings.ca/privacy-policy
+)

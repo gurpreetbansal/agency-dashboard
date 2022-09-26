@@ -1,0 +1,27 @@
+Array
+(
+    [0] => https://www.marcelomovers.com
+    [1] => https://www.marcelomovers.com/faq
+    [2] => https://www.marcelomovers.com/contacts
+    [3] => https://www.marcelomovers.com/blog
+    [4] => https://www.marcelomovers.com/services
+    [5] => https://www.marcelomovers.com/storage
+    [6] => https://www.marcelomovers.com/storage-brooklyn
+    [7] => https://www.marcelomovers.com/about-us
+    [8] => https://www.marcelomovers.com/service/storage
+    [9] => https://www.marcelomovers.com/service/commercial
+    [10] => https://www.marcelomovers.com/storage-nyc
+    [11] => https://www.marcelomovers.com/thank-you
+    [12] => https://www.marcelomovers.com/long-distance-nyc
+    [13] => https://www.marcelomovers.com/service/local-moving
+    [14] => https://www.marcelomovers.com/service/packing-unpacking
+    [15] => https://www.marcelomovers.com/local-moving-nyc
+    [16] => https://www.marcelomovers.com/long-distance-brooklyn
+    [17] => https://www.marcelomovers.com/local-moving-brooklyn
+    [18] => https://www.marcelomovers.com/service/loading-unloading
+    [19] => https://www.marcelomovers.com/service/long-distance
+    [20] => https://www.marcelomovers.com/category/relocation-moving
+    [21] => https://www.marcelomovers.com/category/household-moving
+    [22] => https://www.marcelomovers.com
+    [23] => https://www.marcelomovers.com/service/load-unloading
+)

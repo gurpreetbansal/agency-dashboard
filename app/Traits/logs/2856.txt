@@ -1,0 +1,37 @@
+Array
+(
+    [0] => https://www.somapsyche.org
+    [1] => https://www.somapsyche.org/blog
+    [2] => https://www.somapsyche.org/story
+    [3] => https://www.somapsyche.org/shop
+    [4] => https://www.somapsyche.org/charities
+    [5] => https://www.somapsyche.org/bodybasics
+    [6] => https://www.somapsyche.org/bodytreatments
+    [7] => https://www.somapsyche.org/skinbasics
+    [8] => https://www.somapsyche.org/skintreatments
+    [9] => https://www.somapsyche.org/chlorophylia
+    [10] => https://www.somapsyche.org/carekits
+    [11] => https://www.somapsyche.org/library
+    [12] => https://www.somapsyche.org/questions
+    [13] => https://www.somapsyche.org/privacy-policy
+    [14] => https://www.somapsyche.org/ritual-therapy
+    [15] => https://www.somapsyche.org/shipping-returns
+    [16] => https://www.somapsyche.org/product-page/an-offering-of-grace
+    [17] => https://www.somapsyche.org/product-page/an-offering-of-authenticity
+    [18] => https://www.somapsyche.org/product-page/an-offering-of-confidence
+    [19] => https://www.somapsyche.org/product-page/an-offering-of-trust
+    [20] => https://www.somapsyche.org/product-page/an-offering-of-audacity
+    [21] => https://www.somapsyche.org/product-page/an-offering-of-clarity
+    [22] => https://www.somapsyche.org/product-page/an-offering-of-sincerity
+    [23] => https://www.somapsyche.org/product-page/an-offering-of-gratitude
+    [24] => https://www.somapsyche.org/product-page/an-offering-of-rebirth
+    [25] => https://www.somapsyche.org/product-page/an-offering-of-courage
+    [26] => https://www.somapsyche.org/product-page/an-offering-of-kindness
+    [27] => https://www.somapsyche.org/product-page/an-offering-of-inner-truth
+    [28] => https://www.somapsyche.org/product-page/an-offering-of-unconditional-love
+    [29] => https://www.somapsyche.org/product-page/travel-companion-kit-for-a-peaceful-journey
+    [30] => https://www.somapsyche.org/product-page/copy-of-self-help-survival-kit-for-relief-rescue
+    [31] => https://www.somapsyche.org/product-page/bliss-break-to-refresh-revive-and-restore-work-life-balance
+    [32] => https://www.somapsyche.org/product-page/copy-of-an-offering-of-gratitude-daily-devotion-body-cream
+    [33] => https://www.somapsyche.org
+)

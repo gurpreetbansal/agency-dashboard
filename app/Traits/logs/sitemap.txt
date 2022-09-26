@@ -1,0 +1,7 @@
+Array
+(
+    [user_id] => 99
+    [campaign_id] => 3387
+    [url] => https://www.sandbar.net
+    [audit_id] => 1692
+)

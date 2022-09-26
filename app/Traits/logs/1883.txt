@@ -1,0 +1,21 @@
+Array
+(
+    [0] => https://www.heartroofingflorida.com
+    [1] => https://www.heartroofingflorida.com/shingleroofs
+    [2] => https://www.heartroofingflorida.com/metalroofs
+    [3] => https://www.heartroofingflorida.com/testimonials
+    [4] => https://www.heartroofingflorida.com/frequentaskedquestionsaboutroofing
+    [5] => https://www.heartroofingflorida.com/roofrepairs
+    [6] => https://www.heartroofingflorida.com/roofingblog
+    [7] => https://www.heartroofingflorida.com/flatroofsandlowsloperoofs
+    [8] => https://www.heartroofingflorida.com/financingapplication
+    [9] => https://www.heartroofingflorida.com/aboutheartroofing
+    [10] => https://www.heartroofingflorida.com/contactus
+    [11] => https://www.heartroofingflorida.com/post/which-roof-is-hurricane-proof-in-florida
+    [12] => https://www.heartroofingflorida.com/post/which-is-roofing-underlayment-is-the-best
+    [13] => https://www.heartroofingflorida.com/post/metal-roofs-for-mobile-homes-can-save-money
+    [14] => https://www.heartroofingflorida.com/post/are-black-roofs-hotter-in-florida-of-course-they-are
+    [15] => https://www.heartroofingflorida.com/post/hey-siri-who-is-the-best-roofing-contractor-in-brevard-county
+    [16] => https://www.heartroofingflorida.com/post/why-putting-a-metal-roof-on-a-mobile-home-in-florida-is-a-great-idea
+    [17] => https://www.heartroofingflorida.com
+)

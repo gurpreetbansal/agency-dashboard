@@ -1,0 +1,12 @@
+Array
+(
+    [0] => https://www.networksecurity.ie/contact
+    [1] => https://www.networksecurity.ie/business-solutions
+    [2] => https://www.networksecurity.ie/additional-detectors
+    [3] => https://www.networksecurity.ie/why-network-security
+    [4] => https://www.networksecurity.ie/business-solutions/monitored-systems
+    [5] => https://www.networksecurity.ie/business-solutions/fire-alarms
+    [6] => https://www.networksecurity.ie/business-solutions/alarm-response-keyholding
+    [7] => https://www.networksecurity.ie/wp-content/uploads/2019/05/Website-PRIVACY-POLICY.pdf
+    [8] => http://www.networksecurity.ie
+)

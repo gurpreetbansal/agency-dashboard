@@ -1,0 +1,27 @@
+Array
+(
+    [0] => https://www.threecrownselectric.com
+    [1] => https://www.threecrownselectric.com/windsor
+    [2] => https://www.threecrownselectric.com/loveland
+    [3] => https://www.threecrownselectric.com/lighting-installations
+    [4] => https://www.threecrownselectric.com/new-construction
+    [5] => https://www.threecrownselectric.com/electrical-repairs
+    [6] => https://www.threecrownselectric.com/fort-collins
+    [7] => https://www.threecrownselectric.com/property-management
+    [8] => https://www.threecrownselectric.com/evans
+    [9] => https://www.threecrownselectric.com/thornton
+    [10] => https://www.threecrownselectric.com/about
+    [11] => https://www.threecrownselectric.com/blog
+    [12] => https://www.threecrownselectric.com/privacy-policy
+    [13] => https://www.threecrownselectric.com/electric-heating
+    [14] => https://www.threecrownselectric.com/service-upgrades
+    [15] => https://www.threecrownselectric.com/contact-us
+    [16] => https://www.threecrownselectric.com/electric-car-charging
+    [17] => https://www.threecrownselectric.com/post-a-review
+    [18] => https://www.threecrownselectric.com/hot-tub-pool-wiring
+    [19] => https://www.threecrownselectric.com/post-a-review/read-reviews
+    [20] => https://www.threecrownselectric.com/post-a-review/leave-review
+    [21] => https://www.threecrownselectric.com
+    [22] => https://www.threecrownselectric.com/greeley
+    [23] => https://www.threecrownselectric.com/greeley/services-we-provide-in-greeley
+)

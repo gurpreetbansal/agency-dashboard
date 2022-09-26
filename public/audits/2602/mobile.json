@@ -1,0 +1,25 @@
+{
+  "error": {
+    "code": 403,
+    "message": "Requests to this API pagespeedonline method google.chrome.pagespeedonline.v5.PagespeedonlinePagespeedapi.RunPagespeed are blocked.",
+    "errors": [
+      {
+        "message": "Requests to this API pagespeedonline method google.chrome.pagespeedonline.v5.PagespeedonlinePagespeedapi.RunPagespeed are blocked.",
+        "domain": "global",
+        "reason": "forbidden"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_SERVICE_BLOCKED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "pagespeedonline.googleapis.com",
+          "consumer": "projects/147028391046"
+        }
+      }
+    ]
+  }
+}

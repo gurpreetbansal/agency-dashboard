@@ -1,0 +1,34 @@
+Array
+(
+    [0] => https://www.ommdvd.com
+    [1] => https://www.ommdvd.com/blog
+    [2] => https://www.ommdvd.com/about.html
+    [3] => https://www.ommdvd.com/contact.php
+    [4] => https://www.ommdvd.com/audio-cassettes.html
+    [5] => https://www.ommdvd.com/return-policy.html
+    [6] => https://www.ommdvd.com/privacy-policy.html
+    [7] => https://www.ommdvd.com/content-management.html
+    [8] => https://www.ommdvd.com/media-fulfillment.html
+    [9] => https://www.ommdvd.com/dvd-replication.html
+    [10] => https://www.ommdvd.com/site-map.html
+    [11] => https://www.ommdvd.com/disc-replication.html
+    [12] => https://www.ommdvd.com/cd-replication.html
+    [13] => https://www.ommdvd.com/disc-duplication.html
+    [14] => https://www.ommdvd.com/digital-video-distribution.html
+    [15] => https://www.ommdvd.com/lp-vinyl-pressing.html
+    [16] => https://www.ommdvd.com/custom-media-packaging.html
+    [17] => https://www.ommdvd.com/terms-and-conditions.html
+    [18] => https://www.ommdvd.com/disc-on-demand.html
+    [19] => https://www.ommdvd.com/blu-ray-replication.html
+    [20] => https://www.ommdvd.com/branded-promotional-products.html
+    [21] => https://www.ommdvd.com/hd-sd-encoding-authoring.html
+    [22] => https://www.ommdvd.com/usb-drives-flash-media.html
+    [23] => https://www.ommdvd.com/shipping-rates-and-methods.html
+    [24] => https://www.ommdvd.com/4k-hd-sd-disc-replication.html
+    [25] => https://www.ommdvd.com/anti-piracy-protection-disc-usb.html
+    [26] => https://www.ommdvd.com/blog/how-it-all-works-dvd-replication
+    [27] => https://www.ommdvd.com/blog/few-things-to-know-about-dvd-duplication-services
+    [28] => https://www.ommdvd.com/blog/the-definitive-guide-to-dvd-replication-and-duplication-services
+    [29] => https://www.ommdvd.com/blog/how-do-i-get-a-digital-copy-of-my-dvds
+    [30] => https://www.ommdvd.com
+)

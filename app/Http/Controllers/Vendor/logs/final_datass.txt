@@ -1,0 +1,23 @@
+Array
+(
+    [0] => Array
+        (
+            [ascore] => 18
+            [total] => 717
+            [domains_num] => 118
+            [urls_num] => 542
+            [ips_num] => 102
+            [follows_num] => 550
+            [nofollows_num] => 177
+            [sponsored_num] => 0
+            [ugc_num] => 0
+            [texts_num] => 565
+            [images_num] => 78
+        )
+
+    [1] => Array
+        (
+            [ascore] => 
+        )
+
+)

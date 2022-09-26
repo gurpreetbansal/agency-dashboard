@@ -1,0 +1,5172 @@
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1660
+                            [user_id] => 99
+                            [email] => save-295RtrrgfBrD@3.basecamp.com, leapingthroughlife@gmail.com
+                            [request_id] => 2621
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Mon
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 00:01:04
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-21 10:54:12
+                            [updated_at] => 2022-09-05 00:01:04
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1660
+                            [user_id] => 99
+                            [email] => save-295RtrrgfBrD@3.basecamp.com, leapingthroughlife@gmail.com
+                            [request_id] => 2621
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Mon
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 00:01:04
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-21 10:54:12
+                            [updated_at] => 2022-09-05 00:01:04
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [1] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1699
+                            [user_id] => 99
+                            [email] => danielam@bmgcreative.com, stevep@bmgcreative.com, save-odhrtYQ4mDTF@3.basecamp.com
+                            [request_id] => 2565
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Mon
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 00:01:26
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-28 08:18:06
+                            [updated_at] => 2022-09-05 00:01:26
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1699
+                            [user_id] => 99
+                            [email] => danielam@bmgcreative.com, stevep@bmgcreative.com, save-odhrtYQ4mDTF@3.basecamp.com
+                            [request_id] => 2565
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Mon
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 00:01:26
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-28 08:18:06
+                            [updated_at] => 2022-09-05 00:01:26
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [2] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2124
+                            [user_id] => 99
+                            [email] => save-mvnFxehSRsVv@3.basecamp.com, kirk@219group.com
+                            [request_id] => 3218
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Mon
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 00:01:47
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-07-11 09:50:13
+                            [updated_at] => 2022-09-05 00:01:47
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2124
+                            [user_id] => 99
+                            [email] => save-mvnFxehSRsVv@3.basecamp.com, kirk@219group.com
+                            [request_id] => 3218
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Mon
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 00:01:47
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-07-11 09:50:13
+                            [updated_at] => 2022-09-05 00:01:47
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 566
+                            [user_id] => 99
+                            [email] => save-aN4VbmQU4ev5@3.basecamp.com, danielle@loop2.com.au, helen@loop2.com.au, mat@loop2.com.au, mat@loop2.com.au, helen@loop2.com.au, danielle@loop2.com.au
+                            [request_id] => 1225
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-25
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2021-08-09 00:44:59
+                            [updated_at] => 2022-09-12 05:33:24
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 566
+                            [user_id] => 99
+                            [email] => save-aN4VbmQU4ev5@3.basecamp.com, danielle@loop2.com.au, helen@loop2.com.au, mat@loop2.com.au, mat@loop2.com.au, helen@loop2.com.au, danielle@loop2.com.au
+                            [request_id] => 1225
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-25
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2021-08-09 00:44:59
+                            [updated_at] => 2022-09-12 05:33:24
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2338
+                            [user_id] => 99
+                            [email] => save-3rkSd8Z9ChJn@3.basecamp.com, nick@supanic.com, rodger@viralbrandinggroup.com
+                            [request_id] => 3377
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 08:50:46
+                            [updated_at] => 2022-09-12 08:50:46
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2338
+                            [user_id] => 99
+                            [email] => save-3rkSd8Z9ChJn@3.basecamp.com, nick@supanic.com, rodger@viralbrandinggroup.com
+                            [request_id] => 3377
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 08:50:46
+                            [updated_at] => 2022-09-12 08:50:46
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [1] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2339
+                            [user_id] => 99
+                            [email] => save-DYUR9rKtz6VZ@3.basecamp.com, nick@supanic.com, rodger@viralbrandinggroup.com
+                            [request_id] => 3378
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 08:55:22
+                            [updated_at] => 2022-09-12 08:55:22
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2339
+                            [user_id] => 99
+                            [email] => save-DYUR9rKtz6VZ@3.basecamp.com, nick@supanic.com, rodger@viralbrandinggroup.com
+                            [request_id] => 3378
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 08:55:22
+                            [updated_at] => 2022-09-12 08:55:22
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [2] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2340
+                            [user_id] => 99
+                            [email] => save-jdYQ1PjENpSJ@3.basecamp.com, peter@exclusivebusinessmarketing.com
+                            [request_id] => 3371
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:04:45
+                            [updated_at] => 2022-09-12 09:04:45
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2340
+                            [user_id] => 99
+                            [email] => save-jdYQ1PjENpSJ@3.basecamp.com, peter@exclusivebusinessmarketing.com
+                            [request_id] => 3371
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:04:45
+                            [updated_at] => 2022-09-12 09:04:45
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [3] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2341
+                            [user_id] => 99
+                            [email] => save-qJeNpAJaziJP@3.basecamp.com, peter@exclusivebusinessmarketing.com
+                            [request_id] => 3386
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:06:46
+                            [updated_at] => 2022-09-12 09:06:46
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2341
+                            [user_id] => 99
+                            [email] => save-qJeNpAJaziJP@3.basecamp.com, peter@exclusivebusinessmarketing.com
+                            [request_id] => 3386
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:06:46
+                            [updated_at] => 2022-09-12 09:06:46
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2342
+                            [user_id] => 99
+                            [email] => save-JcSWEEwXSCtn@3.basecamp.com, dmarketingagencysingapore@gmail.com
+                            [request_id] => 3549
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:13:25
+                            [updated_at] => 2022-09-12 09:13:25
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2342
+                            [user_id] => 99
+                            [email] => save-JcSWEEwXSCtn@3.basecamp.com, dmarketingagencysingapore@gmail.com
+                            [request_id] => 3549
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:13:25
+                            [updated_at] => 2022-09-12 09:13:25
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [1] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2343
+                            [user_id] => 99
+                            [email] => save-LDYWqy3Frcph@3.basecamp.com, jake@futurecolossal.com, lisa@futurecolossal.com
+                            [request_id] => 3428
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:18:37
+                            [updated_at] => 2022-09-12 09:20:50
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2343
+                            [user_id] => 99
+                            [email] => save-LDYWqy3Frcph@3.basecamp.com, jake@futurecolossal.com, lisa@futurecolossal.com
+                            [request_id] => 3428
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:18:37
+                            [updated_at] => 2022-09-12 09:20:50
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [2] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2344
+                            [user_id] => 99
+                            [email] => save-nqs8ke2NL47s@3.basecamp.com, admin@atelierforma.ca
+                            [request_id] => 3459
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:22:54
+                            [updated_at] => 2022-09-12 09:22:54
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2344
+                            [user_id] => 99
+                            [email] => save-nqs8ke2NL47s@3.basecamp.com, admin@atelierforma.ca
+                            [request_id] => 3459
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:22:54
+                            [updated_at] => 2022-09-12 09:22:54
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [3] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2345
+                            [user_id] => 99
+                            [email] => bernabe@symmetricdesign.co, johnny@symmetricdesign.co, save-VwxkKUVkgL8U@3.basecamp.com
+                            [request_id] => 3566
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:28:26
+                            [updated_at] => 2022-09-12 09:28:26
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2345
+                            [user_id] => 99
+                            [email] => bernabe@symmetricdesign.co, johnny@symmetricdesign.co, save-VwxkKUVkgL8U@3.basecamp.com
+                            [request_id] => 3566
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:28:26
+                            [updated_at] => 2022-09-12 09:28:26
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [4] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2346
+                            [user_id] => 99
+                            [email] => save-QVibcNuWkNrS@3.basecamp.com, info@youmiia.com
+                            [request_id] => 3621
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:38:44
+                            [updated_at] => 2022-09-12 09:38:44
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2346
+                            [user_id] => 99
+                            [email] => save-QVibcNuWkNrS@3.basecamp.com, info@youmiia.com
+                            [request_id] => 3621
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:38:44
+                            [updated_at] => 2022-09-12 09:38:44
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [5] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2347
+                            [user_id] => 99
+                            [email] => save-PZtSuopfByFW@3.basecamp.com, datafirstca@gmail.com
+                            [request_id] => 3597
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:47:53
+                            [updated_at] => 2022-09-12 09:47:53
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2347
+                            [user_id] => 99
+                            [email] => save-PZtSuopfByFW@3.basecamp.com, datafirstca@gmail.com
+                            [request_id] => 3597
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 09:47:53
+                            [updated_at] => 2022-09-12 09:47:53
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 548
+                            [user_id] => 99
+                            [email] => project-16782015-5129eba905b542517e6c743f@basecamp.com, info@thinkdesignsllc.com, sandy@thinkdesignsllc.com, shawn@thinkdesignsllc.com, save-67MexVRCCJnh@3.basecamp.com, sandy@thinkdesignsllc.com, shawn@thinkdesignsllc.com
+                            [request_id] => 400
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-06 05:24:58
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2021-08-09 00:26:38
+                            [updated_at] => 2022-09-06 05:24:58
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 548
+                            [user_id] => 99
+                            [email] => project-16782015-5129eba905b542517e6c743f@basecamp.com, info@thinkdesignsllc.com, sandy@thinkdesignsllc.com, shawn@thinkdesignsllc.com, save-67MexVRCCJnh@3.basecamp.com, sandy@thinkdesignsllc.com, shawn@thinkdesignsllc.com
+                            [request_id] => 400
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-06 05:24:58
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2021-08-09 00:26:38
+                            [updated_at] => 2022-09-06 05:24:58
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [1] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 735
+                            [user_id] => 99
+                            [email] => project-18062313-5129eba905b542517e6c743f@basecamp.com, sina@omegaa.com.au
+                            [request_id] => 1009
+                            [subject] => Discussion: Your weekly report is here
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-11 03:11:20
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2021-08-09 03:36:52
+                            [updated_at] => 2022-09-11 03:11:20
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 735
+                            [user_id] => 99
+                            [email] => project-18062313-5129eba905b542517e6c743f@basecamp.com, sina@omegaa.com.au
+                            [request_id] => 1009
+                            [subject] => Discussion: Your weekly report is here
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-11 03:11:20
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2021-08-09 03:36:52
+                            [updated_at] => 2022-09-11 03:11:20
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [2] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1597
+                            [user_id] => 99
+                            [email] => save-rSr9VbWmTotX@3.basecamp.com, thisura@aronadigital.com, thisura@aronadigital.com, thisura@aronadigital.com
+                            [request_id] => 2515
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-25
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-07 05:45:56
+                            [updated_at] => 2022-09-12 10:02:16
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1597
+                            [user_id] => 99
+                            [email] => save-rSr9VbWmTotX@3.basecamp.com, thisura@aronadigital.com, thisura@aronadigital.com, thisura@aronadigital.com
+                            [request_id] => 2515
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-25
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-07 05:45:56
+                            [updated_at] => 2022-09-12 10:02:16
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [3] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1657
+                            [user_id] => 99
+                            [email] => save-dDVDw7zBJQHm@3.basecamp.com, aleks@k2l.co.uk, scott@k2l.co.uk, aleks@k2l.co.uk, james@k2l.co.uk, scott@k2l.co.uk, save-o2bYqA8qWuCa@3.basecamp.com, aleks@k2l.co.uk, james@k2l.co.uk, scott@k2l.co.uk
+                            [request_id] => 2616
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:13:09
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-21 10:31:55
+                            [updated_at] => 2022-09-05 12:13:09
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1657
+                            [user_id] => 99
+                            [email] => save-dDVDw7zBJQHm@3.basecamp.com, aleks@k2l.co.uk, scott@k2l.co.uk, aleks@k2l.co.uk, james@k2l.co.uk, scott@k2l.co.uk, save-o2bYqA8qWuCa@3.basecamp.com, aleks@k2l.co.uk, james@k2l.co.uk, scott@k2l.co.uk
+                            [request_id] => 2616
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:13:09
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-21 10:31:55
+                            [updated_at] => 2022-09-05 12:13:09
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [4] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1714
+                            [user_id] => 99
+                            [email] => leapingthroughlife@gmail.com, save-GC7xfDeY81FK@3.basecamp.com
+                            [request_id] => 2108
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-04 06:36:47
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-28 08:33:47
+                            [updated_at] => 2022-09-05 11:40:44
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1714
+                            [user_id] => 99
+                            [email] => leapingthroughlife@gmail.com, save-GC7xfDeY81FK@3.basecamp.com
+                            [request_id] => 2108
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-04 06:36:47
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-03-28 08:33:47
+                            [updated_at] => 2022-09-05 11:40:44
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [5] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2310
+                            [user_id] => 99
+                            [email] => save-s8MMapf7LPTm@3.basecamp.com, kim@dnaleads.com
+                            [request_id] => 3581
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 11:18:08
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:17:16
+                            [updated_at] => 2022-09-05 11:18:08
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2310
+                            [user_id] => 99
+                            [email] => save-s8MMapf7LPTm@3.basecamp.com, kim@dnaleads.com
+                            [request_id] => 3581
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 11:18:08
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:17:16
+                            [updated_at] => 2022-09-05 11:18:08
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [6] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2311
+                            [user_id] => 99
+                            [email] => save-x8NnKXkBdDRC@3.basecamp.com, msabitov@cmito.com
+                            [request_id] => 3493
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:01:00
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:22:05
+                            [updated_at] => 2022-09-05 12:01:00
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2311
+                            [user_id] => 99
+                            [email] => save-x8NnKXkBdDRC@3.basecamp.com, msabitov@cmito.com
+                            [request_id] => 3493
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:01:00
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:22:05
+                            [updated_at] => 2022-09-05 12:01:00
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [7] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2312
+                            [user_id] => 99
+                            [email] => save-qbAT8PY2Aks7@3.basecamp.com, mlonghelt@wearemorebrite.com
+                            [request_id] => 3502
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:01:22
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:27:20
+                            [updated_at] => 2022-09-05 12:01:22
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2312
+                            [user_id] => 99
+                            [email] => save-qbAT8PY2Aks7@3.basecamp.com, mlonghelt@wearemorebrite.com
+                            [request_id] => 3502
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:01:22
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:27:20
+                            [updated_at] => 2022-09-05 12:01:22
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [8] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2313
+                            [user_id] => 99
+                            [email] => save-ezu5PxR2yX6b@3.basecamp.com, frey.necole@zeeelle.com
+                            [request_id] => 3538
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:01:45
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:36:02
+                            [updated_at] => 2022-09-05 12:01:45
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2313
+                            [user_id] => 99
+                            [email] => save-ezu5PxR2yX6b@3.basecamp.com, frey.necole@zeeelle.com
+                            [request_id] => 3538
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:01:45
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:36:02
+                            [updated_at] => 2022-09-05 12:01:45
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [9] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2314
+                            [user_id] => 99
+                            [email] => save-jJkTVtWyU3vs@3.basecamp.com, rajvarada.fcc@gmail.com
+                            [request_id] => 3516
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 11:45:07
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:43:43
+                            [updated_at] => 2022-09-05 11:45:07
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2314
+                            [user_id] => 99
+                            [email] => save-jJkTVtWyU3vs@3.basecamp.com, rajvarada.fcc@gmail.com
+                            [request_id] => 3516
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 11:45:07
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:43:43
+                            [updated_at] => 2022-09-05 11:45:07
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [10] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2315
+                            [user_id] => 99
+                            [email] => nilesh@walkthrough.so, save-N2vERoz7ku7n@3.basecamp.com
+                            [request_id] => 3520
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 11:49:10
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:46:31
+                            [updated_at] => 2022-09-05 11:49:10
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2315
+                            [user_id] => 99
+                            [email] => nilesh@walkthrough.so, save-N2vERoz7ku7n@3.basecamp.com
+                            [request_id] => 3520
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 11:49:10
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:46:31
+                            [updated_at] => 2022-09-05 11:49:10
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [11] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2316
+                            [user_id] => 99
+                            [email] => save-5rzJAXsYN5yY@3.basecamp.com, cath.yang@visionchinatimes.org
+                            [request_id] => 3542
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:02:04
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:47:51
+                            [updated_at] => 2022-09-05 12:02:04
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2316
+                            [user_id] => 99
+                            [email] => save-5rzJAXsYN5yY@3.basecamp.com, cath.yang@visionchinatimes.org
+                            [request_id] => 3542
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:02:04
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:47:51
+                            [updated_at] => 2022-09-05 12:02:04
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [12] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2317
+                            [user_id] => 99
+                            [email] => save-raWMxRNwwTyw@3.basecamp.com, Joe.martin@scorpion.co
+                            [request_id] => 3565
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:02:49
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:51:42
+                            [updated_at] => 2022-09-05 12:02:49
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2317
+                            [user_id] => 99
+                            [email] => save-raWMxRNwwTyw@3.basecamp.com, Joe.martin@scorpion.co
+                            [request_id] => 3565
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:02:49
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:51:42
+                            [updated_at] => 2022-09-05 12:02:49
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [13] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2318
+                            [user_id] => 99
+                            [email] => save-DHJ9hLVneGrA@3.basecamp.com, ajberz@gmail.com
+                            [request_id] => 3537
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 11:54:17
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:53:08
+                            [updated_at] => 2022-09-05 11:54:17
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2318
+                            [user_id] => 99
+                            [email] => save-DHJ9hLVneGrA@3.basecamp.com, ajberz@gmail.com
+                            [request_id] => 3537
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 11:54:17
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:53:08
+                            [updated_at] => 2022-09-05 11:54:17
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [14] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2319
+                            [user_id] => 99
+                            [email] => save-hjX35nqfmwox@3.basecamp.com, ed@conwaystewart.com
+                            [request_id] => 3563
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:03:16
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:55:08
+                            [updated_at] => 2022-09-05 12:03:16
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2319
+                            [user_id] => 99
+                            [email] => save-hjX35nqfmwox@3.basecamp.com, ed@conwaystewart.com
+                            [request_id] => 3563
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:03:16
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:55:08
+                            [updated_at] => 2022-09-05 12:03:16
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [15] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2320
+                            [user_id] => 99
+                            [email] => save-zKJvPoy7VDn1@3.basecamp.com, amir@directclicks.com.au
+                            [request_id] => 3555
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:03:33
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:57:44
+                            [updated_at] => 2022-09-05 12:03:33
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2320
+                            [user_id] => 99
+                            [email] => save-zKJvPoy7VDn1@3.basecamp.com, amir@directclicks.com.au
+                            [request_id] => 3555
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:03:33
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 11:57:44
+                            [updated_at] => 2022-09-05 12:03:33
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [16] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2321
+                            [user_id] => 99
+                            [email] => save-8q1bp6hZ1x3a@3.basecamp.com, jtan.skinscience@gmail.com, standley@sftechnologies.co
+                            [request_id] => 3554
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:01:16
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:00:13
+                            [updated_at] => 2022-09-05 12:01:16
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2321
+                            [user_id] => 99
+                            [email] => save-8q1bp6hZ1x3a@3.basecamp.com, jtan.skinscience@gmail.com, standley@sftechnologies.co
+                            [request_id] => 3554
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:01:16
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:00:13
+                            [updated_at] => 2022-09-05 12:01:16
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [17] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2322
+                            [user_id] => 99
+                            [email] => save-EUf6d9NNuhV9@3.basecamp.com, jess@petexpertise.com
+                            [request_id] => 3558
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 13:01:09
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:02:37
+                            [updated_at] => 2022-09-05 13:01:09
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2322
+                            [user_id] => 99
+                            [email] => save-EUf6d9NNuhV9@3.basecamp.com, jess@petexpertise.com
+                            [request_id] => 3558
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 13:01:09
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:02:37
+                            [updated_at] => 2022-09-05 13:01:09
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [18] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2323
+                            [user_id] => 99
+                            [email] => save-BZKKXY3vU8Y7@3.basecamp.com, spencer@nlvstampa.com
+                            [request_id] => 3545
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 13:01:33
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:04:52
+                            [updated_at] => 2022-09-05 13:01:33
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2323
+                            [user_id] => 99
+                            [email] => save-BZKKXY3vU8Y7@3.basecamp.com, spencer@nlvstampa.com
+                            [request_id] => 3545
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 13:01:33
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:04:52
+                            [updated_at] => 2022-09-05 13:01:33
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [19] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2324
+                            [user_id] => 99
+                            [email] => save-nWkucxukMNf1@3.basecamp.com, maruf@livelongdigital.com.au, prosper@livelongdigital.com.au
+                            [request_id] => 3540
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:08:14
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:07:16
+                            [updated_at] => 2022-09-05 12:08:14
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2324
+                            [user_id] => 99
+                            [email] => save-nWkucxukMNf1@3.basecamp.com, maruf@livelongdigital.com.au, prosper@livelongdigital.com.au
+                            [request_id] => 3540
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:08:14
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:07:16
+                            [updated_at] => 2022-09-05 12:08:14
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [20] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2325
+                            [user_id] => 99
+                            [email] => save-EjxYExJHvRd9@3.basecamp.com, ultan@thooja.com
+                            [request_id] => 3686
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:11:08
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:09:24
+                            [updated_at] => 2022-09-05 12:11:08
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2325
+                            [user_id] => 99
+                            [email] => save-EjxYExJHvRd9@3.basecamp.com, ultan@thooja.com
+                            [request_id] => 3686
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 2022-09-05 12:11:08
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-05 12:09:24
+                            [updated_at] => 2022-09-05 12:11:08
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [21] => App\ScheduleReport Object
+                (
+                    [table:protected] => schedule_reports
+                    [primaryKey:protected] => id
+                    [appends:protected] => Array
+                        (
+                            [0] => project_name
+                            [1] => report_format
+                            [2] => last_delivered
+                            [3] => frequency
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => email
+                            [2] => request_id
+                            [3] => subject
+                            [4] => mail_text
+                            [5] => rotation
+                            [6] => day
+                            [7] => report_type
+                            [8] => format
+                            [9] => last_delivery
+                            [10] => next_delivery
+                            [11] => status
+                            [12] => sent_status
+                            [13] => deleted_at
+                        )
+
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2356
+                            [user_id] => 99
+                            [email] => hamletlaundry@gmail.com, save-H1i2qQ43Yfww@3.basecamp.com
+                            [request_id] => 3619
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 10:49:21
+                            [updated_at] => 2022-09-12 10:49:21
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2356
+                            [user_id] => 99
+                            [email] => hamletlaundry@gmail.com, save-H1i2qQ43Yfww@3.basecamp.com
+                            [request_id] => 3619
+                            [subject] => AgencyDashboard.io Report:
+                            [mail_text] => <p>Your report is attached to this email.</p>
+<p>Thank you,</p>
+<p>Agency Dashboard</p>
+                            [rotation] => Sun
+                            [day] => 
+                            [report_type] => 2
+                            [format] => 1
+                            [last_delivery] => 
+                            [next_delivery] => 2022-09-12
+                            [status] => 1
+                            [sent_status] => 
+                            [deleted_at] => 
+                            [created_at] => 2022-09-12 10:49:21
+                            [updated_at] => 2022-09-12 10:49:21
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)

@@ -1,0 +1,32 @@
+Array
+(
+    [0] => https://leoht.co.uk
+    [1] => https://leoht.co.uk/pages/costs
+    [2] => https://leoht.co.uk/pages/faqs
+    [3] => https://leoht.co.uk/pages/education
+    [4] => https://leoht.co.uk/pages/contact
+    [5] => https://leoht.co.uk/pages/about
+    [6] => https://leoht.co.uk/pages/remote-design
+    [7] => https://leoht.co.uk/pages/how-it-works
+    [8] => https://leoht.co.uk/pages/success
+    [9] => https://leoht.co.uk/pages/solar-panel-installation-brighton
+    [10] => https://leoht.co.uk/pages/solar-panel-installation-hove
+    [11] => https://leoht.co.uk/pages/solar-panel-installation-worthing
+    [12] => https://leoht.co.uk/pages/how-are-solar-panels-installed-
+    [13] => https://leoht.co.uk/pages/3680w-limit
+    [14] => https://leoht.co.uk/pages/privacy-policy
+    [15] => https://leoht.co.uk/pages/solar-design
+    [16] => https://leoht.co.uk/pages/solar-battery-is-it-worth-it-
+    [17] => https://leoht.co.uk/pages/how-many-solar-panels-do-i-need-
+    [18] => https://leoht.co.uk/pages/can-solar-panels-charge-an-electric-car-
+    [19] => https://leoht.co.uk/pages/are-solar-panels-worth-it-in-the-uk-
+    [20] => https://leoht.co.uk/pages/how-much-energy-do-everyday-household-items-use-
+    [21] => https://leoht.co.uk/pages/how-much-would-getting-solar-panels-offset-my-impact-
+    [22] => https://leoht.co.uk/pages/optimising-your-solar-panel-design
+    [23] => https://leoht.co.uk/pages/which-solar-panels-are-best-
+    [24] => https://leoht.co.uk/pages/how-do-solar-panels-generate-electricity-
+    [25] => https://leoht.co.uk/pages/im-retired-should-i-get-solar-panels-
+    [26] => https://leoht.co.uk/pages/can-solar-panels-power-a-house-in-the-uk-
+    [27] => https://leoht.co.uk/pages/what-if-every-home-in-the-uk-had-solar-panels-
+    [28] => https://leoht.co.uk
+)

@@ -1,0 +1,20 @@
+Array
+(
+    [0] => https://www.happypantsnyc.com
+    [1] => https://www.happypantsnyc.com/covid_procedures
+    [2] => http://www.happypantsnyc.com/our-team
+    [3] => https://www.happypantsnyc.com/covid-procedures
+    [4] => https://www.happypantsnyc.com/about-us
+    [5] => https://www.happypantsnyc.com/contact-us
+    [6] => https://www.happypantsnyc.com/happy-pants/sitting
+    [7] => https://www.happypantsnyc.com/our_team/kate-sudar
+    [8] => https://www.happypantsnyc.com/happy-pants/running
+    [9] => http://www.happypantsnyc.com/our_team/nick-byrne
+    [10] => https://www.happypantsnyc.com/our_team/dane-anthony
+    [11] => http://www.happypantsnyc.com/our_team/asia-plate
+    [12] => http://www.happypantsnyc.com/our_team/rachel-pariso
+    [13] => https://www.happypantsnyc.com/happy-pants/puppy-care
+    [14] => https://www.happypantsnyc.com/happy-pants/dog-play-group
+    [15] => https://www.happypantsnyc.com/how-to-find-a-great-dog-walker-nyc
+    [16] => https://happypantsnyc.com
+)

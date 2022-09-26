@@ -1,0 +1,20 @@
+Array
+(
+    [0] => https://www.bdbmarketingdesign.com
+    [1] => https://www.bdbmarketingdesign.com/services
+    [2] => https://www.bdbmarketingdesign.com/blog
+    [3] => https://www.bdbmarketingdesign.com/faq
+    [4] => https://www.bdbmarketingdesign.com/contact-us
+    [5] => https://www.bdbmarketingdesign.com/about-us
+    [6] => https://www.bdbmarketingdesign.com/services/marketing
+    [7] => https://www.bdbmarketingdesign.com/services/web-design
+    [8] => https://www.bdbmarketingdesign.com/services/business-coaching
+    [9] => https://www.bdbmarketingdesign.com/services/graphic-design
+    [10] => https://www.bdbmarketingdesign.com/services/marketing-audits-assessments
+    [11] => https://www.bdbmarketingdesign.com/services/seo-search-engine-optimization
+    [12] => https://www.bdbmarketingdesign.com/services/social-media-marketing-b2b
+    [13] => https://www.bdbmarketingdesign.com/importance-of-digital-marketing-for-a-small-business
+    [14] => https://www.bdbmarketingdesign.com/the-essentials-you-need-for-your-digital-marketing-strategy
+    [15] => https://www.bdbmarketingdesign.com/online-business-coaching-what-is-it-and-should-you-get-one
+    [16] => https://www.bdbmarketingdesign.com
+)

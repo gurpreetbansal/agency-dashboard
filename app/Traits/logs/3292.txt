@@ -1,0 +1,14 @@
+Array
+(
+    [0] => https://revelnationcarnival.com
+    [1] => https://revelnationcarnival.com/gallery
+    [2] => https://revelnationcarnival.com/florentine-diamond
+    [3] => https://revelnationcarnival.com/gallery-psyorina
+    [4] => https://revelnationcarnival.com/costumes-v2
+    [5] => https://revelnationcarnival.com/about-us
+    [6] => https://revelnationcarnival.com/my-account
+    [7] => https://revelnationcarnival.com/landing-page-2021-2
+    [8] => https://revelnationcarnival.com/the-crown-jewels-of-ireland
+    [9] => https://revelnationcarnival.com
+    [10] => https://revelnationcarnival.com/contact-v2
+)

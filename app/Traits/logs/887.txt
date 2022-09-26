@@ -1,0 +1,15 @@
+Array
+(
+    [0] => https://www.palletsexpress.com.au
+    [1] => https://www.palletsexpress.com.au/wooden-pallets
+    [2] => https://www.palletsexpress.com.au/custom-pallets
+    [3] => https://www.palletsexpress.com.au/export-pallets
+    [4] => https://www.palletsexpress.com.au/plastic-pallets
+    [5] => https://www.palletsexpress.com.au/used-pallets
+    [6] => https://www.palletsexpress.com.au/wooden-boxes
+    [7] => https://www.palletsexpress.com.au/contact-us
+    [8] => https://www.palletsexpress.com.au/about-us
+    [9] => https://www.palletsexpress.com.au/wooden-crates
+    [10] => https://www.palletsexpress.com.au/heat-treated-pallets
+    [11] => https://palletsexpress.com.au
+)

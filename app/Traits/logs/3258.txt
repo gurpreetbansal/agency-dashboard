@@ -1,0 +1,36 @@
+Array
+(
+    [0] => https://www.blendblast.com.au
+    [1] => https://www.blendblast.com.au/pages/faq
+    [2] => https://www.blendblast.com.au/products/straw
+    [3] => https://www.blendblast.com.au/pages/terms-conditions
+    [4] => https://www.blendblast.com.au/pages/contact-us
+    [5] => https://www.blendblast.com.au/collections/blend-blast
+    [6] => https://www.blendblast.com.au/products/buy-australia-blend-blast
+    [7] => https://www.blendblast.com.au/pages/refund-and-return-policy
+    [8] => https://www.blendblast.com.au/collections/accessories
+    [9] => https://www.blendblast.com.au/blogs/recipes
+    [10] => https://www.blendblast.com.au/collections/all
+    [11] => https://www.blendblast.com.au/products/blend-blast-turquoise-portable-blender-500-ml
+    [12] => https://www.blendblast.com.au/products/blend-blast-black-portable-blender-500-ml
+    [13] => https://www.blendblast.com.au/products/blend-blast-grey-portable-blender-500-ml
+    [14] => https://www.blendblast.com.au/products/blend-blast-cyan-portable-blender-500-ml
+    [15] => https://www.blendblast.com.au/products/blend-blast-pro-australias-best-portable-blender
+    [16] => https://www.blendblast.com.au/products/blend-blast-red-portable-blender-500-ml
+    [17] => https://www.blendblast.com.au/products/blend-blast-white-portable-blender-500-ml
+    [18] => https://www.blendblast.com.au/blogs/recipes/paleo-smoothie-with-the-blend-blast
+    [19] => https://www.blendblast.com.au/products/blend-blast-chartreuse-green-portable-blender-500-ml
+    [20] => https://www.blendblast.com.au/products/blend-blast-dark-green-portable-blender-500-ml
+    [21] => https://www.blendblast.com.au/collections/all%3Fpage%3D2
+    [22] => https://www.blendblast.com.au/products/blend-blast-navy-blue-portable-blender-500-ml
+    [23] => https://www.blendblast.com.au/blogs/recipes/coconut-banana-smoothie-with-the-blend-blast
+    [24] => https://www.blendblast.com.au/products/blend-blast-soft-pink-portable-blender-500-ml
+    [25] => https://www.blendblast.com.au/collections/blend-blast-pro
+    [26] => https://www.blendblast.com.au/products/blend-blast-pink-350-ml-buy-australias-best-portable-blender
+    [27] => https://www.blendblast.com.au/products/blend-blast-green-350-ml-buy-australias-best-portable-blender
+    [28] => https://www.blendblast.com.au/collections/all%3Fconstraint%3Dbaby-food
+    [29] => https://www.blendblast.com.au/products/blend-blast-black-350-ml-buy-australias-best-portable-blender
+    [30] => https://www.blendblast.com.au/products/blend-blast-blue-350-ml-buy-australias-best-portable-blender
+    [31] => https://www.blendblast.com.au/products/blend-blast-purple-350-ml-buy-australias-best-portable-blender-1
+    [32] => https://www.blendblast.com.au/blogs/recipes/tagged/paleo-smoothie
+)

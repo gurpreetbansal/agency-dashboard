@@ -1,0 +1,24 @@
+Array
+(
+    [0] => https://www.windowreplacementgroup.com
+    [1] => https://www.windowreplacementgroup.com/warranties
+    [2] => https://www.windowreplacementgroup.com/doors
+    [3] => https://www.windowreplacementgroup.com/gallery
+    [4] => https://www.windowreplacementgroup.com/windows
+    [5] => https://www.windowreplacementgroup.com/products
+    [6] => https://www.windowreplacementgroup.com/financing
+    [7] => https://www.windowreplacementgroup.com/about-us
+    [8] => https://www.windowreplacementgroup.com/fixed-window
+    [9] => https://www.windowreplacementgroup.com/single-hung
+    [10] => https://www.windowreplacementgroup.com/contact-us
+    [11] => https://www.windowreplacementgroup.com/category/uncategorized
+    [12] => https://www.windowreplacementgroup.com/casement-window
+    [13] => https://www.windowreplacementgroup.com/horizontal-sliders
+    [14] => https://www.windowreplacementgroup.com/export-services
+    [15] => https://www.windowreplacementgroup.com/entry-doors
+    [16] => https://www.windowreplacementgroup.com/2019/10
+    [17] => https://www.windowreplacementgroup.com/secrets-your-business-mentor-wont-tell-you
+    [18] => https://www.windowreplacementgroup.com/wp-content/uploads/2021/07/CGI-Warranty.pdf
+    [19] => https://www.windowreplacementgroup.com/wp-content/uploads/2021/07/PGT-Warranty.pdf
+    [20] => https://www.windowreplacementgroup.com
+)

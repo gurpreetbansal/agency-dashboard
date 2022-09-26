@@ -1,0 +1,35 @@
+stdClass Object
+(
+    [id] => 1
+    [result] => stdClass Object
+        (
+            [data] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [url_from] => https://www.invinciblemedia.co.uk/portfolio
+                            [url_to] => https://www.propertycleans.co.uk/
+                            [nofollow] => follow
+                            [link_type] => href
+                            [links_ext] => 51
+                            [link_text] => live site
+                            [first_seen] => 2022-01-13
+                            [last_visited] => 2022-01-13 18:22:20
+                            [domain_rank] => 18
+                        )
+
+                )
+
+            [summary_info] => stdClass Object
+                (
+                    [left_lines] => 93162
+                    [page] => 1
+                    [count] => 1
+                    [total] => 1
+                    [sort] => check
+                    [order] => DESC
+                )
+
+        )
+
+)

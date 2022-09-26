@@ -1,0 +1,27 @@
+Array
+(
+    [0] => https://www.aovonlinevergelijken.nl
+    [1] => https://www.aovonlinevergelijken.nl/inloop-uitlooprisico
+    [2] => https://www.aovonlinevergelijken.nl/aov-referenties
+    [3] => https://www.aovonlinevergelijken.nl/aov-vergelijken
+    [4] => https://www.aovonlinevergelijken.nl/aov-overstappen-2
+    [5] => https://www.aovonlinevergelijken.nl/aov-premie-berekenen
+    [6] => https://www.aovonlinevergelijken.nl/veelgestelde-aov-vragen
+    [7] => https://www.aovonlinevergelijken.nl/onze-aov-werkwijze
+    [8] => https://www.aovonlinevergelijken.nl/beroepsaansprakelijkheidsverzekering-zzp/beroepsaansprakelijkheidsverzekering-lvsc
+    [9] => https://www.aovonlinevergelijken.nl/aov-premie-berekenen-2
+    [10] => https://www.aovonlinevergelijken.nl/aov-premie-berekenen-2-2
+    [11] => https://www.aovonlinevergelijken.nl/een-verzekering-beroepsaansprakelijkheid-voor-hoger-opgeleiden
+    [12] => https://www.aovonlinevergelijken.nl/aov-premie-berekenen-2-2-2
+    [13] => https://www.aovonlinevergelijken.nl/geld-besparen-op-je-aov-5-tips
+    [14] => https://www.aovonlinevergelijken.nl/kies-ik-als-zzper-voor-een-arbeidsongeschiktheidsverzekering
+    [15] => https://www.aovonlinevergelijken.nl/wat-verzeker-ik-met-een-bav-verzekering
+    [16] => https://www.aovonlinevergelijken.nl/is-een-arbeidsongeschiktheidsverzekering-aov-zzp-iets-voor-jou
+    [17] => https://www.aovonlinevergelijken.nl/veelgestelde-aov-vragen-2
+    [18] => https://www.aovonlinevergelijken.nl/de-meeste-ondernemers-hebben-een-hekel-aan-aov-maar-waarom
+    [19] => https://www.aovonlinevergelijken.nl/beroepsaansprakelijkheidsverzekering-berekenen-en-online-afsluiten-tot-40-collectieve-korting-2
+    [20] => https://www.aovonlinevergelijken.nl/de-verplichte-zzp-aov-gaat-die-nou-wel-door-of-niet
+    [21] => https://www.aovonlinevergelijken.nl/heb-je-een-aov-dit-is-hoe-je-flink-kunt-besparen-met-overstappen
+    [22] => https://www.aovonlinevergelijken.nl
+    [23] => https://www.aovonlinevergelijken.nl/author/whitfieldd_tm
+)

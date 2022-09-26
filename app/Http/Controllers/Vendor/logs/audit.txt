@@ -1,0 +1,5 @@
+Array
+(
+    [campaign_id] => 53
+    [postback_id] => 1650539084
+)

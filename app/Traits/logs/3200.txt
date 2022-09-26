@@ -1,0 +1,12 @@
+Array
+(
+    [0] => https://www.shellievdesigns.com
+    [1] => https://www.shellievdesigns.com/about
+    [2] => https://www.shellievdesigns.com/contact
+    [3] => https://www.shellievdesigns.com/shop
+    [4] => https://www.shellievdesigns.com/product-page/the-inverse-slides
+    [5] => https://www.shellievdesigns.com/giving-back
+    [6] => https://www.shellievdesigns.com/product-page/the-inverse-mod-placeholder
+    [7] => https://www.shellievdesigns.com/copy-of-about
+    [8] => https://www.shellievdesigns.com
+)

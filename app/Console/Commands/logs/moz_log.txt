@@ -1,0 +1,2263 @@
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 2067
+                            [user_id] => 99
+                            [domain_url] => https://nuenergy.net/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 2067
+                            [user_id] => 99
+                            [domain_url] => https://nuenergy.net/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [1] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1274
+                            [user_id] => 99
+                            [domain_url] => https://www.usmilitarytents.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1274
+                            [user_id] => 99
+                            [domain_url] => https://www.usmilitarytents.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [2] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 1131
+                            [user_id] => 99
+                            [domain_url] => https://www.coversinplay.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 1131
+                            [user_id] => 99
+                            [domain_url] => https://www.coversinplay.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [3] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 902
+                            [user_id] => 99
+                            [domain_url] => emersonsenvirocare.com.au
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 902
+                            [user_id] => 99
+                            [domain_url] => emersonsenvirocare.com.au
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [4] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 885
+                            [user_id] => 99
+                            [domain_url] => https://translationsandinterpretations.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 885
+                            [user_id] => 99
+                            [domain_url] => https://translationsandinterpretations.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [5] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 883
+                            [user_id] => 99
+                            [domain_url] => https://www.parkdentalbk.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 883
+                            [user_id] => 99
+                            [domain_url] => https://www.parkdentalbk.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [6] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 847
+                            [user_id] => 99
+                            [domain_url] => https://www.autopoolreel.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 847
+                            [user_id] => 99
+                            [domain_url] => https://www.autopoolreel.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [7] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 839
+                            [user_id] => 99
+                            [domain_url] => https://brullen.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 839
+                            [user_id] => 99
+                            [domain_url] => https://brullen.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [8] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 835
+                            [user_id] => 99
+                            [domain_url] => https://www.poho.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 835
+                            [user_id] => 99
+                            [domain_url] => https://www.poho.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [9] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 831
+                            [user_id] => 99
+                            [domain_url] => https://ryalex.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 831
+                            [user_id] => 99
+                            [domain_url] => https://ryalex.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [10] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 628
+                            [user_id] => 99
+                            [domain_url] => https://www.waratahwardrobes.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 628
+                            [user_id] => 99
+                            [domain_url] => https://www.waratahwardrobes.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [11] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 589
+                            [user_id] => 99
+                            [domain_url] => https://www.tecbogroup.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 589
+                            [user_id] => 99
+                            [domain_url] => https://www.tecbogroup.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [12] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 509
+                            [user_id] => 99
+                            [domain_url] => https://coversinplay.ca/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 509
+                            [user_id] => 99
+                            [domain_url] => https://coversinplay.ca/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [13] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 484
+                            [user_id] => 99
+                            [domain_url] => https://www.cooperagepallets.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 484
+                            [user_id] => 99
+                            [domain_url] => https://www.cooperagepallets.com.au/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [14] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 401
+                            [user_id] => 99
+                            [domain_url] => https://topdogtrainingandresort.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 401
+                            [user_id] => 99
+                            [domain_url] => https://topdogtrainingandresort.com/
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [15] => App\SemrushUserAccount Object
+                (
+                    [table:protected] => semrush_users_account
+                    [primaryKey:protected] => id
+                    [fillable:protected] => Array
+                        (
+                            [0] => user_id
+                            [1] => domain_name
+                            [2] => domain_url
+                            [3] => host_url
+                            [4] => domain_register
+                            [5] => regional_db
+                            [6] => clientName
+                            [7] => status
+                            [8] => token
+                            [9] => google_analytics_id
+                            [10] => google_account_id
+                            [11] => google_property_id
+                            [12] => google_profile_id
+                            [13] => created
+                            [14] => modified
+                            [15] => google_ads_id
+                            [16] => dashboard_type
+                            [17] => google_console_id
+                            [18] => console_account_id
+                            [19] => console_property_id
+                            [20] => console_view_id
+                            [21] => seo_skip
+                            [22] => ppc_skip
+                            [23] => tags
+                            [24] => gmb_analaytics_id
+                            [25] => gmb_id
+                            [26] => deleted_at
+                            [27] => favicon
+                            [28] => rank_search_engine
+                            [29] => rank_location
+                            [30] => rank_latitude
+                            [31] => rank_longitude
+                            [32] => rank_device
+                            [33] => rank_language
+                            [34] => project_logo
+                            [35] => is_favorite
+                            [36] => goal_completion_count
+                            [37] => ecommerce_goals
+                            [38] => backlinks_cron_date
+                            [39] => tag_id
+                            [40] => url_type
+                            [41] => extra_keywords_cron_date
+                            [42] => updated_at
+                            [43] => notification_flag
+                            [44] => audit_crawl_pages
+                            [45] => share_key
+                            [46] => moz_date
+                            [47] => ga4_email_id
+                            [48] => ga4_account_id
+                            [49] => ga4_property_id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 391
+                            [user_id] => 99
+                            [domain_url] => ecofittingvalve.com
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 391
+                            [user_id] => 99
+                            [domain_url] => ecofittingvalve.com
+                            [moz_date] => 2022-08-01
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)

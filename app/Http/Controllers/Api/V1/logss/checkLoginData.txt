@@ -1,0 +1,16 @@
+Array
+(
+    [id] => 99
+    [name] => Ishan Gupta
+    [email] => ishan@imarkinfotech.com
+    [role] => front
+    [role_id] => 2
+    [phone] => 9988299443
+    [company_name] => imark
+    [profile_image] => https://agencydashboard.io/public/storage/profile_images/ishan-gupta_1616005348.jpg
+    [status] => 1
+    [email_verified] => 1
+    [login_as] => 2
+    [last_login] => 2021-04-19 09:45:34
+    [is_admin] => 1
+)

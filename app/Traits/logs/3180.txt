@@ -1,0 +1,35 @@
+Array
+(
+    [0] => https://thorekscott.com
+    [1] => https://thorekscott.com/careers
+    [2] => https://thorekscott.com/contact-us
+    [3] => https://thorekscott.com/privacy-policy
+    [4] => https://thorekscott.com/recent-placements
+    [5] => https://thorekscott.com/our-approach
+    [6] => https://thorekscott.com/meet-the-team
+    [7] => https://thorekscott.com/trackrecords/corporate-controller
+    [8] => https://thorekscott.com/submit-your-resume
+    [9] => https://thorekscott.com/trackrecords/director-venture-debt
+    [10] => https://thorekscott.com/jobs/chief-financial-officer
+    [11] => http://www.thorekscott.com/contact
+    [12] => http://www.thorekscott.com/recentsuccesses
+    [13] => https://thorekscott.com/trackrecords/senior-director-market-risk
+    [14] => https://thorekscott.com/jobs/vice-president-mortgage-underwriting
+    [15] => https://thorekscott.com/trackrecords/senior-director-global-infrastructure
+    [16] => https://thorekscott.com/trackrecords/senior-vice-president-finance-reporting
+    [17] => https://recruit.thorekscott.com/tombstone.php
+    [18] => https://www.thorekscott.com/privacy/index.html
+    [19] => http://www.thorekscott.com/resume/index.html
+    [20] => https://thorekscott.com/jobs/managing-director-head-of-corporate-banking-canada
+    [21] => https://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3D7106d18d-942a-11ec-bd35-b77a3bbcfdbe
+    [22] => https://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3D27178ad7-90ce-11ec-bd35-b77a3bbcfdbe
+    [23] => https://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3D553b1311-82e8-11ec-bd35-b77a3bbcfdbe
+    [24] => http://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3Dfa171b74-cabf-11eb-bdf1-b539fe4e8cd3
+    [25] => https://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3D8d196a43-900b-11ec-bd35-b77a3bbcfdbe
+    [26] => https://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3D168b001e-a485-11ec-bd35-b77a3bbcfdbe
+    [27] => https://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3D94e8e8b0-8b76-11ec-bd35-b77a3bbcfdbe
+    [28] => https://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3D2b79e1e1-aeb9-11ec-bd35-b77a3bbcfdbe
+    [29] => http://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3Dff21caf8-22dc-11e8-9515-685d9df8052e
+    [30] => http://recruit.thorekscott.com/JobDetail.php%3Fjob_id%3Dd19fc708-3320-11eb-bdf1-b539fe4e8cd3
+    [31] => /search%3Fq%3Dsite:thorekscott.com%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+)

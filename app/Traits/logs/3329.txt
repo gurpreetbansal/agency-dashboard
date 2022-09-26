@@ -1,0 +1,14 @@
+Array
+(
+    [0] => https://www.aurora-sterilisation.com
+    [1] => https://www.aurora-sterilisation.com/actualites
+    [2] => https://www.aurora-sterilisation.com/gouvernance
+    [3] => https://www.aurora-sterilisation.com/contact
+    [4] => https://www.aurora-sterilisation.com/en
+    [5] => https://www.aurora-sterilisation.com/en/governance
+    [6] => https://www.aurora-sterilisation.com/comite-scientifique
+    [7] => https://www.aurora-sterilisation.com/categorie/videos
+    [8] => https://www.aurora-sterilisation.com/en/contacts-investors
+    [9] => https://www.aurora-sterilisation.com/en/innovative-medical-devices-manufacturers
+    [10] => https://aurora-sterilisation.com
+)

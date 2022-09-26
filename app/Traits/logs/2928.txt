@@ -1,0 +1,18 @@
+Array
+(
+    [0] => https://www.struxurebybluesky.com
+    [1] => https://www.struxurebybluesky.com/gallery
+    [2] => https://www.struxurebybluesky.com/contact
+    [3] => https://www.struxurebybluesky.com/pergola-x
+    [4] => https://www.struxurebybluesky.com/our-process
+    [5] => https://www.struxurebybluesky.com/clients-and-partners
+    [6] => https://www.struxurebybluesky.com/pergola-x-visualizer
+    [7] => https://www.struxurebybluesky.com/financing
+    [8] => https://www.struxurebybluesky.com/our-territory
+    [9] => https://www.struxurebybluesky.com/why-struxure
+    [10] => https://www.struxurebybluesky.com/our-team
+    [11] => https://www.struxurebybluesky.com/technical-information
+    [12] => https://www.struxurebybluesky.com/commercial-gallery
+    [13] => https://www.struxurebybluesky.com/types-of-patio-covers
+    [14] => https://www.struxurebybluesky.com
+)

@@ -1,0 +1,16 @@
+Array
+(
+    [0] => https://www.rentahoo.com
+    [1] => https://www.rentahoo.com/signup.cfm
+    [2] => https://www.rentahoo.com/blogs.cfm
+    [3] => https://www.rentahoo.com/rental_properties_for_rent.cfm
+    [4] => https://www.rentahoo.com/signin.cfm
+    [5] => https://www.rentahoo.com/privacy-policy.cfm
+    [6] => https://www.rentahoo.com/about-us.cfm
+    [7] => https://www.rentahoo.com/contact-us.cfm
+    [8] => https://www.rentahoo.com/terms-of-use.cfm
+    [9] => https://www.rentahoo.com/view_blog.cfm%3Fblog_id%3D7
+    [10] => https://www.rentahoo.com/view_rental_properties_for_rent.cfm%3Flisting_id%3D31
+    [11] => https://www.rentahoo.com/view_rental_properties_for_rent.cfm%3Flisting_id%3D30
+    [12] => https://www.rentahoo.com
+)

@@ -1,0 +1,16 @@
+Array
+(
+    [0] => https://www.poolenclosures-poolcovers.co.uk
+    [1] => https://www.poolenclosures-poolcovers.co.uk/gallery
+    [2] => https://www.poolenclosures-poolcovers.co.uk/faq
+    [3] => https://www.poolenclosures-poolcovers.co.uk/blog
+    [4] => https://www.poolenclosures-poolcovers.co.uk/resources
+    [5] => https://www.poolenclosures-poolcovers.co.uk/pool-enclosures
+    [6] => https://www.poolenclosures-poolcovers.co.uk/retractable-roofs
+    [7] => https://www.poolenclosures-poolcovers.co.uk/contact-us
+    [8] => https://www.poolenclosures-poolcovers.co.uk/about-us
+    [9] => https://www.poolenclosures-poolcovers.co.uk/automatic-pool-covers
+    [10] => https://www.poolenclosures-poolcovers.co.uk/advantages-of-retractable-roof-systems
+    [11] => https://www.poolenclosures-poolcovers.co.uk/dealing-with-the-problem-of-mustard-algae-in-the-swimming-pool
+    [12] => https://www.poolenclosures-poolcovers.co.uk
+)

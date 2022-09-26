@@ -1,0 +1,21 @@
+Array
+(
+    [0] => https://www.planetapestmanagement.com.au
+    [1] => https://www.planetapestmanagement.com.au/termite-control
+    [2] => https://www.planetapestmanagement.com.au/about-us
+    [3] => https://www.planetapestmanagement.com.au/pest-control
+    [4] => https://www.planetapestmanagement.com.au/contact-us
+    [5] => https://www.planetapestmanagement.com.au/pest-control/sydney
+    [6] => https://www.planetapestmanagement.com.au/pest-control/cockroaches
+    [7] => https://www.planetapestmanagement.com.au/pest-control/spiders
+    [8] => https://www.planetapestmanagement.com.au/commercial-pest-control
+    [9] => https://www.planetapestmanagement.com.au/strata-pest-control
+    [10] => https://www.planetapestmanagement.com.au/pest-control/parramatta
+    [11] => https://www.planetapestmanagement.com.au/pest-control/ants
+    [12] => https://www.planetapestmanagement.com.au/pest-control/fleas
+    [13] => https://www.planetapestmanagement.com.au/pest-control/rats
+    [14] => https://www.planetapestmanagement.com.au/pest-control/st-george
+    [15] => https://www.planetapestmanagement.com.au/pest-control/inner-west
+    [16] => https://www.planetapestmanagement.com.au/pest-control/bed-bugs
+    [17] => https://planetapestmanagement.com.au
+)

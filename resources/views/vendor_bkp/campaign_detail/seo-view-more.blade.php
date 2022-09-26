@@ -1,0 +1,5 @@
+@include('viewkey.seo_sections.organic_keyword_growth')
+@include('viewkey.seo_sections.live_keyword_tracking')
+@include('viewkey.seo_sections.backlink_profile')
+@include('viewkey.seo_sections.goal_completion')
+@include('viewkey.seo_sections.activities')

@@ -1,0 +1,5923 @@
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo outsourcing india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:25
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo outsourcing india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:25
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [1] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo india consultancy
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 
+                            [position] => 74
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:15:12
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo india consultancy
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 
+                            [position] => 74
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:15:12
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [2] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo reseller company
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 720
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:15:09
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo reseller company
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 720
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:15:09
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [3] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => reputation management india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 30
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:20:47
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => reputation management india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 30
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:20:47
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [4] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => offshore seo
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 50
+                            [position] => 16
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:20:43
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => offshore seo
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 50
+                            [position] => 16
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:20:43
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [5] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => best seo india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 140
+                            [position] => 36
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:20:23
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => best seo india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 140
+                            [position] => 36
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:20:23
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [6] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => best seo company india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 2900
+                            [position] => 30
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:25:09
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => best seo company india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 2900
+                            [position] => 30
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:25:09
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [7] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 3600
+                            [position] => 20
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:25:18
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 3600
+                            [position] => 20
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:25:18
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [8] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => best seo company in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 2900
+                            [position] => 35
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:25:13
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => best seo company in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 2900
+                            [position] => 35
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:25:13
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [9] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo expert india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 2400
+                            [position] => 45
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:30:23
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo expert india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 2400
+                            [position] => 45
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:30:23
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [10] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 3600
+                            [position] => 29
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:30:23
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 3600
+                            [position] => 29
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:30:23
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [11] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo india company
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 6600
+                            [position] => 40
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:30:12
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo india company
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 6600
+                            [position] => 40
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:30:12
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [12] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => top seo company in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1600
+                            [position] => 37
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:32:19
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => top seo company in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1600
+                            [position] => 37
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:32:19
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [13] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => hire dedicated seo expert
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 43
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:33:17
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => hire dedicated seo expert
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 43
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:33:17
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [14] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => ppc outsourcing
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 210
+                            [position] => 49
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:32:08
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => ppc outsourcing
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 210
+                            [position] => 49
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:32:08
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [15] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo outsource
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1600
+                            [position] => 48
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:34:18
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo outsource
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1600
+                            [position] => 48
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:34:18
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [16] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => hire seo expert india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 210
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:34:06
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => hire seo expert india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 210
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:34:06
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [17] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => hire seo expert in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 30
+                            [position] => 94
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:34:09
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => hire seo expert in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 30
+                            [position] => 94
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:34:09
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [18] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo reseller india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 210
+                            [position] => 24
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:36:13
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo reseller india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 210
+                            [position] => 24
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:36:13
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [19] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo consulting services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 30
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:38:06
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo consulting services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 30
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:38:06
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [20] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => outsource seo
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1600
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:36:19
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => outsource seo
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1600
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:36:19
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [21] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo reseller program
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 720
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:36:18
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo reseller program
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 720
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:36:18
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [22] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => offshore experts
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 20
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:38:12
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => offshore experts
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 20
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:38:12
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [23] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo resellers
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 12100
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:38:38
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo resellers
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 12100
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:38:38
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [24] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => outsourcing seo
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1600
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:40:10
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => outsourcing seo
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1600
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:40:10
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [25] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo company in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 6600
+                            [position] => 33
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:41:52
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo company in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 6600
+                            [position] => 33
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:41:52
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [26] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => buy backlinks
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 5400
+                            [position] => 39
+                            [region] => google.com
+                            [updated_at] => 2021-07-01 17:44:27
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => buy backlinks
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 5400
+                            [position] => 39
+                            [region] => google.com
+                            [updated_at] => 2021-07-01 17:44:27
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [27] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => ppc management services
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1000
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:42:17
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => ppc management services
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 1000
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:42:17
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [28] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => outsource seo india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:25
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => outsource seo india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:25
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [29] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo link building services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 20
+                            [position] => 10
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:42:19
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo link building services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 20
+                            [position] => 10
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 13:42:19
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [30] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => hire seo expert india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 210
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:01:16
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => hire seo expert india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 210
+                            [position] => 0
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:01:16
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [31] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => offshore seo services
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 12
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:05:06
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => offshore seo services
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 12
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:05:06
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [32] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => offshore seo company
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 12
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:01:40
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => offshore seo company
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 12
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:01:40
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [33] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => buy backlinks india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 90
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:29
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => buy backlinks india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 90
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:29
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [34] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo outsourcing company india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:26
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo outsourcing company india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:26
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [35] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => ppc services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 480
+                            [position] => 4
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:05:42
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => ppc services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 480
+                            [position] => 4
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:05:42
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [36] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => offshore seo services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 10
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:29
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => offshore seo services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 10
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:29
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [37] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => ppc outsourcing india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 10
+                            [position] => 2
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:25
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => ppc outsourcing india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 10
+                            [position] => 2
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:25
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [38] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => ppc management services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 140
+                            [position] => 6
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:10:10
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => ppc management services india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 140
+                            [position] => 6
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:10:10
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [39] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => ppc management in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 10
+                            [position] => 2
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:39
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => ppc management in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 10
+                            [position] => 2
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:39
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [40] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => ppc agency india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 4
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:15:07
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => ppc agency india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 4
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:15:07
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [41] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => outsource seo to india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:28
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => outsource seo to india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:28
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [42] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => ppc india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 6
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:20:24
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => ppc india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 6
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:20:24
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [43] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo consultant india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 10
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:20:22
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo consultant india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 10
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:20:22
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [44] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo consultants in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 10
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:20:16
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo consultants in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 10
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:20:16
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [45] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => adwords agency india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 20
+                            [position] => 8
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:25:13
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => adwords agency india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 20
+                            [position] => 8
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:25:13
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [46] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo consultancy india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 10
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:25:08
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo consultancy india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 10
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:25:08
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [47] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => link building company india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 40
+                            [position] => 14
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:30:07
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => link building company india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 40
+                            [position] => 14
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:30:07
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [48] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => offshore seo services
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 12
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:25:20
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => offshore seo services
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 12
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:25:20
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [49] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo consultant india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 11
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:30:13
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo consultant india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 11
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:30:13
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [50] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => link building services in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 50
+                            [position] => 28
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:35:05
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => link building services in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 50
+                            [position] => 28
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:35:05
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [51] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => offshore seo company
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 13
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:30:27
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => offshore seo company
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 70
+                            [position] => 13
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:30:27
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [52] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo consultant in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 11
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:35:11
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo consultant in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 590
+                            [position] => 11
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:35:11
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [53] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => ppc expert in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 30
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:35:10
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => ppc expert in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 260
+                            [position] => 30
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:35:10
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [54] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => best ppc company in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 170
+                            [position] => 14
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:40:17
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => best ppc company in india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 170
+                            [position] => 14
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:40:17
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [55] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo company india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 6600
+                            [position] => 19
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:40:08
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo company india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 6600
+                            [position] => 19
+                            [region] => google.com
+                            [updated_at] => 2021-03-18 14:40:08
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [56] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => buy india backlinks
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:29
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => buy india backlinks
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-07-29 16:28:29
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+            [57] => App\Views\ViewKeywordSearch Object
+                (
+                    [table] => view_keyword_searches
+                    [appends:protected] => Array
+                        (
+                            [0] => regional_flag
+                            [1] => position_type
+                            [2] => c_position
+                            [3] => project_name
+                            [4] => calculated_time
+                        )
+
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [keyword] => seo outsource to india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 10
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-08-18 05:34:30
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [keyword] => seo outsource to india
+                            [request_id] => 4
+                            [oneday_position] => 0
+                            [sv] => 10
+                            [position] => 1
+                            [region] => google.com
+                            [updated_at] => 2021-08-18 05:34:30
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+)

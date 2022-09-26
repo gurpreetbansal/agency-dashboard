@@ -1,0 +1,20 @@
+Array
+(
+    [0] => https://academymovers.org
+    [1] => https://academymovers.org/moving
+    [2] => https://academymovers.org/moving-2
+    [3] => https://academymovers.org/2022/06/8997
+    [4] => https://academymovers.org/moving/page/2
+    [5] => https://academymovers.org/thank-you-surrey
+    [6] => https://academymovers.org/2018/09/seattle-movers
+    [7] => https://academymovers.org/2018/10/gilbert-movers
+    [8] => https://academymovers.org/5-star-rated-surrey-movers
+    [9] => https://academymovers.org/5-star-rated-phoenix-movers
+    [10] => https://academymovers.org/5-star-rated-seattle-movers
+    [11] => https://academymovers.org/2018/04/best-movers-in-phoenix-arizona
+    [12] => https://academymovers.org/2018/04/services-provided-by-local-moving-companies
+    [13] => https://academymovers.org/2019/06/10-tips-for-moving-during-holidays
+    [14] => https://academymovers.org/2019/03/10-tips-for-moving-in-the-winter
+    [15] => https://academymovers.org/2019/04/10-tips-for-moving-in-the-summer
+    [16] => https://academymovers.org
+)

@@ -1,0 +1,19 @@
+Array
+(
+    [0] => https://www.tyreandwheel.com.au
+    [1] => https://www.tyreandwheel.com.au/mechanical
+    [2] => https://www.tyreandwheel.com.au/tyres
+    [3] => https://www.tyreandwheel.com.au/contact
+    [4] => https://www.tyreandwheel.com.au/wheels
+    [5] => https://www.tyreandwheel.com.au/gallery
+    [6] => https://www.tyreandwheel.com.au/specials
+    [7] => https://www.tyreandwheel.com.au/tyres/passenger
+    [8] => https://www.tyreandwheel.com.au/tyres/4wd
+    [9] => https://www.tyreandwheel.com.au/tyres/commercial
+    [10] => https://www.tyreandwheel.com.au/mechanical/car-servicing
+    [11] => https://www.tyreandwheel.com.au/specials/covid-update
+    [12] => https://www.tyreandwheel.com.au/mechanical/car-suspension
+    [13] => https://www.tyreandwheel.com.au/wheel-alignment-service
+    [14] => https://www.tyreandwheel.com.au/mechanical/car-brake-service
+    [15] => https://tyreandwheel.com.au
+)

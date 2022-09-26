@@ -1,0 +1,24 @@
+Array
+(
+    [0] => https://bondiicecreamco.com
+    [1] => https://bondiicecreamco.com/products
+    [2] => https://bondiicecreamco.com/privacy-policy
+    [3] => https://bondiicecreamco.com/product/caramel
+    [4] => https://bondiicecreamco.com/profit-calculator
+    [5] => https://bondiicecreamco.com/contact-us
+    [6] => https://bondiicecreamco.com/about-us
+    [7] => https://bondiicecreamco.com/delivery-policy
+    [8] => https://bondiicecreamco.com/terms-and-conditions
+    [9] => https://bondiicecreamco.com/product/milk-chocolate
+    [10] => https://bondiicecreamco.com/product/strawberry-dreams
+    [11] => https://bondiicecreamco.com/product/cherry-blossom
+    [12] => https://bondiicecreamco.com/frozen-yogurt-products
+    [13] => https://bondiicecreamco.com/product/bondi-gold
+    [14] => https://bondiicecreamco.com/product/surfs-up
+    [15] => https://bondiicecreamco.com/product/dark-cocoa-chocolate
+    [16] => https://bondiicecreamco.com/product/raspberry-white-chocolate
+    [17] => https://bondiicecreamco.com/product-category/per-carton
+    [18] => https://bondiicecreamco.com/product-category/soft-serve-mix
+    [19] => https://bondiicecreamco.com/how-to-make-the-soft-serve
+    [20] => https://bondiicecreamco.com
+)

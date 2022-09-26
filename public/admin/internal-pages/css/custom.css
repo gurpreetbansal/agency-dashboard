@@ -1,0 +1,31 @@
+.admin-dashboard-search-clear{
+    display: none;
+}
+.refresh-search-icon{
+    display: none;
+}
+
+.project-table-cover .project-table-body table tr td .agency-owner {
+    width: 27px;
+    height: 27px;
+    border-radius: 100%;
+    overflow: hidden;
+    margin-left: 5px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background: #327aee;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+}

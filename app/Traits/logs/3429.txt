@@ -1,0 +1,29 @@
+Array
+(
+    [0] => https://www.bluespoonconsulting.com
+    [1] => https://www.bluespoonconsulting.com/bigdesign
+    [2] => https://www.bluespoonconsulting.com/about
+    [3] => https://www.bluespoonconsulting.com/thoughtleadership
+    [4] => https://www.bluespoonconsulting.com/healthsystemdesign
+    [5] => https://www.bluespoonconsulting.com/blog
+    [6] => https://www.bluespoonconsulting.com/home
+    [7] => https://www.bluespoonconsulting.com/blue-spoonconsultingblog
+    [8] => https://www.bluespoonconsulting.com/systems-thinking
+    [9] => https://www.bluespoonconsulting.com/contact-us
+    [10] => https://www.bluespoonconsulting.com/ecosystemcentered-market-strategy-1
+    [11] => https://www.bluespoonconsulting.com/a-punk-rock-ethos
+    [12] => https://www.bluespoonconsulting.com/blog/the-strategy-that-didnt-fix-healthcare
+    [13] => https://www.bluespoonconsulting.com/blog/medication-adherence-is-a-lunatic-endeavor
+    [14] => https://www.bluespoonconsulting.com/blog/fear-and-loathing-in-the-doldrums
+    [15] => https://www.bluespoonconsulting.com/blog/the-coronavirus-sparks-a-feedback-loop
+    [16] => https://www.bluespoonconsulting.com/blog/aduhelm-and-strategic-collapse-at-biogen
+    [17] => https://www.bluespoonconsulting.com/s/Ecosystem-Design_Malaria.pdf
+    [18] => https://www.bluespoonconsulting.com/positioning-drug-market-strategy-to-create-system-value
+    [19] => https://www.bluespoonconsulting.com/s/Ecosystem-Genesis_Malaria-Example.pdf
+    [20] => https://www.bluespoonconsulting.com/blog/2019/5/1/pharma-flailing
+    [21] => https://www.bluespoonconsulting.com/executive-briefing-notes-and-white-papers
+    [22] => https://www.bluespoonconsulting.com/blog/2019/4/25/another-digital-transformation-goes-off-the-rails
+    [23] => https://www.bluespoonconsulting.com/blog/2019/4/12/overload-and-boredom-as-points-of-innovation-in-health-care
+    [24] => https://www.bluespoonconsulting.com
+    [25] => https://www.bluespoonconsulting.com/hello
+)

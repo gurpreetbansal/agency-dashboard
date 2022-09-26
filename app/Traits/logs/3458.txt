@@ -1,0 +1,22 @@
+Array
+(
+    [0] => https://gregghumeelectrical.com.au
+    [1] => https://gregghumeelectrical.com.au/contact
+    [2] => https://gregghumeelectrical.com.au/automation
+    [3] => https://gregghumeelectrical.com.au/services
+    [4] => https://gregghumeelectrical.com.au/faq
+    [5] => https://gregghumeelectrical.com.au/home-old
+    [6] => https://gregghumeelectrical.com.au/testing-tagging
+    [7] => https://gregghumeelectrical.com.au/appliance-installation
+    [8] => https://gregghumeelectrical.com.au/privacy-policy
+    [9] => https://gregghumeelectrical.com.au/safety-switches
+    [10] => https://gregghumeelectrical.com.au/led-lighting
+    [11] => https://gregghumeelectrical.com.au/about-us
+    [12] => https://gregghumeelectrical.com.au/smoke-alarms
+    [13] => https://gregghumeelectrical.com.au/thank-you
+    [14] => https://gregghumeelectrical.com.au/power-points
+    [15] => https://gregghumeelectrical.com.au/sample-page
+    [16] => https://gregghumeelectrical.com.au/new-wiring-and-rewiring
+    [17] => https://gregghumeelectrical.com.au/sunshine-coast-air-conditioner-installation
+    [18] => https://gregghumeelectrical.com.au
+)

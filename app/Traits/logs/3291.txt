@@ -1,0 +1,31 @@
+Array
+(
+    [0] => https://cybersafefamily.com
+    [1] => https://cybersafefamily.com/pricing
+    [2] => https://cybersafefamily.com/blog
+    [3] => https://cybersafefamily.com/about
+    [4] => https://cybersafefamily.com/login
+    [5] => https://cybersafefamily.com/our-mission
+    [6] => https://cybersafefamily.com/sample-page
+    [7] => https://cybersafefamily.com/download-app
+    [8] => https://cybersafefamily.com/about-us
+    [9] => https://cybersafefamily.com/contact-us
+    [10] => https://cybersafefamily.com/about/safe-driving
+    [11] => https://cybersafefamily.com/subscribe-for-updates
+    [12] => https://cybersafefamily.com/privacy-policy-3
+    [13] => https://portal.cybersafefamily.com
+    [14] => https://cybersafefamily.com/about/web-filter
+    [15] => https://cybersafefamily.com/post-a-review
+    [16] => https://cybersafefamily.com/about/intelligent-time-schedule
+    [17] => https://cybersafefamily.com/end-user-license-agreement
+    [18] => https://cybersafefamily.com/about/geo-fencing-location
+    [19] => https://cybersafefamily.com/about/building-our-children
+    [20] => https://cybersafefamily.com/about/call-sms-blocking
+    [21] => https://cybersafefamily.com/about/youtube-picture-usage
+    [22] => https://cybersafefamily.com/our-mission/publications-research
+    [23] => https://portal.cybersafefamily.com/register
+    [24] => https://cybersafefamily.com/end-user-license-agreement-2
+    [25] => https://portal.cybersafefamily.com/forgot-password
+    [26] => https://cybersafefamily.com/about/web-and-app-game-usage-and-blocking
+    [27] => /search%3Fq%3Dsite:cybersafefamily.com%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+)

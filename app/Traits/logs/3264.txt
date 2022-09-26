@@ -1,0 +1,25 @@
+Array
+(
+    [0] => https://haochinesetuition.com
+    [1] => https://haochinesetuition.com/blog
+    [2] => https://haochinesetuition.com/about
+    [3] => https://haochinesetuition.com/reviews
+    [4] => https://haochinesetuition.com/programmes
+    [5] => https://haochinesetuition.com/courses
+    [6] => https://haochinesetuition.com/enrollment-form
+    [7] => https://haochinesetuition.com/free-resources
+    [8] => https://haochinesetuition.com/contact-us
+    [9] => https://haochinesetuition.com/blog/category/uncategorized
+    [10] => https://haochinesetuition.com/preschool-3-6yrs
+    [11] => https://haochinesetuition.com/product-category/uncategorized
+    [12] => https://haochinesetuition.com/primary-school-7-12yrs
+    [13] => https://haochinesetuition.com/secondary-school-13-16-yrs
+    [14] => https://haochinesetuition.com/han-yu-pin-yin-6-8yrs
+    [15] => https://haochinesetuition.com/product/han-yu-pin-yin-class-singapore-%25E6%25B1%2589%25E8%25AF%25AD%25E6%258B%25BC%25E9%259F%25B3
+    [16] => https://haochinesetuition.com/blog/psle-chinese-hacks-to-boost-your-childs-score
+    [17] => https://haochinesetuition.com/blog/tips-to-help-your-children-improve-their-oral-chinese-speaking-ability
+    [18] => https://haochinesetuition.com/wp-content/uploads/2022/04/P6H-Compre.pdf
+    [19] => https://haochinesetuition.com/wp-content/uploads/2022/04/%25E5%25B0%258F%25E5%25AD%25A6%25E4%25BD%259C%25E6%2596%2587-%25E8%25A7%2581%25E4%25B9%2589%25E5%258B%2587%25E4%25B8%25BA.pdf
+    [20] => https://haochinesetuition.com/wp-content/uploads/2022/04/P4-%25E7%259C%258B%25E5%259B%25BE%25E4%25BD%259C%25E6%2596%2587.pdf
+    [21] => https://haochinesetuition.com
+)

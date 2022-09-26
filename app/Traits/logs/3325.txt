@@ -1,0 +1,17 @@
+Array
+(
+    [0] => https://totaleclipseagency.com.au
+    [1] => https://totaleclipseagency.com.au/resources
+    [2] => https://totaleclipseagency.com.au/about
+    [3] => https://totaleclipseagency.com.au/contact
+    [4] => https://totaleclipseagency.com.au/business-support
+    [5] => https://totaleclipseagency.com.au/privacy-policy
+    [6] => https://totaleclipseagency.com.au/financial-operational
+    [7] => https://totaleclipseagency.com.au/accounting-tax
+    [8] => https://totaleclipseagency.com.au/terms-of-use
+    [9] => https://totaleclipseagency.com.au/resources/page/2/%3Fet_blog
+    [10] => https://totaleclipseagency.com.au/12-strategies-to-keep-your-business-organised
+    [11] => https://totaleclipseagency.com.au/what-does-an-executive-virtual-assistant-do
+    [12] => https://totaleclipseagency.com.au/how-to-find-the-right-virtual-assistant-for-your-business
+    [13] => https://totaleclipseagency.com.au
+)

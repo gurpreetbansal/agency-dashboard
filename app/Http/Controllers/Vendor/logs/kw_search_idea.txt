@@ -1,0 +1,130 @@
+App\KwSearchIdea Object
+(
+    [table:protected] => kw_search_ideas
+    [primaryKey:protected] => id
+    [fillable:protected] => Array
+        (
+            [0] => kw_search_id
+            [1] => campaign_id
+            [2] => user_id
+            [3] => search_term
+            [4] => category
+            [5] => location_id
+            [6] => language_id
+            [7] => competition
+            [8] => competition_index
+            [9] => sv
+            [10] => page_bid_low
+            [11] => page_bid_high
+            [12] => sv_trend
+            [13] => status
+        )
+
+    [connection:protected] => mysql
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [attributes:protected] => Array
+        (
+            [id] => 1339800
+            [kw_search_id] => 8050
+            [campaign_id] => 
+            [user_id] => 31529
+            [search_term] => imark
+            [category] => 1
+            [location_id] => 0
+            [language_id] => 0
+            [competition] => 2
+            [competition_index] => 2
+            [sv] => 8100
+            [page_bid_low] => 0
+            [page_bid_high] => 5
+            [sv_trend] => [{"year":2021,"month":7,"monthly_search":8100},{"year":2021,"month":8,"monthly_search":8100},{"year":2021,"month":9,"monthly_search":8100},{"year":2021,"month":10,"monthly_search":8100},{"year":2021,"month":11,"monthly_search":8100},{"year":2021,"month":12,"monthly_search":9900},{"year":2021,"month":13,"monthly_search":8100},{"year":2022,"month":2,"monthly_search":8100},{"year":2022,"month":3,"monthly_search":8100},{"year":2022,"month":4,"monthly_search":9900},{"year":2022,"month":5,"monthly_search":8100},{"year":2022,"month":6,"monthly_search":9900}]
+            [status] => 1
+            [created_at] => 2022-06-21 11:24:15
+            [updated_at] => 2022-06-21 11:24:15
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 1339800
+            [kw_search_id] => 8050
+            [campaign_id] => 
+            [user_id] => 31529
+            [search_term] => imark
+            [category] => 1
+            [location_id] => 0
+            [language_id] => 0
+            [competition] => 2
+            [competition_index] => 2
+            [sv] => 8100
+            [page_bid_low] => 0
+            [page_bid_high] => 5
+            [sv_trend] => [{"year":2021,"month":7,"monthly_search":8100},{"year":2021,"month":8,"monthly_search":8100},{"year":2021,"month":9,"monthly_search":8100},{"year":2021,"month":10,"monthly_search":8100},{"year":2021,"month":11,"monthly_search":8100},{"year":2021,"month":12,"monthly_search":9900},{"year":2021,"month":13,"monthly_search":8100},{"year":2022,"month":2,"monthly_search":8100},{"year":2022,"month":3,"monthly_search":8100},{"year":2022,"month":4,"monthly_search":9900},{"year":2022,"month":5,"monthly_search":8100},{"year":2022,"month":6,"monthly_search":9900}]
+            [status] => 1
+            [created_at] => 2022-06-21 11:24:15
+            [updated_at] => 2022-06-21 11:24:15
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [classCastCache:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [timestamps] => 1
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [guarded:protected] => Array
+        (
+            [0] => *
+        )
+
+)

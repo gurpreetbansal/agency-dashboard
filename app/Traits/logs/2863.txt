@@ -1,0 +1,29 @@
+Array
+(
+    [0] => https://ardenpalmbeach.com
+    [1] => https://ardenpalmbeach.com/arden
+    [2] => https://ardenpalmbeach.com/cresswind
+    [3] => https://ardenpalmbeach.com/blog
+    [4] => https://ardenpalmbeach.com/testimonials
+    [5] => https://ardenpalmbeach.com/contact
+    [6] => https://ardenpalmbeach.com/featured-communities
+    [7] => https://ardenpalmbeach.com/our-team
+    [8] => https://ardenpalmbeach.com/arden/agrihood
+    [9] => https://ardenpalmbeach.com/arden/amenities
+    [10] => https://ardenpalmbeach.com/arden/location
+    [11] => https://ardenpalmbeach.com/arden/builders
+    [12] => https://ardenpalmbeach.com/cresswind/cresswind-builder
+    [13] => https://ardenpalmbeach.com/deborah-anderson-realty
+    [14] => https://ardenpalmbeach.com/westlake-community-coming-soon
+    [15] => https://ardenpalmbeach.com/avenir-community-coming-soon
+    [16] => https://ardenpalmbeach.com/arden/move-in-ready-homes
+    [17] => https://ardenpalmbeach.com/arden-news/2020-merit-award-winner
+    [18] => https://ardenpalmbeach.com/arden-news/lennar-new-collection-arcadia
+    [19] => https://ardenpalmbeach.com/arden-news/welcome-to-the-agrihoodwelcome-to-arden
+    [20] => https://ardenpalmbeach.com/arden-news/2020-gold-award-for-best-amenity
+    [21] => https://ardenpalmbeach.com/arden-news/arden-receives-grand-award-for-best-community-of-the-year-and-more
+    [22] => https://www.ardenpalmbeach.com/wp-content/uploads/2020/05/Arden_AllPlansEBR.pdf
+    [23] => https://www.ardenpalmbeach.com/wp-content/uploads/2019/01/Arden-Homeowners-Information.pdf
+    [24] => https://www.ardenpalmbeach.com/wp-content/uploads/2019/01/Arden-Brochure-Lennar-Homes.pdf
+    [25] => https://ardenpalmbeach.com
+)

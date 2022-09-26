@@ -1,0 +1,15 @@
+Array
+(
+    [0] => https://aaateatowels.com.au
+    [1] => https://aaateatowels.com.au/blog
+    [2] => https://aaateatowels.com.au/linen-suppliers
+    [3] => https://aaateatowels.com.au/commercial-laundry
+    [4] => https://aaateatowels.com.au/ironing-service
+    [5] => https://aaateatowels.com.au/%3Fpage%3Dcontact
+    [6] => https://aaateatowels.com.au/%3Fpage%3Dgallery
+    [7] => https://aaateatowels.com.au/curtain-dry-cleaning
+    [8] => https://aaateatowels.com.au/table-cloth-hire
+    [9] => https://aaateatowels.com.au/tea-towel-services
+    [10] => /search%3Fq%3Dsite:https://aaateatowels.com.au/%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+    [11] => https://aaateatowels.com.au
+)

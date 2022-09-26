@@ -1,0 +1,36 @@
+Array
+(
+    [request_id] => 3451
+    [keyword_id] => 148336
+    [position_type] => 0
+    [position] => 0
+    [updated_at] => Illuminate\Support\Carbon Object
+        (
+            [endOfTime:protected] => 
+            [startOfTime:protected] => 
+            [constructedObjectId:protected] => 000000007ea57f65000000007519d681
+            [localMonthsOverflow:protected] => 
+            [localYearsOverflow:protected] => 
+            [localStrictModeEnabled:protected] => 
+            [localHumanDiffOptions:protected] => 
+            [localToStringFormat:protected] => 
+            [localSerializer:protected] => 
+            [localMacros:protected] => 
+            [localGenericMacros:protected] => 
+            [localFormatFunction:protected] => 
+            [localTranslator:protected] => 
+            [dumpProperties:protected] => Array
+                (
+                    [0] => date
+                    [1] => timezone_type
+                    [2] => timezone
+                )
+
+            [dumpLocale:protected] => 
+            [dumpDateProperties:protected] => 
+            [date] => 2022-09-26 05:47:24.688903
+            [timezone_type] => 3
+            [timezone] => UTC
+        )
+
+)

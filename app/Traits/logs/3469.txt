@@ -1,0 +1,10 @@
+Array
+(
+    [0] => https://irepairmobiles.co.uk
+    [1] => https://irepairmobiles.co.uk/contact-us
+    [2] => https://irepairmobiles.co.uk/hello-world
+    [3] => https://irepairmobiles.co.uk/index.php/sitemap
+    [4] => https://irepairmobiles.co.uk/index.php/about-us
+    [5] => https://irepairmobiles.co.uk
+    [6] => https://irepairmobiles.co.uk/about-us
+)

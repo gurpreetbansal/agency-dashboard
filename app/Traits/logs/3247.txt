@@ -1,0 +1,29 @@
+Array
+(
+    [0] => https://www.businessacademy-online.com
+    [1] => https://www.businessacademy-online.com/about
+    [2] => https://www.businessacademy-online.com/contact
+    [3] => https://www.businessacademy-online.com/blog
+    [4] => https://www.businessacademy-online.com/courses
+    [5] => https://www.businessacademy-online.com/cips-training
+    [6] => https://www.businessacademy-online.com/ekman-courses
+    [7] => https://www.businessacademy-online.com/recommended-reading
+    [8] => https://www.businessacademy-online.com/procurement-training
+    [9] => https://www.businessacademy-online.com/emotional-intelligence-courses
+    [10] => https://www.businessacademy-online.com/legal-information/cookies-policy
+    [11] => https://www.businessacademy-online.com/cips-training/diploma-training
+    [12] => https://www.businessacademy-online.com/legal-information/privacy-policy
+    [13] => https://www.businessacademy-online.com/benefits-of-cips-qualifications
+    [14] => https://www.businessacademy-online.com/legal-information/copyright-notice
+    [15] => https://www.businessacademy-online.com/cips-training/advanced-diploma-training
+    [16] => https://www.businessacademy-online.com/cips-training/advanced-certificate-training
+    [17] => https://www.businessacademy-online.com/cips-training/professional-diploma-training
+    [18] => https://www.businessacademy-online.com/three-nonverbal-tips-for-negotiation
+    [19] => https://www.businessacademy-online.com/legal-information/terms-and-conditions
+    [20] => https://www.businessacademy-online.com/we-are-now-on-youtube
+    [21] => https://www.businessacademy-online.com/4-scientific-reasons-you-should-travel
+    [22] => https://www.businessacademy-online.com/tips-for-the-day-of-your-exam
+    [23] => https://www.businessacademy-online.com/the-role-of-critical-analysis-and-research
+    [24] => https://www.businessacademy-online.com
+    [25] => https://www.businessacademy-online.com/cips-training/live-classes-timetable
+)

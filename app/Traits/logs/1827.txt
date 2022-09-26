@@ -1,0 +1,14 @@
+Array
+(
+    [0] => https://www.lknsaltspa.com
+    [1] => https://www.lknsaltspa.com/infraredsalt
+    [2] => https://www.lknsaltspa.com/packagesandprices
+    [3] => https://www.lknsaltspa.com/halotherapy
+    [4] => https://www.lknsaltspa.com/clientforms
+    [5] => https://www.lknsaltspa.com/about
+    [6] => https://www.lknsaltspa.com/contact
+    [7] => https://www.lknsaltspa.com/faq
+    [8] => https://www.lknsaltspa.com/massage
+    [9] => https://www.lknsaltspa.com/theteam
+    [10] => https://www.lknsaltspa.com
+)

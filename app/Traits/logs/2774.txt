@@ -1,0 +1,15 @@
+Array
+(
+    [0] => https://xonylons.com
+    [1] => https://xonylons.com/shop
+    [2] => https://xonylons.com/news
+    [3] => https://xonylons.com/our-story
+    [4] => https://xonylons.com/shop/p/medium-thickness-subscription-box
+    [5] => https://xonylons.com/shop/p/highest-thickness-subscription-box
+    [6] => https://xonylons.com/shop/p/medium-subscription-box-wg8ws-3h4lw
+    [7] => https://xonylons.com/news/the-perfect-tights-for-all-occasions
+    [8] => https://xonylons.com/shop/p/highest-thickness-subscription-box-non-recurring
+    [9] => https://xonylons.com/shop/p/medium-thickness-subscription-box-non-recurring
+    [10] => https://xonylons.com
+    [11] => https://xonylons.com/cart
+)

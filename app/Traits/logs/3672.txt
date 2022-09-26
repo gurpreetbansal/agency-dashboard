@@ -1,0 +1,11 @@
+Array
+(
+    [0] => https://www.prettytipz.shop/product-page/freedom
+    [1] => https://www.prettytipz.shop/product-page/candy
+    [2] => https://www.prettytipz.shop/practice-finger
+    [3] => https://www.prettytipz.shop/product-page/lovely
+    [4] => https://www.prettytipz.shop/product-page/purple-fantasy
+    [5] => https://www.prettytipz.shop/product-page/pink-barbz
+    [6] => https://www.prettytipz.shop/product-page/3d-kawaii-charms-19pc
+    [7] => https://www.prettytipz.shop/product-page/3d-ice-cube-2pc-1
+)

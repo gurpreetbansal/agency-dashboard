@@ -1,0 +1,23 @@
+Array
+(
+    [0] => https://hypex.com.au
+    [1] => https://hypex.com.au/blogs
+    [2] => https://hypex.com.au/portfolio
+    [3] => https://hypex.com.au/about
+    [4] => https://hypex.com.au/services
+    [5] => https://hypex.com.au/contact
+    [6] => http://glowingtherapy.hypex.com.au/about-us
+    [7] => https://hypex.com.au/google-adwords-agency-melbourne
+    [8] => https://hypex.com.au/website-design-company-melbourne
+    [9] => https://hypex.com.au/ppc-management-agency-melbourne
+    [10] => http://glowingtherapy.hypex.com.au/portfolio/azure-emerald
+    [11] => https://hypex.com.au/best-seo-company-in-melbourne
+    [12] => https://hypex.com.au/social-media-marketing-agency-melbourne
+    [13] => https://hypex.com.au/custom-web-design-agency-melbourne
+    [14] => https://hypex.com.au/geofencing-for-effective-local-ads
+    [15] => https://hypex.com.au/digital-marketing-agency-in-melbourne
+    [16] => https://hypex.com.au/how-to-analyze-your-websites-seo-health
+    [17] => https://hypex.com.au/how-to-use-digital-marketing-for-your-online-store
+    [18] => https://hypex.com.au
+    [19] => http://hypex.com.au/contact
+)

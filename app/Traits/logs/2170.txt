@@ -1,0 +1,24 @@
+Array
+(
+    [0] => https://fwagronomy.com.au
+    [1] => https://fwagronomy.com.au/product
+    [2] => https://fwagronomy.com.au/product_category/qmin
+    [3] => https://fwagronomy.com.au/news-articles
+    [4] => https://fwagronomy.com.au/about-us
+    [5] => https://fwagronomy.com.au/product_category/agnition
+    [6] => https://fwagronomy.com.au/contact-us
+    [7] => https://fwagronomy.com.au/product_category/farm-qa
+    [8] => https://fwagronomy.com.au/product_category/amity-technology
+    [9] => https://fwagronomy.com.au/product_category/fw-armament
+    [10] => https://fwagronomy.com.au/farm-qa/farm-management-software
+    [11] => https://fwagronomy.com.au/uncategorized/farm-software-for-horticulture
+    [12] => https://fwagronomy.com.au/product/qmin-magnesium-3-0
+    [13] => https://fwagronomy.com.au/product/qmin-zinc-7-5
+    [14] => https://fwagronomy.com.au/uncategorized/cutting-the-cost-of-high-fertiliser-prices
+    [15] => https://fwagronomy.com.au/uncategorized/farmqa-recognised-as-one-of-the-best-agriculture-apps-for-2022
+    [16] => https://fwagronomy.com.au/wp-content/uploads/2021/07/QMIN-MANGANESE-E-BROCHURE.pdf
+    [17] => https://fwagronomy.com.au/wp-content/uploads/2021/07/QMIN-MAGNESIUM-E-BROCHURE-2.pdf
+    [18] => https://fwagronomy.com.au/wp-content/uploads/2021/07/Can-Osmolytes-reduce-the-impact-of-Drought.pdf
+    [19] => https://fwagronomy.com.au
+    [20] => https://fwagronomy.com.au/products
+)

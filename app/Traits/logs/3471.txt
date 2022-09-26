@@ -1,0 +1,29 @@
+Array
+(
+    [0] => https://www.jmmagic.com
+    [1] => https://www.jmmagic.com/blog
+    [2] => https://www.jmmagic.com/about
+    [3] => https://www.jmmagic.com/facepaintingbyaudra
+    [4] => https://www.jmmagic.com/communion
+    [5] => https://www.jmmagic.com/performances
+    [6] => https://www.jmmagic.com/reviews
+    [7] => https://www.jmmagic.com/private-party
+    [8] => https://www.jmmagic.com/stilt-walking
+    [9] => https://www.jmmagic.com/school-library
+    [10] => https://www.jmmagic.com/strolling-magic
+    [11] => https://www.jmmagic.com/audience-reactions
+    [12] => https://www.jmmagic.com/magic-videos
+    [13] => https://www.jmmagic.com/web-accessibility
+    [14] => https://www.jmmagic.com/corporate-events
+    [15] => https://www.jmmagic.com/zoom-magic
+    [16] => https://www.jmmagic.com/contact-us
+    [17] => https://www.jmmagic.com/birthday-party
+    [18] => https://www.jmmagic.com/schedule-performance
+    [19] => https://www.jmmagic.com/traveling-truck-magic
+    [20] => https://www.jmmagic.com/cub-scout-magic
+    [21] => https://www.jmmagic.com/fairs-festivals-magic
+    [22] => https://www.jmmagic.com/strolling-magic-3
+    [23] => https://www.jmmagic.com/thank-you-for-contacting-us
+    [24] => https://www.jmmagic.com/top-10-reasons-to-hire-a-magician
+    [25] => https://jmmagic.com
+)

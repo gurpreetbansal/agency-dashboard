@@ -1,0 +1,16 @@
+Array
+(
+    [0] => https://frankstransmissionsautorepair.com
+    [1] => https://frankstransmissionsautorepair.com/reviews
+    [2] => https://frankstransmissionsautorepair.com/about
+    [3] => https://frankstransmissionsautorepair.com/offers
+    [4] => https://frankstransmissionsautorepair.com/thank-you
+    [5] => https://frankstransmissionsautorepair.com/transmission-replacement
+    [6] => https://frankstransmissionsautorepair.com/general-mechanics
+    [7] => https://frankstransmissionsautorepair.com/transmission-repair
+    [8] => https://frankstransmissionsautorepair.com/manual-transmission-repair
+    [9] => https://frankstransmissionsautorepair.com/auto-transmission-repair
+    [10] => https://frankstransmissionsautorepair.com/franks-transmissions-lancaster
+    [11] => https://frankstransmissionsautorepair.com/franks-transmissions-lake-isabella
+    [12] => https://frankstransmissionsautorepair.com
+)

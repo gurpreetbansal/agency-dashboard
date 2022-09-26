@@ -1,0 +1,13 @@
+Array
+(
+    [0] => https://panamajoes.net
+    [1] => https://panamajoes.net/brunch
+    [2] => https://panamajoes.net/drinks
+    [3] => https://panamajoes.net/contact
+    [4] => https://panamajoes.net/food
+    [5] => https://panamajoes.net/sports
+    [6] => https://panamajoes.net/accessibility-statement
+    [7] => https://panamajoes.net/happy-hour
+    [8] => https://panamajoes.net/e-club
+    [9] => https://panamajoes.net
+)

@@ -1,0 +1,25 @@
+Array
+(
+    [0] => https://highlandfamilydentistry.net
+    [1] => https://highlandfamilydentistry.net/technology
+    [2] => https://highlandfamilydentistry.net/testimonials
+    [3] => https://highlandfamilydentistry.net/services
+    [4] => https://highlandfamilydentistry.net/patient-forms
+    [5] => https://highlandfamilydentistry.net/services/invisalign
+    [6] => https://highlandfamilydentistry.net/contact-us
+    [7] => https://highlandfamilydentistry.net/meet-the-team
+    [8] => https://highlandfamilydentistry.net/services/cosmetic-services
+    [9] => https://highlandfamilydentistry.net/why-choose-us
+    [10] => https://highlandfamilydentistry.net/services/dental-appliances
+    [11] => https://highlandfamilydentistry.net/services/emergency-care
+    [12] => https://highlandfamilydentistry.net/online-bill-pay
+    [13] => https://highlandfamilydentistry.net/services/restorative-dentistry
+    [14] => https://highlandfamilydentistry.net/services/mouth-devices
+    [15] => https://highlandfamilydentistry.net/services/oral-hygiene-products
+    [16] => https://highlandfamilydentistry.net/services/hygiene-and-general-dentistry
+    [17] => https://www.highlandfamilydentistry.net/1/268/files/HIPAAprivacy.pdf
+    [18] => https://highlandfamilydentistry.net/wp-content/uploads/2020/05/PatientRegistration.pdf
+    [19] => https://highlandfamilydentistry.net/wp-content/uploads/2020/05/MedicalHistory.pdf
+    [20] => /search%3Fq%3Dsite:https://highlandfamilydentistry.net/%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+    [21] => https://highlandfamilydentistry.net
+)

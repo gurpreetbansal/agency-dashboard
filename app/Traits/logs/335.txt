@@ -1,0 +1,16 @@
+Array
+(
+    [0] => https://prepatx.com
+    [1] => https://prepatx.com/amenities
+    [2] => https://prepatx.com/about
+    [3] => https://prepatx.com/kitchens
+    [4] => https://prepatx.com/prep-blog
+    [5] => https://prepatx.com/prep-members
+    [6] => https://prepatx.com/qa
+    [7] => https://prepatx.com/blog-local-food
+    [8] => https://prepatx.com/prep-commercial-kitchens-comes-austin-texas
+    [9] => https://prepatx.com/prep-is-best-option-for-ghost-kitchen-restaurant
+    [10] => https://prepatx.com/atlanta-based-culinary-accelerator-prep-announces-new-state-art-permit-ready-kitchen-facilities
+    [11] => https://prepatx.com
+    [12] => https://prepatx.com/eat-at-prep
+)

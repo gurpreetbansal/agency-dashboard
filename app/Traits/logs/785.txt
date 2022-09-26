@@ -1,0 +1,17 @@
+Array
+(
+    [0] => https://stuartplumbing.ca
+    [1] => https://stuartplumbing.ca/testimonials
+    [2] => https://stuartplumbing.ca/blog
+    [3] => https://stuartplumbing.ca/about-us
+    [4] => https://stuartplumbing.ca/services-offered
+    [5] => https://stuartplumbing.ca/contact-us
+    [6] => https://stuartplumbing.ca/plumbing-services-surrey
+    [7] => https://stuartplumbing.ca/gas-fitter-surrey
+    [8] => https://stuartplumbing.ca/drain-cleaning-services-surrey
+    [9] => https://stuartplumbing.ca/tankless-water-heater-services-surrey
+    [10] => https://stuartplumbing.ca/how-to-fix-file-system-error-2144927439-microsoft
+    [11] => https://stuartplumbing.ca/learn-how-a-professional-plumber-efficiently-unblock-a-sink
+    [12] => /search%3Fq%3Dsite:https://stuartplumbing.ca/%26num%3D50%26safe%3Dhigh%26client%3Dms-google-coop%26cx%3De670fa3861a3fdac5%26ie%3DUTF-8%26filter%3D0
+    [13] => https://stuartplumbing.ca
+)

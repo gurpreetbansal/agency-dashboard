@@ -1,0 +1,20 @@
+Array
+(
+    [0] => https://buffalosecurity.com.au
+    [1] => https://buffalosecurity.com.au/gallery
+    [2] => https://buffalosecurity.com.au/about-us
+    [3] => https://buffalosecurity.com.au/service/cctv
+    [4] => https://buffalosecurity.com.au/service/intercoms
+    [5] => https://buffalosecurity.com.au/service/monitoring
+    [6] => https://buffalosecurity.com.au/service/alarms
+    [7] => https://buffalosecurity.com.au/other-services
+    [8] => https://buffalosecurity.com.au/contact-page
+    [9] => https://buffalosecurity.com.au/service/access-control
+    [10] => https://buffalosecurity.com.au/service/boom-gates
+    [11] => https://buffalosecurity.com.au/service/wirelss-network-solutions
+    [12] => https://buffalosecurity.com.au/service/speaker-and-home-sound
+    [13] => https://buffalosecurity.com.au/service/custom-bollards-and-camera-posts
+    [14] => https://buffalosecurity.com.au/service/remote-controled-boat-slip-way
+    [15] => https://buffalosecurity.com.au/service/auto-opening-doors-disability-access
+    [16] => https://buffalosecurity.com.au
+)

@@ -1,0 +1,14 @@
+Array
+(
+    [0] => https://www.artsyeinstein.com
+    [1] => https://www.artsyeinstein.com/about
+    [2] => https://www.artsyeinstein.com/blog
+    [3] => https://www.artsyeinstein.com/contact-us
+    [4] => https://www.artsyeinstein.com/our-process
+    [5] => https://www.artsyeinstein.com/our-product
+    [6] => https://www.artsyeinstein.com/featured-photo-collages
+    [7] => https://www.artsyeinstein.com/frequently-asked-questions
+    [8] => https://www.artsyeinstein.com/meet-the-team
+    [9] => https://www.artsyeinstein.com/shop/places/alaska
+    [10] => https://artsyeinstein.com
+)

@@ -1,0 +1,18 @@
+Array
+(
+    [0] => https://www.reiskip.com
+    [1] => https://www.reiskip.com/pricing
+    [2] => https://www.reiskip.com/faq
+    [3] => https://www.reiskip.com/blog
+    [4] => https://www.reiskip.com/uncommon
+    [5] => https://www.reiskip.com/how-it-works
+    [6] => https://www.reiskip.com/tag/affiliates
+    [7] => https://www.reiskip.com/tag/education
+    [8] => https://www.reiskip.com/wholesale-real-estate
+    [9] => https://www.reiskip.com/driving-for-dollars
+    [10] => https://www.reiskip.com/social-skip-tracing
+    [11] => https://www.reiskip.com/tag/skip-tracing
+    [12] => https://www.reiskip.com/real-estate-skip-tracing
+    [13] => https://www.reiskip.com/reiskip-vs-batch-skiptracking
+    [14] => https://www.reiskip.com
+)
